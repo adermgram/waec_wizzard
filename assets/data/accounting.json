@@ -1,0 +1,3004 @@
+{
+ "2000": [
+  {
+   "question": "The current assets of a business are made up of",
+   "options": [
+    "cash and bank balances only",
+    "fixed assets only",
+    "cash and bank balances and current liabilities",
+    "cash and bank balances and debtors"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following are sources of revenue to state government in Nigeria?\nI Statutory allocation\nII Fines from customary courts\nIII Petroleum tax\nIV Income tax",
+   "options": [
+    "I and II only",
+    "II and III",
+    "I and IV",
+    "III and IV"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Eko Local Government expenditure\nHospital building ---------------------- N200,000\nDrugs ---------------------------------- N180,000\nHospital beds and mattresses ------------ N40,000\nDoctors' and nurses' salaries ---------- N120,000\nAdministrative expenses ----------------- N50,000\nCapital expenditure is",
+   "options": [
+    "N420,000",
+    "N380,000",
+    "N240,000",
+    "N200,000"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Eko Local Government expenditure\nHospital building ---------------------- N200,000\nDrugs ---------------------------------- N180,000\nHospital beds and mattresses ------------ N40,000\nDoctors' and nurses' salaries ---------- N120,000\nAdministrative expenses ----------------- N50,000\nRecurrent expenditure is",
+   "options": [
+    "N390,000",
+    "N360,000",
+    "N350,000",
+    "N170,000"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A government accounting systems must make sure that",
+   "options": [
+    "revenue exceeds expenditure",
+    "all applicable legal provisions are complied with",
+    "capital expenditure is equal to revenue",
+    "capital project fund is tied to recurrent expenditure"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The most important reason for studying accounting is that",
+   "options": [
+    "the information provided by accounting is useful in making decision",
+    "Accounting plays an important role in the society",
+    "the study of Accounting leads to challenging career",
+    "Accounting provides gross profit information"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In preparing accounting records, the owner of a business and the business are treated as",
+   "options": [
+    "the same person",
+    "having business relationship",
+    "separate legal entities",
+    "partners"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Creditors use Accounting information for the purpose of",
+   "options": [
+    "planning sales to a company",
+    "controlling a company's affairs",
+    "investing in a company",
+    "assessing a company's liquidity"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The instrument that are generated when firms enter into business transactions with others are called",
+   "options": [
+    "purchase document",
+    "journals",
+    "source documents",
+    "invoices"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The document that is used to acknowledge the acceptance of the return of goods by the seller from the buyer is known as",
+   "options": [
+    "credit note",
+    "debit note",
+    "invoice",
+    "voucher"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The effect of the payment of liability is that it",
+   "options": [
+    "increase both assets and liabilities",
+    "increase assets and decrease liabilities",
+    "decrease assets and increase liabilities",
+    "decrease both assets and liabilities"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Books of original entry are used for",
+   "options": [
+    "recording business transactions",
+    "the adjustment of accounts",
+    "reminding the book keeping to post transactions in the ledger",
+    "informing the bookkeeper about the state of affairs"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'posting' in Accounting refers to",
+   "options": [
+    "recording entries in the journal",
+    "transferring the balance in the ledger to the trial balance",
+    "tracing amounts from the journal to the ledger to find errors",
+    "transferring entries to the ledger from the journal"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Erroneous rearrangement of financial figures such as writing N624 as N 264 is called",
+   "options": [
+    "transposition",
+    "principle",
+    "commission",
+    "omission"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following demonstrates the imprest system?",
+   "options": [
+    "Float → expenses paid → cash in bank → float",
+    "Float → cash from bank → expenses paid → float",
+    "Float → expenses paid→ cash from bank → float",
+    "Float → cash in bank → expenses paid → float"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "When the sum of money appears on the credit side of the cash book, but not on the debit side of the bank statement, the sum is regarded as",
+   "options": [
+    "uncredited cheques",
+    "dishonoured cheques",
+    "direct remittance to the bank",
+    "unpresented cheques"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "An examination of the cash book on 3rd August 1993 showed a different balance from the bank statement of 31st July, 1993 which read N722. Uncredited cheques were Bimpe N40; Wale N60 while unpresented cheques were; Usman N20, Kalu N32 and Musa N70. What is the cash book balance after the reconciliation?",
+   "options": [
+    "N700",
+    "N770",
+    "N800",
+    "N822"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "On the 30/5/93 Tolu & Co. paid 2 years rent of N50,000 which was debited to the rent account. At 31/12/93, what portion of that amount was prepaid?",
+   "options": [
+    "N14,583",
+    "N25,000",
+    "N35,417",
+    "N37,415"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "On the 30/5/93 Tolu & Co. paid 2 years rent of N50,000 which was debited to the rent account. The adjustment needed as at 31st December 1993 is?",
+   "options": [
+    "debit rent account and credited adjustment account",
+    "debit prepayment account and credit rent account",
+    "debit rent account and credit prepayment account",
+    "debit adjustment account and credit prepayment account"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The receipt of cash from a customer who bought goods with N800 list price, 25% trade discount and 2/10, n/30 terms would, if paid within the discount period, amount to",
+   "options": [
+    "N576",
+    "N588",
+    "N600",
+    "N624"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "At the end of a financial period, the trading profit and loss account of a company showed a profit of N120,000. It was however discovered that revenue of N12,000 was recorded as expenses while expenses of N4,000 had been recorded as revenue. What should be the correct profit for the period?",
+   "options": [
+    "N104,000",
+    "N128,000",
+    "N136,000",
+    "N144,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Given:\nNet profit-----------------------N25,000\nCost of sale---------------------N25,000\nSales----------------------------N85,000\nDetermine the total expenses.",
+   "options": [
+    "N45,000",
+    "N35,000",
+    "N25,000",
+    "N15,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Given: capital N13,000; office machinery, N9,000; creditors N900, stock of goods N1,550; debtors, N275; cash at bank, N5,075 and loan from Jumbo, N2,000. What is the balance sheet total?",
+   "options": [
+    "N19,500",
+    "N18,500",
+    "N17,900",
+    "N15,900"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The records of wages due but not yet paid is an example of an adjustment for",
+   "options": [
+    "apportionment of revenue between two periods",
+    "recognizing accrued expenses",
+    "recognizing unaccounted revenue",
+    "recognizing prepaid expenses"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The process of allocating the cost of an intangible assets over its useful life is known as",
+   "options": [
+    "depreciation",
+    "extraction",
+    "depletion",
+    "amortization"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The principle use of control accounts is to",
+   "options": [
+    "localize error within the ledger",
+    "prevent fraud",
+    "increase sales",
+    "record assets and liabilities"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In the absence of a sales day book or sales account the credit for sales can be computed from",
+   "options": [
+    "creditors control account",
+    "debtors control account",
+    "opening figures of the balance sheet",
+    "closing figures of the balance sheet"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following conditions best represents the net effect of discount allowed on credit sales on the accounts of the business?",
+   "options": [
+    "decrease in the closing balance of sales ledger control account",
+    "increase in net profit",
+    "increase in the value of sales",
+    "decrease in the value of purchases in the trading account"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The total of the creditors at the beginning of the year was N4,600 and at the end of the year N5,250. During the year, N26,500 was paid to suppliers and N130 was received in discounts from these suppliers. The purchases for the year would be",
+   "options": [
+    "N26,630",
+    "N27,038",
+    "N27,150",
+    "N27,280"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The Act establishing the institute of Chartered Accountants of Nigeria (ICAN) came into force on?",
+   "options": [
+    "Ist September, 1960",
+    "Ist October, 1960",
+    "Ist October, 1963",
+    "Ist , September, 1965"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Cost reports for the intention of management should reflect?",
+   "options": [
+    "as much details as possible",
+    "summary figures only",
+    "details of non-controllable expenses",
+    "cost and comparable data useful in decision-making"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Responsibility accounting is particularly concerned with?",
+   "options": [
+    "historical accounting",
+    "controllable costs",
+    "storekeeping",
+    "valuation of stock"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An advantage of the use of the voucher system is that it?",
+   "options": [
+    "reduces the number of cheques that will be written during any given period",
+    "provides a highly flexible system for handling unusual transactions",
+    "provides a comprehensive record of business done with particular suppliers",
+    "ensure that every expenditure is reviewed and verified before payment is made"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A business transaction is recorded in the books of account when the?",
+   "options": [
+    "owner of the business invests his N10,000 in another company",
+    "business retains part of its profits for future expansion purposes",
+    "business applies for overdraft facilities from its bankers",
+    "owner of the business collects N5,000 from the accountant"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "When a transaction causes an asset account to increase, there is?",
+   "options": [
+    "a decrease of equal amount in the owner's equity account",
+    "an increase in a liability account",
+    "an increase of equal amount in another asset account",
+    "a decrease of equal amount in a liability account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In preparing a trial balance from the list of balances given below, what is the total in debit and credit columns?\nBank account 59,410\nCapital account 50,000\nPurchase account 20,000\nRent 2,500\nStationery 90\ntypewriter 6,500\nSales 38,000",
+   "options": [
+    "N147,910",
+    "N138,500",
+    "N88,500",
+    "N85,800"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The purchase of two generators by Hassan Electronics Enterprises should be recorded as?",
+   "options": [
+    "an acquisition of fixed assets",
+    "an expense in its general office expenses account",
+    "an acquisition of stock",
+    "a part of capital in the capital account"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If the inventory at the end of the current year is understated and the error is not caught during the following year, the effect is to?",
+   "options": [
+    "overstate income this year and understate in next year",
+    "understate income this year and overstate in next year",
+    "understate this year's income with no effect on the next year's",
+    "overstate the income for the two-year period"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The total of the discounts received column in the cash book is posted to the?",
+   "options": [
+    "credit of the discounts received account",
+    "debit of the discounts allowed account",
+    "credit of the discounts allowed account",
+    "debit of the discounts received account"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Use the information below to answer questions 112 and 113.\nThe initial imprest as at July 1st was N500. Petty cash vouchers with the custodian by July 15th added up to N394. An IOU slip received from a co-worker was N65 and there was a shortage of N5 cash. The co-worker made refund on July 18th just before the imprest was replenished.\nWhat was the actual cash in the till as at 15th July?",
+   "options": [
+    "N106",
+    "N101",
+    "N70",
+    "N36"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The amount required to replenish the payments made from the imprest was?",
+   "options": [
+    "N399",
+    "N394",
+    "N358",
+    "N101"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the main purpose of a trial balance?",
+   "options": [
+    "To check the arithmetical accuracy of ledger accounts",
+    "To calculate the net profit",
+    "To determine the value of closing stock",
+    "To prepare the balance sheet"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In accounting, the prudence concept means?",
+   "options": [
+    "Revenue should not be recognized until it is earned",
+    "Expenses should be matched with revenues",
+    "Potential expenses and liabilities should be anticipated",
+    "Transactions should be recorded at historical cost"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "What is the double-entry for recording accrued expenses?",
+   "options": [
+    "Debit Expense Account, Credit Accrued Expense Account",
+    "Debit Accrued Expense Account, Credit Expense Account",
+    "Debit Cash Account, Credit Expense Account",
+    "Debit Expense Account, Credit Cash Account"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The revaluation reserve is created when?",
+   "options": [
+    "Fixed assets are sold",
+    "Fixed assets are revalued upwards",
+    "Inventory is revalued",
+    "Investments are sold at a profit"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which financial statement shows the financial position of a company at a specific point in time?",
+   "options": [
+    "Income Statement",
+    "Cash Flow Statement",
+    "Balance Sheet",
+    "Statement of Changes in Equity"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Depreciation is?",
+   "options": [
+    "The increase in value of an asset",
+    "The allocation of the cost of an asset over its useful life",
+    "The decrease in value of an asset due to market conditions",
+    "The physical deterioration of an asset"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The matching concept in accounting states that?",
+   "options": [
+    "Expenses should be matched with the revenues they help to generate",
+    "Revenues should be recorded when they are earned",
+    "Expenses should be recorded when they are paid",
+    "Assets should be matched with liabilities"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is not considered a current asset?",
+   "options": [
+    "Cash",
+    "Inventory",
+    "Accounts Receivable",
+    "Equipment"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "When a company makes a provision for doubtful debts, it is applying which accounting principle?",
+   "options": [
+    "Going Concern",
+    "Consistency",
+    "Prudence",
+    "Materiality"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2001": [
+  {
+   "question": "The main objective of financial accounting is to?",
+   "options": [
+    "Provide information for decision making",
+    "Assist in tax preparation",
+    "Track business expenses",
+    "Ensure compliance with regulations"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is goodwill in accounting?",
+   "options": [
+    "The total value of a company's assets",
+    "The excess of the purchase price over the fair value of an acquired company's net assets",
+    "The amount of profit a company earns",
+    "The value of a company's brand"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which ratio measures a company's ability to pay short-term obligations?",
+   "options": [
+    "Debt to Equity Ratio",
+    "Current Ratio",
+    "Return on Equity",
+    "Earnings Per Share"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The accrual basis of accounting recognizes revenues and expenses when?",
+   "options": [
+    "Cash is received or paid",
+    "Revenue is earned and expenses are incurred",
+    "The contract is signed",
+    "The financial statements are prepared"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following is an intangible asset?",
+   "options": [
+    "Land",
+    "Building",
+    "Patent",
+    "Inventory"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which financial statement shows the performance of a company over a period of time?",
+   "options": [
+    "Balance Sheet",
+    "Cash Flow Statement",
+    "Income Statement",
+    "Statement of Financial Position"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following is an example of a financing activity in the cash flow statement?",
+   "options": [
+    "Purchase of inventory",
+    "Sale of equipment",
+    "Payment of dividends",
+    "Receipt of interest income"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which concept states that a business will continue to operate for the foreseeable future?",
+   "options": [
+    "Going Concern",
+    "Consistency",
+    "Accrual",
+    "Prudence"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The accrual concept in accounting requires the recognition of",
+   "options": [
+    "revenue when paid",
+    "expenses when paid",
+    "revenue when earned",
+    "expenses when paid"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following terms is not a book of original entry?",
+   "options": [
+    "Journal",
+    "Ledger",
+    "Invoice",
+    "Cash book"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The accounting equation is represented by",
+   "options": [
+    "Assets = Capital",
+    "Assets = Capital + Liabilities",
+    "Assets = Liabilities",
+    "Assets = Capital - Liabilities"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the correct accounting entry for the purchase of equipment on credit?",
+   "options": [
+    "debit equipment, credit cash",
+    "debit equipment, credit creditors",
+    "debit creditors, credit equipment",
+    "debit cash, credit equipment"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A limited liability company has an authorized share capital of N50 million split into 100 million shares 80 million shares were offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued. What is the issued capital?",
+   "options": [
+    "N40",
+    "N48",
+    "N50",
+    "N80"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The document setting out the regulations regarding shares, meetings and internal organization of a company is known as",
+   "options": [
+    "memorandum of association",
+    "article of association",
+    "prospectus",
+    "company law"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An advantage of using accounting ratios is that they",
+   "options": [
+    "can be easily calculated",
+    "facilitate decision making",
+    "are stipulated by law",
+    "shows error and fraud"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The expenditure on a good or services which is consumed either immediately or within a current accounting period is called",
+   "options": [
+    "fixed expenditure",
+    "capital expenditure",
+    "annual expenditure",
+    "recurrent expenditure"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The receipt from a special tax levy to pay maturing interest obligation are recorded in",
+   "options": [
+    "capital fund project",
+    "Debt Service Fund",
+    "Tax Assessment Fund",
+    "Special Revenue Fund"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The cash basis of accounting requires the recognition of revenue only when they are",
+   "options": [
+    "due",
+    "earned",
+    "paid",
+    "received"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The amount of individual items on a government budget is called",
+   "options": [
+    "vote",
+    "deposit",
+    "loan",
+    "grant"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following factors has aided the development of accounting?",
+   "options": [
+    "The emergence of nation states",
+    "The discovery of mineral resources in commercial quantity",
+    "the growth in size of businesses and separation of ownership and management",
+    "the development and management of sophisticated monetary system"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following concept stipulates that accounting profit is the difference between revenue and expenses?",
+   "options": [
+    "Accrual concept",
+    "Conservatism concept",
+    "Prudence concept",
+    "Materiality concept"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "An effective accounting system should provide information",
+   "options": [
+    "on new product and methods",
+    "for customer feedback and requirement",
+    "on internal and external reporting for managers and third parties",
+    "for promoters, directors, labour union and distributors"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following accounting records are source documents?",
+   "options": [
+    "Journal and ledgers",
+    "Sales invoice and cash book",
+    "Cash book and debit note",
+    "sales invoice and debit note"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Given: Motor van, N3,600, Premises, N5,000; Loan from R. Nwaeke, N1,000; Cash at bank; N1,650; stock of goods N4,800; Creditors, N2,560; Cash in hand, N250 and debtors N6,910. Calculate the capital figure.",
+   "options": [
+    "N19,650",
+    "N18,650",
+    "N17,850",
+    "N16,850"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following transactions is BEST recorded in the general journal?",
+   "options": [
+    "Payment of rent with cheque",
+    "Purchase of stock with cash",
+    "Purchase of an asset on credit terms",
+    "Transfer of cash from head office branch"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Diamond Ringo business was started when Mr. Diamond brought in a cheque of N500,000, which was paid into the bank account. Which of the following entries properly records the transaction?",
+   "options": [
+    "Cash account was credited with N500,000 and capital account was debited with N500,000",
+    "Bank account was debited with N500,000 and capital account was credited with N500,000",
+    "Bank account was accredited with N500,000",
+    "Mr. Diamond account was debited with N500,000 and the cheque account was credited with N500,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "One major advantage of ledger is that it",
+   "options": [
+    "is a book of original entry",
+    "is only accessible to shareholders during liquidation",
+    "removes the need for preparing a balance sheet after each transaction",
+    "can be used by any type of business"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A trial balance is usually prepared by an accountant from account balances in the ledger for the purpose of",
+   "options": [
+    "classifying accounts in the ledger",
+    "testing arithmetical accuracies of the ledger account balances",
+    "identifying the balance sheet items",
+    "providing a basis for establishing the accountant's competence"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What are the advantages of an imprest petty cash book? I. Cheques can be drawn easily II. A cheque on the use of cash III. Liability of the petty cashier is limited to the value of petty cash IV. Losses through the petty cashier can be minimized",
+   "options": [
+    "I, II and III only",
+    "I, II and IV only",
+    "I, III and IV only",
+    "II, III and IV only"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Bola, UTC's regular customer, owed N1,000 on account of a radio bought. If he sent in a cheque for N1,500, UTC would send him a",
+   "options": [
+    "credit note",
+    "debit note",
+    "journal voucher",
+    "way bill"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A payment of cash of N20 to John was entered on the receipt side of the cash book in error and credited to John's account. Which of the following journal entry can be used to correct the error?",
+   "options": [
+    "John: N40 Dr, cash: N40 Cr",
+    "Cash: N40 Dr, John: N40 Cr",
+    "John: N20 Dr, cash: N20 Cr",
+    "Cash: N20 Dr, John: N20 Cr"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The following represent extracts from the trading account of a retail outlet for a given month: Opening stock N2,400; Closing stock N6,400; Other expenses N2,000; Sales N11,000; Profit N900. What is the purchase figure for the month?",
+   "options": [
+    "N13,000",
+    "N12,100",
+    "N12,000",
+    "N11,200"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Adama's bank account showed an overdraft of N600 on 31st March. On going through the account, it was discovered that the N1,080 paid into the account on 29th March had not been credited. What should be the balance in Adama's cash accounts?",
+   "options": [
+    "N1,680 Dr",
+    "N1,080 Cr",
+    "N600 Dr",
+    "N480 Cr"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Why are adjustments in the profit and loss account necessary?",
+   "options": [
+    "To cover some expenses of the following year",
+    "To ascertain the actual expenses incurred and income earned during the year",
+    "To show the provision made during the year",
+    "To show the total expenses paid and income received during the year"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Sales ledger control account contains the total amount in respect of",
+   "options": [
+    "creditors",
+    "debtors",
+    "investors",
+    "shareholders"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The purchase ledger control account of a company had an opening balance of N45,600 credit and closing balance of N72,600 credit. The company made payments of 437,000 to credit suppliers during the period: and had discount received of N18,600 on this account. What were the credit purchases for the period?",
+   "options": [
+    "N509,600",
+    "N482,600",
+    "N428,600",
+    "N418,400"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The starting point for the production of accounts from incomplete records is to",
+   "options": [
+    "ascertain the total sales",
+    "compute the opening stock of goods sold",
+    "verify the total purchase",
+    "prepare an opening statement of affairs"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A retailer when fixing his selling price adds one-quarter to the cost of the article. The expenses of the retailer are 10% of his sales. The total sales is N23,000. He turned over his stock five times in the year. Compute the average amount of stock in hand at cost price.",
+   "options": [
+    "N3,860",
+    "N3,806",
+    "N3,680",
+    "N3,086"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A retailer when fixing his selling price adds one-quarter to the cost of the article. The expenses of the retailer are 10% of his sales. The total sales is N23,000. He turned over his stock five times in the year. The net profit for the year is",
+   "options": [
+    "N5,750",
+    "N5,650",
+    "N3,200",
+    "N2,300"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Given: Prime cost N220,000; Factory cost N32,000; work in progress at beginning N25,000; work in progress at close N19,000; Administrative expenses N21,000. Determine the production cost.",
+   "options": [
+    "N296,000",
+    "N277,000",
+    "N258,000",
+    "N246,000"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The factory cost of producing goods is made up of",
+   "options": [
+    "prime cost and factory overhead",
+    "prime cost and office overhead",
+    "raw materials consumed and fixed cost",
+    "Raw materials and administrative overhead"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The following information is provided for Amusa Company Limited, a manufacturer. Prime cost N999,000; Manufacturing overhead N132,000; Closing work in progress N75,000; Values of finished goods transferred to the trading account N1,116,000. If including in the manufacturing overhead were rents of N5,000 paid in advance, what is the opening work in progress for the period?",
+   "options": [
+    "N85,000",
+    "N80,000",
+    "N70,000",
+    "N65,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Subscription in arrears are",
+   "options": [
+    "Credited to the income and expenditure account and shown as a liability in the balance sheet",
+    "debited to the income and expenditure account and shown as an asset in the balance sheet",
+    "credited to the income and expenditure account and shown as a liability in the balance sheet",
+    "debited to the income and expenditure account and shown as a liability in the balance sheet"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Where a non-profit making organization prepares the account using accruals basis of reporting, the statement showing how well the organization is doing is the",
+   "options": [
+    "appropriation account",
+    "balance sheet",
+    "income and expenditure account",
+    "receipts and payment account"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A member of a club paid N1,000 as his subscription for 1993 and N1,200 as subscription for 1992. If the financial year of the society ended on 31st December 1993, the N1,200 subscription will be treated in the balance sheet as",
+   "options": [
+    "current asset",
+    "current liability",
+    "capital",
+    "profit"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following is a strong feature of partnership?",
+   "options": [
+    "The life of the partnership is generally assumed to be indefinite",
+    "The owners are liable personally for all debts of the business",
+    "The transfer of ownership interest is frequent and easy to accomplish",
+    "The partnership is complex to form because of many legal and reporting requirements"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Interest on a partner's drawings is debited to the",
+   "options": [
+    "Partners current account and credited to the profit and loss appropriation account",
+    "profit and loss appropriation account and credited to the partner's current account",
+    "profit and loss account and credited to the partner's current account",
+    "Partner's current account and credited to the profit and loss account"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A partnership on admitting a new member, revalued the business' land and building from N30,000 to N70,000. The difference of N40,000 should be",
+   "options": [
+    "credited to land and building account",
+    "debited to asset revaluation account",
+    "credited to asset revaluation account",
+    "credited to profit and loss appropriation account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Halidu and Hamed are business partners with N30,000 and N20,000 capital respectively. At the end of the financial year, a profit of N12,000, which included Halidu's salary of N3,000 was made. Halidu's share of the profit is",
+   "options": [
+    "N7,500",
+    "N6,000",
+    "N5,400",
+    "N4,500"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The conversion of a partner's business into a limited liability company affords the",
+   "options": [
+    "general partners the chance of enjoying the limited liability protection",
+    "limited liability partners the chance of enjoying the limited liability protection",
+    "creditors the chance of enjoying the limited liability protection",
+    "debtors the chance of enjoying the limited liability protection"
+   ],
+   "answerIndex": 1
+  }
+ ],
+ "2002": [
+  {
+   "question": "Which of the following ratios gives an idea of the liquidity of a firm?",
+   "options": [
+    "Turnover ratio",
+    "Quick ratio",
+    "Debt ratio",
+    "Dividend yield"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A total of 400,000 shares of N1 each are to be issued by Sariki Company Ltd at a price of N1.20 per share. Applications were received for 600,000 shares out of which 100,000 were dishonored. If the available shares were distributed pro-rata, what refund will be due a subscriber who applied for 5,000 shares?",
+   "options": [
+    "N1,000",
+    "N1,200",
+    "N4,800",
+    "N6,000"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The measure of a company's ability to pay its debts quickly is called",
+   "options": [
+    "Current ratio",
+    "Turnover ratio",
+    "Acid test ratio",
+    "Return on investment"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Departmental accounts are maintained to ascertain the",
+   "options": [
+    "profits of the entire organization",
+    "contribution of each department",
+    "expenses of each department",
+    "sales of each department"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Asa branch of Emene Company Ltd, made a sale of N549,000 from the goods sent from the head office during the period ended 31/12/94. These sales were based on a 22% mark-up. If branch expenses were N34,400 and there were no discrepancies, what should be the profit of the branch for the period?",
+   "options": [
+    "N6,500",
+    "N64,600",
+    "N85,380",
+    "N514,600"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following statement is correct about the head office current account and the branch current account?",
+   "options": [
+    "Both always have debit balances",
+    "both always have credit balances",
+    "the head office current account has a credit balance while the branch current account has a debit balance",
+    "the head office current account has a debit balance while the branch current account has a credit balance"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "What is the accounting equation?",
+   "options": [
+    "Assets = Liabilities + Equity",
+    "Assets = Liabilities - Equity",
+    "Assets = Equity - Liabilities",
+    "Assets = Liabilities"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is a balance sheet?",
+   "options": [
+    "A financial statement",
+    "An income statement",
+    "A cash flow statement",
+    "A budget"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'accounting period' is used to refer to the",
+   "options": [
+    "time span during which taxes are paid to the inland revenue board",
+    "budget period, usually one year, relied on by the accountant",
+    "time span, usually one year, covered by financial statement",
+    "period within which debtors are expected to settle accounts"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Assigning revenues to the accounting period in which goods were sold or services rendered and expenses incurred is known as",
+   "options": [
+    "passing of entries",
+    "consistency convention",
+    "matching concept",
+    "adjusting for revenue"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The accounting convention which states that profit must not be recognized until realized while all losses should be adequately provided for is termed",
+   "options": [
+    "materiality",
+    "objectivity",
+    "consistency",
+    "conservatism"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Accounting information is used by investors and creditors of a company to predict",
+   "options": [
+    "future cash flows of the company",
+    "future tax payments of the company",
+    "potential merger candidates for the company",
+    "appropriate remunerations for the company's staff"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Antics Electronic Company recently bought six generators. Which of the following is the correct method of recording this transaction?",
+   "options": [
+    "Debit generator account and credit cash account",
+    "Debit purchases account and credit cash account",
+    "Debit cash accounts and credit purchases account",
+    "Debit cash account and credit generator account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "When a business incurs labour cost in installing a fixed asset, the cost is treated as",
+   "options": [
+    "additional cost to the asset",
+    "business wages and salaries",
+    "installation cost of the asset",
+    "business cost of the asset"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is the cardinal rule of the double entry system?",
+   "options": [
+    "Debit the increasing account and credit the decreasing account",
+    "Debit the receiving account and credit the giving account",
+    "Debit the asset account and credit the liability account",
+    "Debit the revenue account and credit the expenditure account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Mallam Gambo bought a freezer for his shop costing N10,500. In recording, he debited office expenses account and credited the bank account. What book-keeping error has he committed?",
+   "options": [
+    "Error of commission",
+    "Error of reversal of entries",
+    "Error of principle",
+    "Compensating error"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The use of the folio in the ledger is for",
+   "options": [
+    "referencing purposes",
+    "particulars of the transaction",
+    "the account titles",
+    "only credit items"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The suspense account is used to correct book-keeping error where the",
+   "options": [
+    "amount involved is quite significant",
+    "item involved is not material",
+    "item involved is unknown",
+    "error does not affect the agreement of the trial balance"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The discount column of a three column cashbook is not balanced off but periodically transferred to the discount account because discounts",
+   "options": [
+    "are not important in cashbooks",
+    "are cash items only",
+    "do not form part of double entry",
+    "are used for bank reconciliation"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "When is a petty cash account debited?",
+   "options": [
+    "When the fund is established and every time money is spent",
+    "When the fund is established and every time it is replenished",
+    "When the fund is established and when the size of the float is decreased",
+    "Every time money is drawn from the petty cash"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "When preparing a bank reconciliation statement, which of the following is deducted from the balance per bank statement?",
+   "options": [
+    "Bank charges",
+    "Uncleared cheques",
+    "Returned cheques",
+    "Unpresented cheques"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The financial position of an organization at a particular time can be ascertained from the",
+   "options": [
+    "statement of sources and application of funds",
+    "statement of retained earnings",
+    "balance sheet",
+    "profit and loss account"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Given; Purchases = N20,000 Sales = N40,000 Carriage inwards = N5,000 Carriage outwards = N5,000 Opening stock = N10,000 Closing stock = N5,000 What is the cost of goods sold?",
+   "options": [
+    "N30,000",
+    "N25,000",
+    "N20,000",
+    "N15,000"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The net profit or loss for the year is determined in profit and loss account after",
+   "options": [
+    "deducting purchases from sales",
+    "deducting cost of goods sold from sales and adding administrative expenses",
+    "adding commissions received to gross profit",
+    "eliminating all expenses from gross profit and adding any other income"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If a bad debt previously written off is subsequently repaid, the amount collected is recorded as an",
+   "options": [
+    "income in the profit and loss account",
+    "income in the balance sheet",
+    "additional cash in the profit and loss account",
+    "expense in the balance sheet"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Beginning and ending accounts receivable balances were N8,000 and N15,000 respectively. If collections from customers during the period were N36,000, then total sales on account would be",
+   "options": [
+    "N23,000",
+    "N29,000",
+    "N36,000",
+    "N43,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "From which of the following sources are creditors control account most likely to be posted?",
+   "options": [
+    "supplier's invoices",
+    "cash disbursements journal",
+    "subsidiary debtors ledger",
+    "purchases journal"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following categories of labour cost will be classified as direct?",
+   "options": [
+    "accountant's salary",
+    "factory workers' salary",
+    "managing director's salary",
+    "cashier's salary"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The major difference between the receipt and payment account and the income and expenditure account is that while the former",
+   "options": [
+    "is kept by the treasurer, the latter is not",
+    "deals with all receipts and payments in the year regardless of the time it relates to, the latter is for just that year",
+    "is a T-account, the latter is not",
+    "is not in the ledger, the latter is"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The net profit from a trading account of a non-profit making organization would be treated as income in the",
+   "options": [
+    "income and expenditure account",
+    "receipt and payment account",
+    "balance sheet",
+    "statement of affairs"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The major distinguishing element between the final accounts of a partnership and a sole trader is the",
+   "options": [
+    "drawings account",
+    "appropriation account",
+    "capital account",
+    "creditors account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Goodwill appears in the books of a business only if it has been",
+   "options": [
+    "purchased at a certain price",
+    "raised in connection with the admission of a new partner",
+    "raised to account for the true value of a business on the death of a partner",
+    "raised in order to prevent the balance sheet showing that the business is insolvent"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Kayode, Akpan and Kachalla are in partnership. Their respective capital accounts had the following balances: N40,000, N50,000 and N70,000. The partners agree to admit Wamo as a new partner with a one-fifth interest in the partnership capital in exchange for N50,000 cash. Wamo's equity in the resulting partnership is",
+   "options": [
+    "N32,000",
+    "N40,000",
+    "N42,000",
+    "N50,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Under which of the following conditions is a partnership dissolved?",
+   "options": [
+    "Change of partnership's head office",
+    "admission of a new partner",
+    "Purchase of a large quantity of fixed asset",
+    "Retirement of a manager who is not a partner"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "When shares issued are paid for, accounting entry required is",
+   "options": [
+    "debit bank or cash account and credit share capital and/or premium account",
+    "credit bank or cash account and debit share capital and/or premium account",
+    "debit shares account and credit capital account",
+    "credit shares account and debit capital account"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A limited liability company has an authorized share capital of N50 million split into 100 million shares 80 million shares were offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued. What is the nominal value of each share?",
+   "options": [
+    "N2",
+    "N0.80",
+    "N0.60",
+    "N0.50"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A limited liability company has an authorized share capital of N50 million split into 100 million shares 80 million shares were offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued. What is the issued capital?",
+   "options": [
+    "N40",
+    "N48",
+    "N50",
+    "N80"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The document setting out the regulations regarding shares, meetings and internal organization of a company is known as",
+   "options": [
+    "memorandum of association",
+    "article of association",
+    "prospectus",
+    "company law"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An advantage of using accounting ratios is that they",
+   "options": [
+    "can be easily calculated",
+    "facilitate decision making",
+    "are stipulated by law",
+    "shows error and fraud"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The expenditure on a good or services which is consumed either immediately or within a current accounting period is called",
+   "options": [
+    "fixed expenditure",
+    "capital expenditure",
+    "annual expenditure",
+    "recurrent expenditure"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The receipt from a special tax levy to pay maturing interest obligation are recorded in",
+   "options": [
+    "capital fund project",
+    "Debt Service Fund",
+    "Tax Assessment Fund",
+    "Special Revenue Fund"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The cash basis of accounting requires the recognition of revenue only when they are",
+   "options": [
+    "due",
+    "earned",
+    "paid",
+    "received"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The amount of individual items on a government budget is called",
+   "options": [
+    "vote",
+    "deposit",
+    "loan",
+    "grant"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "State Bank collected a note for A-Makura Company. This collection, not yet recorded in AL-Makura's books, appears on the bank reconciliation as?",
+   "options": [
+    "an addition to balance per book",
+    "a deduction from balance per bank statement",
+    "an addition to balance per bank statement",
+    "a deduction from balance per books"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Mayana Corporation uses special journals to record its transactions. If one of Mayana's customers returns merchandise purchased with cash (for a refund), it makes an entry in the?",
+   "options": [
+    "cash receipts journal",
+    "sales journal",
+    "general journal",
+    "cash disbursement journal"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Sobande Incorporation acquired a machine that involved the following expenditures and related factors:\nGross invoice price: N15,000\nSales tax: N900\nPurchases discount taken: N300\nFreight: N750\nAssembly of machine: N500\nInstallation of machine: N800\nAssorted spare parts for future use: N1,200\nTuning and adjusting machine: N700\nWhat is the initial accounting cost of the machine?",
+   "options": [
+    "N19,550",
+    "N18,950",
+    "N18,350",
+    "N17,500"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A pottery company had sales of N176,000 during the current period and a gross profit rate of 40%. The company's cost of merchandise available for sale during the period was N128,000. The company's ending inventory is?",
+   "options": [
+    "N22,400",
+    "N32,000",
+    "N51,200",
+    "N76,800"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "On 1st January, 1993, Iobo Company purchased equipment for N18,000. It uses straight-line depreciation with an estimated eight-year useful life and a N2,000 salvage value. On 31st December, 1996, it sells the equipment for N8,000. In recording this sale, it should reflect?",
+   "options": [
+    "N10,000 loss",
+    "N2,000 loss",
+    "N4,000 loss",
+    "N8,000 gain"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The balance on a purchase ledger control account represents the?",
+   "options": [
+    "present amount that a business owes its suppliers at date",
+    "total credit available to the end of the year to be utilized in future",
+    "total credit the business enjoyed for the particular year from its suppliers",
+    "total credit owed the business by its customers"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A powerful instrument of control over both the sales ledger and the clerk whose duty is to post the ledger is the?",
+   "options": [
+    "total debtors account",
+    "purchase day book",
+    "sales day book",
+    "cash book"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2003": [
+  {
+   "question": "From the data above, compute the prime cost?",
+   "options": [
+    "N8,500",
+    "N7,500",
+    "N6,500",
+    "N6,000"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is the bar profits?",
+   "options": [
+    "N20,000",
+    "N15,000",
+    "N14,000",
+    "N10,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "How much is owed to suppliers?",
+   "options": [
+    "N50,000",
+    "N40,000",
+    "N30,000",
+    "N20,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Lubricating oil and spare parts of machinery are examples of?",
+   "options": [
+    "direct materials",
+    "indirect materials",
+    "indirect expenses",
+    "direct expenses"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The N6,000 subscription received is?",
+   "options": [
+    "current asset",
+    "current liability",
+    "fixed asset",
+    "capital"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the subscription to be charged to income and expenditure account?",
+   "options": [
+    "N36,000",
+    "N34,000",
+    "N30,000",
+    "N20,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Determine the club's excess of income over expenditure?",
+   "options": [
+    "N500",
+    "N1,500",
+    "N2,000",
+    "N2,500"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The excess of income over expenditure is usually transferred to the?",
+   "options": [
+    "accumulated fund",
+    "profit and loss account",
+    "current assets in the balance sheet",
+    "current liabilities in the balance sheet"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Partners' salaries and drawings are usually posted to the?",
+   "options": [
+    "trading account",
+    "current account",
+    "capital account",
+    "partners' account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the new profit-sharing ratio of Marhumu and Yusuf?",
+   "options": [
+    "50% : 25%",
+    "50% : 20%",
+    "25% : 50%",
+    "25% :25%"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If a partner pays a premium of N500 for 1/5 share of profit, then the total value of goodwill is?",
+   "options": [
+    "N500",
+    "N2,000",
+    "N2,500",
+    "N3,000"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "On the dissolution of a partnership business, the net book value of the assets is transferred to?",
+   "options": [
+    "debit of realization account",
+    "credit of realization account",
+    "credit of bank account",
+    "debit of bank account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Bala Ltd acquired the business of Bello Ltd and caused the separate existence of the latter company to terminate. This situation is best described as?",
+   "options": [
+    "absorption",
+    "merger",
+    "conversion",
+    "dissolution"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Where a company acquires controlling shares of another and the consideration is paid in cash, the entries in the books of the purchases are debit?",
+   "options": [
+    "investment and credit cash",
+    "investment and credit shares",
+    "purchases and credit cash",
+    "purchases and credit shares"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The main difference between the ordinary and preference shareholders is that?",
+   "options": [
+    "the former receive dividends while the latter do not",
+    "the latter are not members of the company while the former are",
+    "in the case of winding up, the former are paid first before the latter",
+    "the former have voting rights while the latter do not"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The law that currently regulates the registration of companies in Nigeria is the?",
+   "options": [
+    "Constitution of the Federal Republic of Nigeria, 1999",
+    "Nigeria Enterprises Promotion Decree, 1972",
+    "Companies and Allied Matters Decree, 1990",
+    "Companies Decree, 1968"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "What will be the portion attributable to X?",
+   "options": [
+    "N37,500",
+    "N62,500",
+    "N87,500",
+    "N100,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which account is affected at the time of preparing a combined balance sheet?",
+   "options": [
+    "creditors",
+    "debtors",
+    "stock",
+    "suspense"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "To account for expenses paid by head office on behalf of the branch, the branch should?",
+   "options": [
+    "debit head office account and credit cash",
+    "debit profit and loss account and credit head office account",
+    "credit cash and debit profit and loss account",
+    "credit profit and loss account and debit head office account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The correct entry to reflect the receipt of cash sent by a branch to a head office is?",
+   "options": [
+    "debit cash and credit branch current account",
+    "debit branch current account and credit cash",
+    "credit branch debtors and debit cash",
+    "credit branch current account and debit branch debtors"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the?",
+   "options": [
+    "Accountant General",
+    "Auditor General",
+    "Finance Minister",
+    "Permanent Secretary"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Determine the cost of goods sold?",
+   "options": [
+    "N2575",
+    "N2985",
+    "N3250",
+    "N3925"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In preparing the final accounts, the bad debt account is closed by a transfer to the?",
+   "options": [
+    "balance sheet",
+    "provision for bad debt account",
+    "profit and loss account",
+    "trading account"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "How much was received to maintain the imprest at the ends of the month?",
+   "options": [
+    "N950",
+    "N970",
+    "N430",
+    "N380"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "An entry in a subsidiary book which does not form part of the double entry system is a?",
+   "options": [
+    "contra entry",
+    "journal entry",
+    "single entry",
+    "memorandum entry"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In an incomplete record, the preparation of the bank reconciliation ensures that?",
+   "options": [
+    "all cash taking are banked",
+    "the cash book is correct",
+    "there are no overdrafts",
+    "there are no hidden loans"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "How much was received to maintain the imprest at the ends of the month?",
+   "options": [
+    "N950",
+    "N970",
+    "N430",
+    "N380"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the above are nominal accounts?",
+   "options": [
+    "iii and iv",
+    "i and ii",
+    "i and iii",
+    "ii and iii"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Compute the value of current assets?",
+   "options": [
+    "N20400",
+    "N20465",
+    "N35695",
+    "N19820"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The value of capital invested by the owners is?",
+   "options": [
+    "N110,000",
+    "N105,000",
+    "N101,000",
+    "N100,000"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The liabilities of Udo Co. Ltd is?",
+   "options": [
+    "N15,000",
+    "N20,000",
+    "N22,000",
+    "N25,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The account that combines the features of the profit and loss account and balance sheet is the?",
+   "options": [
+    "income and expenditure account",
+    "trading account",
+    "statement of affairs",
+    "receipt and payment account"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Financial statements prepared by non-trading organizations are known as?",
+   "options": [
+    "statement of affairs",
+    "profit and loss account",
+    "income and expenditure account",
+    "trading account"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "From the trial balance above, compute the total sales?",
+   "options": [
+    "N64,800",
+    "N65,000",
+    "N65,800",
+    "N66,000"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is the credit purchase for the month?",
+   "options": [
+    "N8,600",
+    "N9,600",
+    "N7,600",
+    "N6,600"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The petty cash reimbursement for the month is?",
+   "options": [
+    "N205",
+    "N115",
+    "N55",
+    "N45"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The wages cost in July is?",
+   "options": [
+    "N145",
+    "N85",
+    "N60",
+    "N55"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following is an example of administrative overhead?",
+   "options": [
+    "depreciation on machine",
+    "depreciation on office equipment",
+    "salaries of factory workers",
+    "insurance premium"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the production overheads absorbed?",
+   "options": [
+    "N6,000",
+    "N6,500",
+    "N7,000",
+    "N7,500"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "On revaluation of fixed assets, the provision for depreciation account is debited while the revaluation account is credited because?",
+   "options": [
+    "it gives the actual value of fixed assets",
+    "fixed assets are revalued upwards",
+    "depreciation is understated",
+    "fixed assets are depreciated"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The percentage of the actual number of activities to the standard level of activities is the?",
+   "options": [
+    "efficiency ratio",
+    "production ratio",
+    "activity ratio",
+    "capacity ratio"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The process of comparing profit and loss accounts for two years is called?",
+   "options": [
+    "income statement",
+    "horizontal analysis",
+    "vertical analysis",
+    "comparison"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The authorized share capital of a company is its?",
+   "options": [
+    "initial capital outlay",
+    "total assets",
+    "total liabilities",
+    "nominal value of shares"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In the debenture stock account, the face value of the debenture issued is credited to?",
+   "options": [
+    "profit and loss account",
+    "debenture interest account",
+    "sinking fund account",
+    "debenture account"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Debenture interest is charged against?",
+   "options": [
+    "fixed assets",
+    "current assets",
+    "current liabilities",
+    "income"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Where the life of an asset is indefinite, amortization of such an asset should be based on?",
+   "options": [
+    "expected future life",
+    "usage",
+    "annual basis",
+    "write-off"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the end balance on the income and expenditure account?",
+   "options": [
+    "N2,200",
+    "N2,500",
+    "N2,800",
+    "N3,000"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The legal entity which owns the trading assets and is responsible for the liabilities of the enterprise is?",
+   "options": [
+    "partnership",
+    "sole trader",
+    "limited company",
+    "joint venture"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "How much was transferred to the accumulated fund?",
+   "options": [
+    "N10,000",
+    "N20,000",
+    "N15,000",
+    "N25,000"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2004": [
+  {
+   "question": "Determine the year's purchase from the following information relating to a firm.\nTotal creditors b/f: N7,200\nTotal cash payment to suppliers: N98,800\nTotal creditors c/f: N8,400",
+   "options": [
+    "N7,200",
+    "N98,800",
+    "N100,000",
+    "N105,800"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Derive the total sales figure from the following information extracted from a firm's cash book and other relevant records.\nTotal debtors b/f: N5,600\nTotal cash receipts from debtors and cash sales: N153,000\nTotal debtors c/f: N6,800",
+   "options": [
+    "N6,800",
+    "N153,000",
+    "N154,200",
+    "N159,800"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The statement of affairs prepared from incomplete records can be described as?",
+   "options": [
+    "the summary of all the business transactions of the trader ascertained by the accountant",
+    "a balance sheet at a particular date showing the assets and liabilities of the business",
+    "a schedule of all the business ventures entered into for the period to which the records relate",
+    "the statement that shows the profit or loss made during the period"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The contribution margin on a job is the?",
+   "options": [
+    "gross profit",
+    "net profit",
+    "excess of sales revenue over variable costs",
+    "difference between fixed and variable costs"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The objective of allocating all costs to a product is to?",
+   "options": [
+    "produce a scientifically accurate cost",
+    "avoid unallocated overhead and compute total accounts",
+    "coordinate the cost and financial accounts",
+    "compute the contribution of the product to the final profit"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Use the information below to answer question 127 and 128.\nRaw materials inventory at the beginning of a period was N46,800 and at the close of the period there was a balance of N38,600. From the purchases made during the period, defective materials costing N9,200 were returned. Cost of materials consumed during the period was N448,500.\nWhat was the total purchases made during the period?",
+   "options": [
+    "N497,100",
+    "N457,700",
+    "N449,500",
+    "N440,300"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "What was the cost of materials available for use during the period?",
+   "options": [
+    "N487,100",
+    "N449,500",
+    "N448,500",
+    "N440,300"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The limitations of the receipts and payments account arise mainly because of the reliance on?",
+   "options": [
+    "cash movement as evidence of transaction",
+    "the accounting officer to report",
+    "the capital account of the organization",
+    "the transaction papers as evidence of transaction"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The trading account is to a sole trader what income and expenditure account is to a?",
+   "options": [
+    "partnership",
+    "public limited organization",
+    "manufacturing organization",
+    "non-profit making organization"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A non-profit-making organization differs from a profit-making one in that?",
+   "options": [
+    "it does not earn income",
+    "proceeds from sale of shares form part of its income",
+    "all its income is committed",
+    "annual subscriptions and levies form part of its income"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following indicate that a partnership business is in place? \n(i) There is a business\n(ii) It is run commonly by partners\n(iii) It has profit-making in view\n(iv) Partners' liability is limited",
+   "options": [
+    "i and ii only",
+    "i, ii and iii only",
+    "i, iii and iv only",
+    "ii, iii and iv only"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "When forming a partnership, new partners should record non-monetary assets on the new partnership's books at?",
+   "options": [
+    "their current fair market values",
+    "their historical costs when first use",
+    "their historical costs when first purchase by each new partner",
+    "the highest values practical so that future income tax deductions are maximized"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Umar and Ahmed share profit and losses equally and have capital balances of N40,000 and N60,000 respectively. If Abdullahi purchases one-third interest with no bonus, how much will he have to contribute to the partnership?",
+   "options": [
+    "N33,333",
+    "N40,000",
+    "N44,444",
+    "N50,000"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is an intangible asset and a measure of a firm's superior earning power?",
+   "options": [
+    "Patent",
+    "Goodwill",
+    "Trademark",
+    "Right issue"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The price paid by an acquiring company is the?",
+   "options": [
+    "premium",
+    "purchase consideration",
+    "sales consideration",
+    "conversion fee"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Dan and Baker are in partnership with capital of N50,000 and N30,000 each. The partnership agreement provides that:\n(i) profits be shared in the ratio of capital\n(ii) Baker be paid a salary of N8,000.\n(iii) both partners earn interest on capital at 6% p.a.\n(iv) both partners pay interest on drawing at 6% p.a.\nAt the end of the year, Dan drew N15,000 while Baker drew N14,000 in four installments on 31/3, 30/6, 30/9 and 31/12. The net profit for the year was N48,000. N5,000 is to be written off the Goodwill account.\nWhat is the interest on the drawing by Baker?",
+   "options": [
+    "N210",
+    "N315",
+    "N450",
+    "N840"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Dan and Baker are in partnership with capitals of N50,000 and N30,000 each. The partnership agreement provides that:\n(i) profits be shared in the ratio of capital\n(ii) both partners earn interest on capital at 6% p.a\n(iii) both partners pay interest on drawings at 6% p.a.\nAt the end of the year, Dan drew N15,000 while Baker drew N14,000 in four installments on 31/3, 30/6, 30/9 and 30/12. The net profit for the year was N48,000. N5,000 is to be written off the goodwill account.\nDetermine the total interest on capital due to the partners?",
+   "options": [
+    "N1,200",
+    "N1,800",
+    "N3,000",
+    "N4,800"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The ordinary shareholders enjoy the following rights except the right to?",
+   "options": [
+    "vote at annual general meetings",
+    "elect the board of directors",
+    "participate in additional issues of shares",
+    "receive dividends at a predetermined rate"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Granada Corporation has net assets of N600,000 and contributed capital of N180,000. The corporation has 30,000 shares of common stock outstanding with no preferred stock. This suggests that the corporation has?",
+   "options": [
+    "a book value of N14 per share",
+    "a book value of N20 per share",
+    "a deficit of N420,000",
+    "retained earnings of N600,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Under which of these conditions can a company issue shares at discount? \n(i) A resolution must be passed at a general meeting\n(ii) The amount of discount must be stated in the resolution\n(iii) The share must have existed for at least six years\n(iv) On the order of a court.",
+   "options": [
+    "i, ii and iii only",
+    "i, ii and iv only",
+    "i, iii and iv only",
+    "ii, iii and iv only"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The part of equity which is payable on winding up is called?",
+   "options": [
+    "general reserve",
+    "revenue reserve",
+    "capital reserve",
+    "normal reserve"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "To compute gearing ratio, divide?",
+   "options": [
+    "profit by capital employed",
+    "current assets by current liability",
+    "profit by total assets",
+    "long-term debts by equity capital"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following entries is effected by a department when goods are charged to it at selling prices?",
+   "options": [
+    "stock account is debited",
+    "purchases account is debited",
+    "stock account is credited",
+    "mark-up account is debited"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The difference between the closure of the books of a branch and those of a separate company is that?",
+   "options": [
+    "there is retained earnings account on the branch books",
+    "the revenue and expenses account is closed to branch current account",
+    "there is no retained earnings account on the branch",
+    "the revenue and expenses account is not closed to the home office current account"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term fiscal compliance means?",
+   "options": [
+    "all financial and related laws and regulations are adhered to",
+    "only the budget for the current period is complied with and no deficits allowed",
+    "all physical assets requirements have been met",
+    "fiscal planning is necessary for proper accountability in the public sector"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In a public corporation, the capital expenditure incurred in a financial period is?",
+   "options": [
+    "spread over the useful life of the assets through depreciation",
+    "apportioned at a pre-determined rate stipulated by law",
+    "written off in the year in which they occur",
+    "merged with recurrent expenditure and reported in one required lump sum"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Money not required to meet chargeable expenditure in any fiscal year under cash accounting, should be?",
+   "options": [
+    "surrendered to the consolidated revenue fund",
+    "carried forward to the next financial year",
+    "reserved to meet any deficits or contingencies",
+    "returned to the taxpayer"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If a monthly insurance premium is remitted to a company by the state government, the initial deductions from employees are recorded in?",
+   "options": [
+    "the general fund",
+    "agency fund",
+    "special fund",
+    "general long-term fund"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Accrual concept stipulates that?",
+   "options": [
+    "revenue should be recognized when it is earned",
+    "costs should be recognized when the expenditure is paid",
+    "revenue should be recognized only when cash is paid",
+    "costs should be recognized when they are incurred"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The basic role of accounting is to?",
+   "options": [
+    "detect fraud",
+    "attest to financial statements",
+    "measure performance",
+    "protect shareholders"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The need for changes in accounting theory in Nigeria was influenced by the?",
+   "options": [
+    "dynamics of commercialization and privatization policies",
+    "growth in size of business units",
+    "introduction of the structural adjustment programme",
+    "inconvertibility of the nation's currency"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A bookkeeping error occurs when there is?",
+   "options": [
+    "a deliberate manipulation of records",
+    "unintentional correct posting in the ledger",
+    "intentional failure to record transactions completely",
+    "incorrect records and oversights that are not intended"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "When a proprietor withdraws cash from the business for private use, he?",
+   "options": [
+    "debits cash account and credits drawings account",
+    "credits cash account and debits bank account",
+    "debits bank account and credits drawings account",
+    "credits cash account and debits drawings account"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A basic unifying concept in accounting implies that?",
+   "options": [
+    "where creditors' account is zero, the assets are equal to the owners' equity",
+    "there should be a balance in the creditors' account in order to measure total assets",
+    "revenues should be supported by invested and owners' capital",
+    "total assets can be less than liabilities and equity"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A source document for the sales day book is?",
+   "options": [
+    "a requisition form",
+    "an invoice",
+    "a customer advice",
+    "a credit advice"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In a cash book, the opening balance was N7,600, closing balance N9,200 and the total cash received during the period was N18,000. What was the amount of cash paid out during the period?",
+   "options": [
+    "N8,900",
+    "N9,800",
+    "N14,600",
+    "N16,400"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If the total discount allowed in a cash book was N230 and the total discount received was N255, which of the following is true concerning the two discounts?",
+   "options": [
+    "They must be balanced in the cash book and the difference taken to the debtors ledger",
+    "They must be balanced in the cash book and the difference taken to the trial balance",
+    "They should not be balanced in the cash book before being taken to the trial balance",
+    "They should not appear in the trial balance as they were already either received or paid out"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following bank reconciliation items should not be added or subtracted from the bank statement balance to determine the adjusted cash balance?",
+   "options": [
+    "Outstanding cheques",
+    "Bank service charges",
+    "Deposit in the mail not yet received by the bank",
+    "Bank error, charging a company for another company's cheque"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The fixed amount of money given to a petty cashier at the beginning of a period is called?",
+   "options": [
+    "imprest",
+    "petty cash",
+    "float",
+    "cash advance"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A provision for bad debt account had N3,800 at the beginning of the year and N4,220 at the close of the year. If bad debts are calculated at the rate of 1/2% of annual sales, what was the credit sales for the period?",
+   "options": [
+    "N2,100,000",
+    "N844,400",
+    "N840,000",
+    "N500,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Asa Company bought a vehicle worth N20,000 and the vehicle is to be depreciated at 5%. Using the reducing balance method of depreciation, what would be the value of the asset after 3 years?",
+   "options": [
+    "N19,000.00",
+    "N18,050.50",
+    "N17,147.50",
+    "16,290.13"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Chibuike bought 36 notebooks at N10 each from John and was given a trade discount of 5%. In addition, he was offered 1% cash discount which he took advantage of. How much did Chibuike pay?",
+   "options": [
+    "N338.58",
+    "N342.00",
+    "N345.42",
+    "N360.00"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Depreciation on a particular piece of machinery was N2,700 during the fifth year of its service life and N4,050 during the sixth year. The logical explanation for this is that?",
+   "options": [
+    "an addition was made to the asset during the sixth year",
+    "the estimate of salvage value on this equipment was decreased",
+    "a unit-of-output method of depreciation was used during the sixth year",
+    "the estimate remaining service life of the assets was increased at the beginning of the sixth year"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The main features of the single system are that?",
+   "options": [
+    "books of accounts are not maintained and business relies only on bank statement",
+    "the journal records are absent and only the main ledger is kept",
+    "there are incomplete classifications and recording procedures",
+    "only credit sales transactions and credit purchase are recorded"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The principal function of a sales ledger control account is to?",
+   "options": [
+    "serve as internal check and provide quick information for the preparation of interim financial statements",
+    "serve as external check and provide quick information for the preparation of interim financial statements",
+    "provide quick information for the preparation of customers' statement",
+    "provide information for the control of salesmen's activities"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In dealing with incomplete records, fixed assets are posted to?",
+   "options": [
+    "opening profit and loss as brought forward figures",
+    "closing balance sheet as carried forward figures",
+    "closing balance sheets as brought forward figures",
+    "closing profit and loss as brought forward figures"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "When the factory cost of production has been ascertained, manufactured goods are transferred to trading account by?",
+   "options": [
+    "debiting manufacturing account and crediting trading account",
+    "crediting sales account and debiting trading account",
+    "debiting sales account and crediting trading account",
+    "crediting manufacturing account and debiting trading account"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "What is the purchases ledger balance?",
+   "options": [
+    "N4,000",
+    "N23,000",
+    "N24,000",
+    "N29,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "For an incomplete record to provide necessary information, it must be converted to?",
+   "options": [
+    "complete records",
+    "double entry records",
+    "statement of affairs",
+    "single entry"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Determine the total fixed assets from the opening balance sheet?",
+   "options": [
+    "N2,200",
+    "N2,020",
+    "N1,720",
+    "N2,070"
+   ],
+   "answerIndex": 1
+  }
+ ],
+ "2005": [
+  {
+   "question": "Given that total current assets is N210,000 and total current liabilities is N200,000, calculate the working capital?",
+   "options": [
+    "N50,000",
+    "N10,000",
+    "N5,000",
+    "N15,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Lawal and co makes blocks and sells to builders. In computing prime cost, which of the following costs would be considered appropriate?",
+   "options": [
+    "Cement, sand and carriage outwards",
+    "Water, carriage inwards and cement",
+    "Sales boys' wages, cement and sand",
+    "Carriage outwards, carriage inwards and cement"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Manufacturing costs can be classified based on?",
+   "options": [
+    "timing of charges, degree of averaging and size of capital",
+    "degree of averaging, ease of traceability and timing of charges",
+    "degree of averaging, size of floor space occupied and cost accounts",
+    "number of employees, timing of charges and management style"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The difference between the factory cost of production and the prime cost of production is?",
+   "options": [
+    "direct materials",
+    "direct labour",
+    "selling expenses",
+    "overhead"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Receipt and payments account of a non-profit making organization is principally a summary of the?",
+   "options": [
+    "bank entries",
+    "cash book entries",
+    "expenditure entries",
+    "balance sheet entries"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Given: Club N150, Cash sales N4,850, Club debtors at close N900, Cash received from debtors N550. What is the amount of club sales?",
+   "options": [
+    "N6,150",
+    "N4,850",
+    "N4,650",
+    "N1,300"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A credit balance on a receipt and payments account indicates that the non-profit making organization?",
+   "options": [
+    "had more revenues than expenses during the period",
+    "did not owe much liabilities during the period",
+    "received more cash than it paid out during the period",
+    "made more cash payments than it received during the period"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Goodwill can be valued in partnership when?",
+   "options": [
+    "a partner makes profits",
+    "large losses are made",
+    "a partner retires",
+    "a new branch is opened"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "As part of the initial investment, a partner contributes office equipment that originally cost N20,000 and on which provision for depreciation of N12,500 had been recorded. If the partners agree on a valuation of N9,000 for the equipment, what amount should be debited to the office equipment account?",
+   "options": [
+    "N7,500",
+    "N9,000",
+    "N12,500",
+    "N20,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "When a partner makes a drawing of stock items from a partnership, the accounting impact of the drawing is to increase the partner's?",
+   "options": [
+    "goodwill account balance",
+    "current account credit balance",
+    "current account debit balance",
+    "profit and loss credit balance"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Dele and Seun who are in partnership, have decided to convert their business into a limited liability company where both become directors. To convert the business?",
+   "options": [
+    "they will simply continue since there are no new members",
+    "the partnership is formally ended and new company books opened",
+    "the shares and all other items will be shared equally and not in their former ratios",
+    "computation of goodwill must be done as it is legally required"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If a sole proprietorship is purchased for cash, then?",
+   "options": [
+    "the purchaser debits his business purchase account with the consideration he pays",
+    "all assets and liabilities must be bought",
+    "goodwill results where value of assets",
+    "the vendor debits his business purchase account with the consideration he receives"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The market price per ordinary share of a corporation listed on the stock exchange is most closely related to its?",
+   "options": [
+    "earnings per share",
+    "redemption price per share",
+    "book value per share",
+    "call price per share"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following events increases a corporation's shareholders equity?",
+   "options": [
+    "Donation of shares out of the corporation's own stock to the corporation",
+    "The corporation's purchase of treasury stock",
+    "Shares of previously subscribed stock issued to subscribing stockholders",
+    "A municipality donation of land to the corporation"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If a promoter pays a lawyer N5,000 for services rendered in preparing a Memorandum of Incorporation, the journal entry is to debit?",
+   "options": [
+    "preliminary expenses, credit cash accounts",
+    "promoter, credit creditors' accounts",
+    "lawyer's credit cash accounts",
+    "cash, credit incorporation accounts"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Calls in advance are treated in the balance sheet as?",
+   "options": [
+    "current asset",
+    "current liability",
+    "fixed assets",
+    "fixed liability"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Shares issued to a vendor in payment of business purchased would require a debit to?",
+   "options": [
+    "cash account and credit to share capital account",
+    "share capital account and credit to vendor's account",
+    "vendor's account and credit to share capital account",
+    "share capital account and credit to cash account"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The best method of allocating expenses among departments is to?",
+   "options": [
+    "allocate expenses to each department in proportion to the sales of that department",
+    "charge against each department those costs which are within its control",
+    "charge expenses against each department in proportion to the purchases of that department",
+    "allocate expenses to each section of the department in relation to the number of people"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "To record the transfer of stock from one department to another, the correct entry would be to debit?",
+   "options": [
+    "goods outwards and credit goods inwards",
+    "merchandise account and credit department stock account",
+    "department transferring and credit department receiving",
+    "department receiving and credit department transferring"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Among Limited invoiced goods at a cost of N10,000 to its Ikeja branch at a margin of 20%. The branch later returned goods worth N1,200 at invoice price to the head office. The profit margin should be?",
+   "options": [
+    "debit to goods sent to branch account",
+    "debit to branch stock adjustment account",
+    "credit to branch adjustment account",
+    "credit to branch stock adjustment account"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "What is the correct entry in the head office books at the point of initial transfer of the goods?",
+   "options": [
+    "Branch stock account would be credited with",
+    "Branch stock account would be debited with N12,000",
+    "Goods sent to branch account would be debited with N10,800",
+    "Goods sent to branch account would be credited with N12,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Capital and revenue expenditures of government are usually accounted for under funds which include?",
+   "options": [
+    "personal advances, technical, special trust and commercial funds",
+    "technical, special trust and commercial funds",
+    "personal advances, treasury clearance and special trust funds",
+    "commercial loans and treasury clearance funds"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following account is kept by local governments in Nigeria?",
+   "options": [
+    "Balance sheet",
+    "Advances account",
+    "Debtors account",
+    "Profit account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The conventional sources of public revenue include?",
+   "options": [
+    "loans, taxation, foreign reserves and dividends",
+    "interest, royalties, taxation and loans",
+    "crude oil, interest, posted price and taxation",
+    "taxation, deficit budgeting, royalties and loans"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "On November 1, 1998, Zaria Holdings owed N13,600 in respect of a creditor. On November 15, it purchases goods worth N69,000 and paid a cheque of N51,600. On November 29, one of the Holdings' cheques worth N3,000 was returned while the creditor granted a N1,500 discount. The amount owed by Zaria Holdings as at November 29 is?",
+   "options": [
+    "N32,500",
+    "N32,000",
+    "N31,000",
+    "N29,500"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "To write off bad debt, debit?",
+   "options": [
+    "debtor's account and credit provision for bad debt",
+    "bad debt account and credit debtor's account",
+    "debtor's account credit bad debt",
+    "provision for bad debt account and credit debtor's account"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following errors will affect the trial balance total?",
+   "options": [
+    "posting discount allowed to the debit side of the discount allowed account",
+    "omission of one account from the list when extracting from the ledger",
+    "failure to post sales of N2,000 and purchases of N2,000 from the subsidiary ledger",
+    "omission of sales of N3,000 and purchases of N2,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "An expenses account is closed by a debit to?",
+   "options": [
+    "an asset account and a credit to the expenses account",
+    "the expenses account and a credit to an asset account",
+    "profit and loss account and a credit to the expenses account",
+    "the expenses account and a credit to profit and loss account"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In a manufacturing company, the total cost of goods produced is equivalent to?",
+   "options": [
+    "purchases",
+    "sales",
+    "cost of goods sold",
+    "cost of materials used"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Given: Sales Ledger Control Account (Extracts) Balance b/f N10,600 Total cash payments by debtors N32,275 Total credit sales N59,193 Discount received N9,700 Balance c/f N20,751 Discount allowed N2,890 Determine the sales returns?",
+   "options": [
+    "N24,577",
+    "N13,877",
+    "N7,067",
+    "N2,890"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The simplest form of single entry procedure consists of keeping a?",
+   "options": [
+    "day book or general journal",
+    "cash book and ledger accounts showing debtors and creditors balances",
+    "cash journal, sales journal and purchases journal",
+    "day book in which transactions are described in chronological order"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A fixed cost is fixed only in relation to?",
+   "options": [
+    "the quality of goods produced",
+    "the quantity of goods sold",
+    "a given period of time and a range of activities",
+    "a given period of time and the nature of activity"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "One of the advantages of the shortcomings of single entry procedures is that?",
+   "options": [
+    "a trial balance is not available",
+    "profits are overestimated",
+    "there are no subsidiary books",
+    "there are no control accounts"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "When a customer's cheque is returned unpaid in a debtor's control accounting system, the treatment will be?",
+   "options": [
+    "debit bank, credit customer and credit control account",
+    "credit bank, debit customer, and credit control account",
+    "debit customer, debit control account and credit bank",
+    "credit control account, debit bank and debit customer"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Didi Ltd offered 10,000 ordinary shares of N1.50 each at a discount of 2% which were fully subscribed. With regard to the offer above?",
+   "options": [
+    "shares are never offered at a discount; the offer is invalid",
+    "the value of shares in the capital account will be lowered by 2%",
+    "the company incurs a loss to the tune of 2% of the offer",
+    "each of the subscribers loses 2% of investment"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Maro Merchant Bank plc is to issue N500,000 ordinary shares of 50k each at N 3.00 per share. Applications were received for N1,550,000 shares fully paid, N1,250,000 shares are to be issued on a pro rata basis and excess subscriptions were dishonored and refunds made? The refund due to an application for N25,000 shares is?",
+   "options": [
+    "N45,000",
+    "N30,000",
+    "N7,500",
+    "N5,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Maro Merchant Bank plc is to issue N500,000 ordinary shares of 50k each at N 3.00 per share. Applications were received for N1,550,000 shares fully paid, N1,250,000 shares are to be issued on a pro rata basis and excess subscriptions were dishonored and refunds made? What will be the number of shares to be issued to a subscriber who applied for N30,000 shares?",
+   "options": [
+    "N20,000",
+    "N18,000",
+    "N15,000",
+    "N12,000"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following items does not feature in the balance sheet of a club?",
+   "options": [
+    "Arrears of current year's subscription",
+    "Salary arrears paid in the current year",
+    "Rental income received in advance",
+    "Advances subscription in respect of a coming year"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An outright sale of a partnership amounts to the?",
+   "options": [
+    "compensation of vendors by the purchase",
+    "admission of a new partner",
+    "purchase of rights of a dead partner",
+    "change of sharing ratio of vendors"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Given: Opening cash balance N20,000 Sales of match tickets N15,000 Clearing of pitch N1,200 Refreshments N3,500 Referees' allowance N1,000 Cost of petrol N1,120 Donation from local government N3,800 The club's balance is?",
+   "options": [
+    "N39,180",
+    "N34,830",
+    "N34,380",
+    "N31,980"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Maimalari Ltd had (i) Earnings per share 47k (ii) Dividend per share 30k (iii) Par value of each share N1.20 (iv) Market price per share N1.50 The company's earnings yield is?",
+   "options": [
+    "20.00%",
+    "25.00%",
+    "31.33%",
+    "39.17%"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Maimalari Ltd had (i) Earnings per share 47k (ii) Dividend per share 30k (iii) Par value of each share N1.20 (iv) Market price per share N1.50 What will be the price earnings ratio of the company?",
+   "options": [
+    "3.91",
+    "3.19",
+    "2.95",
+    "2.55"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Partnership Deed normally specifies?",
+   "options": [
+    "how profit or losses are to be shared",
+    "the capital to be contributed annually",
+    "how salaries are paid to employees",
+    "the profit that should be earned annually"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The accumulation fund of a non-trading concern can equally be referred to as?",
+   "options": [
+    "members' equity",
+    "share capital",
+    "general fund",
+    "surplus fund"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "When a purchased business is revalued, the effect is that?",
+   "options": [
+    "a decrease in the value of asset has no effect on value of goodwill",
+    "an increase in the value of asset is treated as an increase in the value of goodwill",
+    "a decrease in the value of asset is treated as a decrease in the value of goodwill",
+    "an increase in the value of asset is treated as a decrease in the value of goodwill"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "An item of appropriation in partnership profit and loss account is?",
+   "options": [
+    "interest on partners' capital",
+    "interest on partners' loan",
+    "employees' salaries",
+    "partners' drawings"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Rakiya and Joy are in partnership and agreed that 5% interest per annum is to be charged on drawings. The drawings made by both partners in one year were: Rakiya, N200 on March 31 and N300 on September 30. Joy, N100 on April 1 and N240 on July 1. The interest to be charged on Joy's drawing is?",
+   "options": [
+    "N6.80",
+    "N8.50",
+    "N9.80",
+    "N12.20"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A cash budget shows",
+   "options": [
+    "cash inflows, cash outflows, and expected cash balances",
+    "the sales revenues, costs, and profits",
+    "the cash and bank balances as at the end of the period",
+    "expected cash receipts and payments and the items of income and expenditure"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A company's balance sheet showed total current assets of N36,000 and total current liabilities of N24,000. The company's working capital is",
+   "options": [
+    "N60,000",
+    "N12,000",
+    "N1,500",
+    "N2,400"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following is true of a manufacturing concern?",
+   "options": [
+    "All purchases are debited to the purchase account",
+    "Credit purchases are debited to the production account",
+    "All goods transferred to the store are credited to the store ledger",
+    "Goods transferred to the factory are debited to the production account"
+   ],
+   "answerIndex": 3
+  }
+ ]
+}

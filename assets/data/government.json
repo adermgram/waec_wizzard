@@ -1,0 +1,1980 @@
+{
+ "2000": [
+  {
+   "question": "Who is the head of state?",
+   "options": [
+    "Prime Minister",
+    "President",
+    "Governor",
+    "Mayor"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the primary function of the legislature?",
+   "options": [
+    "To enforce laws",
+    "To interpret laws",
+    "To make laws",
+    "To execute laws"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Power differs from influence in that it is",
+   "options": [
+    "persuasive while influence is directive",
+    "coercive while influence is harmful",
+    "coercive while influence is persuasive",
+    "arrogant while influence is corruptive"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The standing committee of a legislature is one",
+   "options": [
+    "whose member stand while deliberating",
+    "that has statutory responsibilities",
+    "that performs adhoc functions",
+    "that has legislators as members"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In a parliamentary system, the functions of the head of state and the head of government are vested in",
+   "options": [
+    "the inner cabinet",
+    "an indidvidual",
+    "two different individuals",
+    "the ministerial council"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Government by the wealthy is known as",
+   "options": [
+    "plutocracy",
+    "oligarchy",
+    "aristocracy",
+    "democracy"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A collegial executive is a government in which power is vested in a",
+   "options": [
+    "president",
+    "monarch",
+    "commitee",
+    "parliament"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The unrestrained power of the state over its citizens is underlined by",
+   "options": [
+    "sovereignty",
+    "nationalism",
+    "self-determination",
+    "patriotism"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Removal by impeachment applies to the position of a",
+   "options": [
+    "president",
+    "chief judge",
+    "prime minister",
+    "cabinet minister"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One of the duties of the legislature is to",
+   "options": [
+    "implement laws",
+    "adjudicate disputes",
+    "promulgate decrees",
+    "exercise oversight"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The independence of the Judiciary can be undermined through the",
+   "options": [
+    "politicization of the appointment of judges",
+    "appointment of the minister of justice as the Attorney-General",
+    "confirmation of the appointment of judges by the legislature",
+    "payment of the salaries of judicial officers by the government"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A common feature of government is",
+   "options": [
+    "the separation of powers",
+    "the making of public policy",
+    "the independence of the judiciary",
+    "a written constitution"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The best form of government for a heterogeneous society is a",
+   "options": [
+    "quasi-federal system",
+    "federal system",
+    "confederal system",
+    "unitary system"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Capitalism is a system of economic organization based on",
+   "options": [
+    "a mixed economy that takes all ineterests into consideration",
+    "individual ownership of the means of production",
+    "very fair distribution of the means of production",
+    "trading among people who own and control their items of trade"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Election as a political process is significant because it",
+   "options": [
+    "is associated with campaigns for public office",
+    "facilitates the recall process",
+    "facilitates constitutional change of government",
+    "enables citizens to vote"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Associations whose main interest is to influence public policies without having to capture power are",
+   "options": [
+    "communal groups",
+    "trade unions",
+    "political parties",
+    "pressure groups"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Constitutional disputes in states with written constitutions are resolved by",
+   "options": [
+    "ombudsman",
+    "judiciary",
+    "electorate",
+    "legislature"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The citizenship of a country could be acquired through",
+   "options": [
+    "parliamentary legislation",
+    "birth and naturalization",
+    "registeration and arbitration",
+    "presidential proclamation"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Public opinion becomes politically relevant when it",
+   "options": [
+    "criticises people in power",
+    "influences the decision of government",
+    "aggregates views and interests",
+    "is in support of government"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Socialism is a mode of production based on",
+   "options": [
+    "state state ownership of the means of production",
+    "collective ownership of the means of production",
+    "national ownership of the means of productions",
+    "mixed ownership of means of production"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The civil service embraces all workers in",
+   "options": [
+    "all private corporations",
+    "publica and private companies",
+    "government ministries",
+    "public corporations"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A meeting of the legislature is usually brought to an end with",
+   "options": [
+    "a dissolution",
+    "an adjournment",
+    "suspension",
+    "a prorogation"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "What distinguishes a political party from other social institutions is the desire to",
+   "options": [
+    "influence the international community on local issues",
+    "promote the interest of party members",
+    "win elections and form a government",
+    "influence government policies in certain directions"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The operation of the rule of law is undermined by the",
+   "options": [
+    "unfriendly attitude of pressure groups",
+    "existence of administrative tribunals and special immunities",
+    "conspiracy by the two-houses of the legislature to impeach the president",
+    "inability of the press to discharge its responsibilities"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a",
+   "options": [
+    "collegial system of government",
+    "presidential system of government",
+    "unitary system of government",
+    "parliamentary system of government"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Arthur Richards Constitution was designed to last for",
+   "options": [
+    "nine years",
+    "five years",
+    "twelve years",
+    "six years"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In the Pre-colonial Igbo society, the maintenance of peace and order was the function of the",
+   "options": [
+    "assembly of ezes",
+    "clan elders",
+    "age-grades",
+    "assembly of title holders"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The smooth operation of the civil service in Nigeria is mostly hampered by",
+   "options": [
+    "inadequate training of personnel",
+    "corruption and inefficiency",
+    "debt burden and redundancy",
+    "poor infrastructure"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Eastern and Western regions of Nigeria achieved the status of self-government in",
+   "options": [
+    "1959",
+    "1957",
+    "1950",
+    "1955"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
+   "options": [
+    "peace and harmony in the land",
+    "indigenous cultures of the people",
+    "education of the local people",
+    "nation's farmlands"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The 1979 Constitution established the",
+   "options": [
+    "National Human Rights Commission",
+    "National Population Commission",
+    "Federal Road Safety Commission",
+    "Federal Civil Defense Corps"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The expenditure of public funds by the executive in Nigeria is controlled by the",
+   "options": [
+    "judiciary",
+    "ministry of finance",
+    "legislature",
+    "president"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The most important challenge facing the Fourth Republic is",
+   "options": [
+    "the need to develop Nigeria culturally",
+    "the successful conduct of the 2003 election",
+    "how to develop Nigeria's social institutions",
+    "how to deal with the military"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Bureau for Public Enterprises is charged with the responsibility for",
+   "options": [
+    "privatization and commercialization",
+    "generating revenue",
+    "eradicating poverty",
+    "providing employment opportunities"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One of the reasons advanced for the overthrow of the Gowon Regime was its failure to",
+   "options": [
+    "honour the promise to hand over power",
+    "promote some officers by the armed forces",
+    "try politicians in detention",
+    "create new states"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 1976 Reforms have been most beneficial to the",
+   "options": [
+    "Nigerian police",
+    "federal government",
+    "local government",
+    "civil service"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The dispute between Nigeria and Cameroon is over",
+   "options": [
+    "trade",
+    "exploration rights",
+    "territory",
+    "fishing rights"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Nigeria's influence in OPEC is determined by the",
+   "options": [
+    "volume of her oil revenue",
+    "sizes of her refineries",
+    "accessibility of her oil fields",
+    "low sulphur content of her crude"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The activities of Nigeria in the international community are primarily influenced by",
+   "options": [
+    "propaganda",
+    "national interest",
+    "military power",
+    "diplomacy"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Nigeria's relations with Britain was at a very low ebb under the",
+   "options": [
+    "Shagari Regime",
+    "Buhari Regime",
+    "Gowon Regime",
+    "Babangida Regime"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Nigeria's high standing in the UN General Assembly is underscored by her",
+   "options": [
+    "military strength",
+    "successes in UN elective offices",
+    "contribution to global peace",
+    "financial contributions"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Nigeria's Non-Alignment Policy is constrained by her",
+   "options": [
+    "strong ties with Western powers",
+    "membership of the ECOWAS",
+    "Afrocentric posture",
+    "membership of the UNO"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The main constraint on Nigeria-Francophone West African cooperation is",
+   "options": [
+    "cultural differences",
+    "ideological differences",
+    "economic differences",
+    "poor road network"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The majority of the OPEC members are from",
+   "options": [
+    "Latin America",
+    "The Middle East Countries",
+    "Asia",
+    "Africa"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The non-British colony which is a member of the Commonwealth is",
+   "options": [
+    "Rwanda",
+    "Guinea-Bissau",
+    "Mozambique",
+    "Eritrea"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The major problem of the ECOWAS is lack of",
+   "options": [
+    "a common currency",
+    "commitment by members",
+    "uniform ideology",
+    "a common customs union"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The ECOWAS Treaty was reviewed in 1991 to",
+   "options": [
+    "accommodate the interest of France",
+    "make it responsive to new challenges",
+    "accommodate extra sub-regional interests",
+    "mobilize ECOMOG"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The headquarters of the International Court of Justice is in",
+   "options": [
+    "Washington, D.C",
+    "Paris",
+    "London",
+    "The Hague"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The tenure of the President of the UN Security Council is",
+   "options": [
+    "two years",
+    "one month",
+    "six months",
+    "one year"
+   ],
+   "answerIndex": 1
+  }
+ ],
+ "2001": [
+  {
+   "question": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through",
+   "options": [
+    "recall",
+    "judicial review",
+    "vote of no confidence",
+    "impeachment"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The central decision-making organ of a confederation is made up of",
+   "options": [
+    "technocrats appointed by the units",
+    "politicians elected from the confederal constituencies",
+    "politicians nominated by the government of member states",
+    "representatives of pressure groups"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following is true of a parliamentary system of government?",
+   "options": [
+    "clear separation of government organs",
+    "strict operation of bicameral legislature",
+    "removal of government by impeachment",
+    "adherence to majority rule"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A major feature of authoritarianism is that government is",
+   "options": [
+    "consensual",
+    "personalized",
+    "centralized",
+    "decentralized"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The central point of capitalism, as expounded by Karl Marx, is that",
+   "options": [
+    "capitalist profit is the surplus value obtained from workers labour",
+    "workers are inherently incapable of being owners of their labour",
+    "capitalists shall always increase worker earning capacity through wages",
+    "capitalists shall always readily consent to workers welfare demands"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A constitution that requires a plebiscite or a referendum to be amended is",
+   "options": [
+    "rigid",
+    "unwritten",
+    "flexible",
+    "written"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "An important function of a constitution is that it",
+   "options": [
+    "provides a framework for the study of government",
+    "facilitates cross-fertilization of ideas of governance",
+    "serves as the fountainhead of authority for the exercise of power",
+    "promotes citizen participation in government and administration"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "When a bill passed by the legislature is vetoed by the executive, the action underscores the principle",
+   "options": [
+    "probity and accountability",
+    "separation of powers",
+    "collective responsibility",
+    "checks and balances"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In the legislative process, a bill is a",
+   "options": [
+    "motion accepted for debate",
+    "motion rejected after debate",
+    "proposal before the legislature",
+    "law passed by the legislature"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "One of the advantages of a bicameral over a unicameral legislature is that it",
+   "options": [
+    "is cheap to maintain",
+    "promotes social equality",
+    "takes less time for the bills to be passed",
+    "prevents the passage of ill-considered bills"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The fundamental rights of citizens include rights to",
+   "options": [
+    "free education, employment and freedom of thought",
+    "life, speech and association",
+    "life, liberty and property",
+    "association, property and social security"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The manipulation of boundaries of constituencies in order to win more seats is called",
+   "options": [
+    "devolution",
+    "rigging",
+    "gerrymandering",
+    "delimitation"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "One argument against a multi-party system is the",
+   "options": [
+    "encouragement of opposition and instability",
+    "banning of interest groups",
+    "inability to attract foreign assistance",
+    "high cost of conducting elections"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Associational interest groups are organized to",
+   "options": [
+    "further the interest of members",
+    "specifically lobby the government",
+    "support the government",
+    "achieve goals affecting other associations"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Public opinion is a view that is",
+   "options": [
+    "held by the majority",
+    "active in the public realm",
+    "widely publicized",
+    "no longer a secret"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The political neutrality of civil servants implies that they",
+   "options": [
+    "are not allowed to join any organisation or group",
+    "have no dealings with politicians",
+    "are not allowed to be involved in partisan politics",
+    "are not allowed to vote"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The idea of making the civil service permanent, neutral and anonymous is to",
+   "options": [
+    "enhance efficiency in administration",
+    "ensure loyalty and support",
+    "prevent opposition to government",
+    "make civil servants a functional elite"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The western zone of the Sokoto caliphate was administered from",
+   "options": [
+    "Kebbi",
+    "Ilorin",
+    "Bida",
+    "Gwandu"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Some pre-colonial Nigerian societies are described as stateless because",
+   "options": [
+    "they had no formal governmental institutions",
+    "they had no definite political boundaries",
+    "their population was too small",
+    "they were not independent"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The method used by the British to facilitate the administration of Southern Nigeria was",
+   "options": [
+    "persuasion",
+    "dialogue",
+    "divide and rule",
+    "trade association"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A major function of the warrant chiefs was to",
+   "options": [
+    "prevent tribal wars",
+    "supervise native courts and markets",
+    "stop ritual killings",
+    "take charge of local administration"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "After 1945, the demand of African nationalists changed from reform to independence because",
+   "options": [
+    "colonial rule became less oppressive",
+    "colonial rule was in disarray",
+    "the Second World War boosted their morale",
+    "the Second World War enhanced colonial rule"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "When Nigeria achieved independence in 1960, the head of state was the",
+   "options": [
+    "President",
+    "Prime Minister",
+    "Governor-General",
+    "Queen of England"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Who is the head of state?",
+   "options": [
+    "Prime Minister",
+    "President",
+    "Governor",
+    "Mayor"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the primary function of the legislature?",
+   "options": [
+    "To enforce laws",
+    "To interpret laws",
+    "To make laws",
+    "To execute laws"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Delegated legislature becomes unavoidable when",
+   "options": [
+    "legislators cannot reach a consensus",
+    "issues under consideration are personal",
+    "issues under consideration are technical",
+    "legislators have to proceed on a recess"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "One major disadvantage of public opinion is that",
+   "options": [
+    "the critics of government policies are always harassed",
+    "a vocal minority claims to represent the majority",
+    "gossip and rumours thrive",
+    "leaders are unnecessarily criticized"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Citizenship in a modern state expresses the status of a person who possesses",
+   "options": [
+    "full political rights",
+    "some religious rights",
+    "social rights only",
+    "exclusive economic rights"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Communism is a system which recognizes",
+   "options": [
+    "class stratification",
+    "the existence of the state",
+    "the existence of the individual",
+    "the ability of the individual"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The delineation of constituencies is a major duty of the",
+   "options": [
+    "national assembly",
+    "political parties",
+    "boundary commission",
+    "electoral commission"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The structure of the civil service is based on",
+   "options": [
+    "lateral organization",
+    "merit system",
+    "patronage system",
+    "hierarchical organization"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A common feature of a multi-party system is that government is formed by",
+   "options": [
+    "the major political party",
+    "all the registered political parties",
+    "a coalition of political parties",
+    "the party with the highest votes"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "To qualify for absorption into the administration cadre of the civil service in Nigeria, an applicant must be",
+   "options": [
+    "knowledgeable in civil services rule",
+    "a holder of a first university degree",
+    "specifically trained in public administration",
+    "a senior civil servant"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The final interpretation of the provisions of a federal constitution is vested in the",
+   "options": [
+    "head of state",
+    "council of state",
+    "highest legislative body",
+    "highest court of the land"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A major issue that distinguishes pressure groups from political parties is",
+   "options": [
+    "membership drive",
+    "the objective",
+    "the voting pattern",
+    "ideology"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Proportional representation is a system of allocating seats in the legislature based on",
+   "options": [
+    "gender participation in politics",
+    "an area",
+    "contribution to the national economy",
+    "total votes in an election"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The application of the principle of separation of powers seems impracticable because power is",
+   "options": [
+    "delegated",
+    "centralized",
+    "fused",
+    "separated"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "When did Nigeria gain her Independence?",
+   "options": [
+    "1st October, 1963",
+    "31st October, 1690",
+    "1st October, 2012",
+    "1st October, 1960"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The central legislature of Nigeria became bicameral in",
+   "options": [
+    "1960",
+    "1951",
+    "1959",
+    "1963"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these constitutions recognized local government as a third tier of government in Nigeria?",
+   "options": [
+    "1946 Constitution",
+    "1960 Constitution",
+    "1963 Constitution",
+    "1979 Constitution"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the",
+   "options": [
+    "Executive",
+    "federal parliament",
+    "regional legislatures",
+    "judiciary"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
+   "options": [
+    "Privy council",
+    "High court",
+    "Supreme court",
+    "Court of appeal"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The equivalent of the commissioner at the local government level is the",
+   "options": [
+    "Executive chairman",
+    "Secretary",
+    "Councillor",
+    "Supervisory councillor"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The Independent National Electoral Commission has the power to prepare and maintain the register of",
+   "options": [
+    "Political parties",
+    "Constituencies",
+    "Voters",
+    "Electoral candidates"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The president of Nigeria is advised on the sovereignty and territorial integrity of the country by the",
+   "options": [
+    "National Security Council",
+    "National Defense Council",
+    "Council of state",
+    "Federal Executive Council"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Nigerian Youth Movement collapsed as the result of",
+   "options": [
+    "its failure to win election",
+    "shortage of funds to run its affairs",
+    "the harassment of its leadership by government",
+    "the breakup of its leadership"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The first restructure of the Nigerian Federation took place with the",
+   "options": [
+    "creation of mid-west Region in 1963",
+    "abolition of federalism in 1966",
+    "military counter-coup in 1966",
+    "creation of states in 1967"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The land use decree of 1978 vested the ownership of land in Nigeria in the",
+   "options": [
+    "local chiefs",
+    "local governments",
+    "state governments",
+    "federal governments"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The main source of financing local government in Nigeria is",
+   "options": [
+    "internal revenue generation",
+    "statutory revenue allocation",
+    "special state grants",
+    "grants-in-aid"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of",
+   "options": [
+    "the office of sole administrators",
+    "caretaker management committees",
+    "uniformity in structure and functions",
+    "the third tier of government"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2002": [
+  {
+   "question": "The Murtala/Obasanjo regime in Nigeria increased the number of states from",
+   "options": [
+    "4 to 12",
+    "12 to 19",
+    "19 to 20",
+    "30 to 36"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The major factor that influenced the formulation of Nigerian foreign policy in the First Republic was",
+   "options": [
+    "geographical location",
+    "the colonial legacy",
+    "economic consideration",
+    "the parliamentary system"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalized in the late 1970's for transacting business with",
+   "options": [
+    "France",
+    "South Africa",
+    "Portugal",
+    "Libya"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "South-South cooperation is a major policy plan on which Nigeria bases her relations with",
+   "options": [
+    "developed countries",
+    "countries of the southern hemisphere",
+    "developing countries",
+    "member countries of OAU"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Nigeria's recognition of the Popular Movement for the Liberation of Angola to lead that country was made under",
+   "options": [
+    "General Yakubu Gowon",
+    "General Murtala Mohammed",
+    "General Muhammadu Buhari",
+    "General Ibrahim Babangida"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The first Nigerian Permanent Representative to the United Nations was",
+   "options": [
+    "Alhaji Yusuf Maitama Sule",
+    "General Joseph Garba",
+    "Professor Ibrahim Gambari",
+    "Chief Samuel Adebo"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In 1981, Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan forces in",
+   "options": [
+    "Somalia",
+    "Chad",
+    "Ethiopia",
+    "Zaire"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "During the Civil War, the major power that expressed moral support for Biafra's self-determination was",
+   "options": [
+    "France",
+    "China",
+    "the United States",
+    "Great Britain"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Nigeria's withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British",
+   "options": [
+    "support for UNITA rebels in Angola",
+    "supply of arms to Rhodesia",
+    "failure to impose sanctions on South Africa",
+    "negative utterances on Nigeria"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The major demand of the Third World countries on the United Nations in recent times is the",
+   "options": [
+    "expansion of the permanent membership of the security Council",
+    "post of the Secretary-General of the organization",
+    "withdrawal of the veto power from the security council",
+    "enforcement of resolutions on the super powers"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is the function of the Council of the Ministers of the O.A.U",
+   "options": [
+    "Coordinating of the general policy of the organization",
+    "Directing the finances of the organization",
+    "Preparing the agenda of the organization's meetings",
+    "Reviewing the functions and activities of other organs of the organizations"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The Economic Community of West African States has made progress in the area of",
+   "options": [
+    "free movement of persons and right of residence",
+    "increased trade among members",
+    "political integration of the region",
+    "providing financial aid to members"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A major consequence of proportional representation is that it",
+   "options": [
+    "reduces the chances of political instability",
+    "favours the development of a two-party system",
+    "discourages voting along ethnic lines",
+    "encourages the proliferation of parties"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Oligarchy is a form of government which",
+   "options": [
+    "enhances the interest of the ruling few",
+    "enhances the electoral chances of the majority",
+    "disregards the views of the minority",
+    "protects the interest of the common people"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The absence of the rule of law in government will bring about",
+   "options": [
+    "human rights abuse",
+    "treasonable offences",
+    "corrupt practices",
+    "political apathy"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Centralization of power is the basic feature of",
+   "options": [
+    "federalism",
+    "a confederation",
+    "a presidential system",
+    "a unitary government"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A law passed by the legislature and assented by the executive is",
+   "options": [
+    "an act",
+    "a presidential proclamation",
+    "a decree",
+    "a legislative order"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One of the features of a sovereign state is that it",
+   "options": [
+    "has the capacity to defend itself from external aggression",
+    "has a large number of soldiers",
+    "practises the presidential system of government",
+    "is not indebted to other countries"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A major way of maintaining confidence in the electoral process is by ensuring that",
+   "options": [
+    "electoral officers are regularly trained",
+    "elections are conducted in a free and fair atmosphere",
+    "unlimited franchise is made available",
+    "elections are conducted as and when due"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The principle of checks and balances reinforces separation of powers in order to",
+   "options": [
+    "protect the powers of the executive",
+    "make the legislature more powerful",
+    "prevent an unconstitutional change of government",
+    "prevent the emergence of dictatorship"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Legislative control of public corporations in Nigeria is effected through",
+   "options": [
+    "the dissolution of their management",
+    "the reorganization of their boards",
+    "acts of the National Assembly",
+    "bye-laws"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The Ibadan Conference of 1950 was convened to discuss the provisions of the",
+   "options": [
+    "Macpherson Constitution",
+    "Clifford Constitution",
+    "Lyttelton Constitution",
+    "Richards Constitution"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The fees collected by local governments at motor parks represents",
+   "options": [
+    "levies",
+    "fines",
+    "income tax",
+    "user charge"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy was the",
+   "options": [
+    "1979 Constitution",
+    "1989 Constitution",
+    "1999 Constitution",
+    "1960 Constitution"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Under the 1999 Constitution of Nigeria, the power to create local governments is vested in the",
+   "options": [
+    "state assembly",
+    "office of the deputy governor",
+    "presidency",
+    "national assembly"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The body set up to review the revenue allocation formula in 1980 was the",
+   "options": [
+    "Udoji Commission",
+    "Okigbo Commission",
+    "Dina Commission",
+    "Adebo Commission"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In pre-colonial Igbo society, decisions on public issues were reached mainly through",
+   "options": [
+    "the oracles",
+    "consensus",
+    "imposition",
+    "majority votes"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The main duty of the Local Government Service is to",
+   "options": [
+    "supervise and manage the affairs of local governments",
+    "create job opportunities at the local level",
+    "handle requests for the creation of more local governments",
+    "conduct elections into local councils"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The constitution that introduced restricted franchise into Nigerian politics was the",
+   "options": [
+    "Independence Constitution",
+    "Lyttelton Constitution",
+    "Richards Constitution",
+    "Clifford Constitution"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In Nigeria, the Council of State was first created by",
+   "options": [
+    "General Murtala Muhammed",
+    "General Olusegun Obasanjo",
+    "Major-General Aguiyi Ironsi",
+    "General Yakubu Gowon"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The leading agent in the expansion of British influence in Northern Nigeria in the 1890s was the",
+   "options": [
+    "British Consul in Calabar",
+    "Royal West African Frontier Force",
+    "British Consul in Lagos",
+    "Royal Niger Company"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The two military coups that toppled civilian regimes in Nigeria were those of",
+   "options": [
+    "January 1966 and December 1983",
+    "July 1966 and August 1985",
+    "January 1966 and July 1975",
+    "February 1976 and December 1983"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The main function of the Code of Conduct Bureau is to",
+   "options": [
+    "ensure accountability in government business",
+    "give the judiciary more powers to discipline erring judges",
+    "protect public officers from the press",
+    "give the police more powers to make arrests"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The emirate system of administration can be likened to",
+   "options": [
+    "confederal system of government",
+    "unitary system of government",
+    "federal system of government",
+    "constitutional monarchy"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The abolition of the state ministries of local governments in 1989 entails that local governments",
+   "options": [
+    "are equal to the states",
+    "have more control over their funds",
+    "no longer have anything to do with state governments",
+    "are no longer surbodinates to state governments"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "One major factor that differentiates the presidential from the parliamentary system is",
+   "options": [
+    "separation of powers",
+    "judicial independence",
+    "passage of bills",
+    "party system"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The main legislative body in Nigeria between 1966 and 1975 was the",
+   "options": [
+    "Supreme Military Council",
+    "Armed Forces Ruling Council",
+    "Provisional Ruling Council",
+    "National Security Council"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Nigeria formally became a federation in",
+   "options": [
+    "1960",
+    "1963",
+    "1914",
+    "1946"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The United Nations charter is an instrument that",
+   "options": [
+    "sets out the rights and obligations of member states",
+    "provides for funding of memeber states",
+    "facilitates the resolution of disputes among member states",
+    "determines the admission of member states"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The most active organ of the Economic Community of West African States is the",
+   "options": [
+    "Tribunal of the Community",
+    "Technical and Specialized Commission",
+    "Authority of Heads of State and Government",
+    "Council of Ministers"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The group of states that conceived the idea of the United Nations Organization included",
+   "options": [
+    "the USSR, Italy, the UK and China",
+    "Italy, the UK, France and Japan",
+    "the USA, the USSR, the UK and China",
+    "France, the USA, Canada and Japan"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The impact of the Commonwealth of Nations is felt most in the area of",
+   "options": [
+    "diplomatic cooperation",
+    "economic cooperation",
+    "cultural cooperation",
+    "military cooperation"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The greatest criticism of the Security Council of the UNO is that it",
+   "options": [
+    "has no standing army",
+    "is not representative enough",
+    "undermines the General Assembly",
+    "has exclusive veto power"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following is a founding member of OPEC?",
+   "options": [
+    "Nigeria",
+    "Indonesia",
+    "Venezuela",
+    "Algeria"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on",
+   "options": [
+    "African affairs",
+    "political and social matters",
+    "the Economic Commission of Africa",
+    "security matters"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Who among the following served as Secretary General of OPEC?",
+   "options": [
+    "Jibril Aminu",
+    "Aret Adams",
+    "Dan Etete",
+    "Rilwanu Lukman"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Nigeria's active role in the liberation of some countries in Southern Africa earned her",
+   "options": [
+    "the chairmanship of the Eminent Persons Group",
+    "membership of SADC",
+    "recognition as the giant of Africa",
+    "the status of a frontline state"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of these international finance agencies is Nigeria a member of",
+   "options": [
+    "The London Club",
+    "The Infrastructural Development Fund",
+    "The Paris Club",
+    "The Interational Monetary Fund"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Nigeria's membership of the ECOWAS is informed by her desire to",
+   "options": [
+    "develop a market in the sub-region",
+    "form a sub-regional high command",
+    "become a sub-regional power",
+    "promote economic integration"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "An attribute that Nigeria shares with most non-aligned countries is",
+   "options": [
+    "her large population",
+    "the state of her economy",
+    "her heterogenous population",
+    "her large size"
+   ],
+   "answerIndex": 1
+  }
+ ],
+ "2003": [
+  {
+   "question": "Nigeria's support for the South-South Cooperation is based on her desire to",
+   "options": [
+    "assert her leadership role in Africa",
+    "promote her non-aligned policy",
+    "promote economic understanding in the Third World",
+    "counter the political and military domination by major powers"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The permanent members of the Security Council of the United Nations are",
+   "options": [
+    "Germany, France, Poland, Hungary and China",
+    "Britain, Japan, Australia, Germany and the United States",
+    "the United States, Russia, France, Britain and Japan",
+    "the United States, Russia, France, Britain and China"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The one-time president of the United Nations General Assembly was",
+   "options": [
+    "Joseph Garba",
+    "Ibrahim Gambari",
+    "Arthur Mbanefo",
+    "Maitama Sule"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The countries in which Nigeria participated in the ECOMOG peace-keeping operations were",
+   "options": [
+    "Sierra Leone and Cote d'Ivoire",
+    "Liberia and Sierra Leone",
+    "Liberia and Guinea",
+    "Senegal and Cote d'Ivoire"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "With the admission of Asian and African countries to the Commonwealth, the Queen of England became the",
+   "options": [
+    "patron of the Commonwealth",
+    "head of state of these countries",
+    "chairperson of the Commonwealth",
+    "head of government of these countries"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Nigeria's relation with black political communities outside Africa is built on",
+   "options": [
+    "shared political aspirations",
+    "expectations of political support from them",
+    "economic considerations",
+    "perceived cultural affinities"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The Lagos Treaty of May 28th 1975 led to the formation of the",
+   "options": [
+    "African Economic Summit",
+    "Lagos Plan Of Action",
+    "Economic Community of West African States",
+    "Economic Commission for Africa"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The leaders who spearheaded the transformation of the Organization of African Unity into the African Union are from",
+   "options": [
+    "Nigeria, Libya and Kenya",
+    "Algeria, Libya and Zambia",
+    "South Africa, Libya and Zambia",
+    "Nigeria, Libya and South Africa"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A major problem of the defunct Organization of African Unity was",
+   "options": [
+    "language barrier",
+    "inadequate resources",
+    "cultural diversity",
+    "ideological differences"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The current Executive Secretary of the ECOWAS is",
+   "options": [
+    "Mohammed Ibn Chambers",
+    "Lansana Kouyate",
+    "Abbas Bundu",
+    "Abubakar Qattara"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A specialized agency of the United Nations Organization is the",
+   "options": [
+    "International Court of Justice",
+    "International Olympic Committee",
+    "General Assembly",
+    "World Health Organization"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The responsibility for admitting new members to the OPEC rests with the",
+   "options": [
+    "Summit",
+    "Secretariat",
+    "Conference",
+    "Board of Governors"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Nigeria demonstrated her commitment to the policy of non-alignment during the regime of",
+   "options": [
+    "Ibrahim Babangida",
+    "Muhammadu Buhari",
+    "Johnson Aguiyi-Ironsi",
+    "Murtala Muhammed"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The two-chambers of elected national representatives in Nigeria are called",
+   "options": [
+    "the National Assembly",
+    "House of Assembly",
+    "the Senate",
+    "the parliament"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The pre-colonial Yoruba political system as a whole can best be described as a",
+   "options": [
+    "federation of chiefdoms and localities",
+    "confederation of chiefdoms and localities",
+    "confederation of monarchies and chiefdoms",
+    "highly centralized kingdom"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A distinguishing feature of the 1979 Constitution was the",
+   "options": [
+    "introduction of federal structure",
+    "introduction of unicameralism into Nigeria",
+    "departure from the parliamentary to the presidential system of government",
+    "preservation and entrenchment of republicanism"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The Native Authority system was most effective and successful in",
+   "options": [
+    "Eastern Nigeria",
+    "Northern Nigeria",
+    "Mid-Western Nigeria",
+    "Western Nigeria"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Financial allocations to local governments by the federal or the state government to supplement the cost of a project is called",
+   "options": [
+    "revenue allocation",
+    "reimbursement",
+    "statutory allocation",
+    "matching grant"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A problem of Nigeria federalism that was resolved by the supreme court between the federal government and littoral states centered on resource",
+   "options": [
+    "maximization",
+    "generation",
+    "derivation",
+    "control"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The military Head of State during the Third Republic was",
+   "options": [
+    "General Olusegun Obasanjo",
+    "General Ibrahim Babangida",
+    "General Murtala Muhammed",
+    "General Sani Abacha"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In the First Republic, politics in the Northern region was dominated by the",
+   "options": [
+    "NEPU",
+    "UMBC",
+    "NCNC",
+    "NPC"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Judicial administrations in respect of National Code of Conduct lies with the",
+   "options": [
+    "Public Complaints Commission",
+    "Judicial Service Commission",
+    "Code of Conduct Bureau",
+    "Code of Conduct Tribunal"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The process of nationalism was accelerated by",
+   "options": [
+    "the signing of the Atlantic Charter",
+    "improvement in warfare tactics",
+    "rapid economic development",
+    "the coming of Christian missionaries"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Under the 1999 Constitution, the power to declare war is vested in the",
+   "options": [
+    "National Security Council",
+    "legislature",
+    "executive",
+    "National Council of States"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The major motivation for British colonization of Nigeria was to",
+   "options": [
+    "westernize Nigerians",
+    "spread religion",
+    "protect Nigeria from external attack",
+    "satisfy British economic interest"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Laws made by state governments are known as",
+   "options": [
+    "bye laws",
+    "decrees",
+    "edicts",
+    "acts"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The first franchise in the history of the democratic process is",
+   "options": [
+    "property franchise",
+    "universal franchise",
+    "male franchise",
+    "female franchise"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The principle of separation of powers was made popular by",
+   "options": [
+    "Thomas Hobbes",
+    "John Locke",
+    "Niccolo Machiavelli",
+    "Baron de Montesquieu"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The traditions of a people that shape their government and politics represent their",
+   "options": [
+    "political culture",
+    "political ideology",
+    "political acculturation",
+    "political socialization"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "According to Karl Marx, the mode of production that precedes capitalism is",
+   "options": [
+    "mercantilism",
+    "feudalism",
+    "socialism",
+    "communalism"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The executive is mainly concerned with the",
+   "options": [
+    "confirmation of appointments",
+    "approval of treaties",
+    "approval of budgets",
+    "implementation of policies"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A distinguishing feature of a federal state is",
+   "options": [
+    "a written constitution",
+    "resource control",
+    "separation of powers",
+    "cultural diversity"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The recognition and general acceptance of the right to rule in a country based on laid down regulations is known as",
+   "options": [
+    "traditional authority",
+    "constitutional authority",
+    "sovereign authority",
+    "legitimate authority"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A political ideology that advocates extreme nationalism and suppression of individual liberties is",
+   "options": [
+    "socialism",
+    "communism",
+    "feudalism",
+    "fascism"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In a democracy, a major setback in the judicial process is",
+   "options": [
+    "political neutrality",
+    "lack of professionalism",
+    "freedom from punishment",
+    "inadequate material resources"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A vote taken by the citizenry on an important political issue is a",
+   "options": [
+    "recall",
+    "general election",
+    "bye-election",
+    "referendum"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A constitution is classified as rigid if",
+   "options": [
+    "it requires special procedures to amend",
+    "its core provisions are made by decree",
+    "all its provisions cannot be amended",
+    "any of its provisions can be amended"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One of the obligations of a citizen is",
+   "options": [
+    "obedience to the laws of the land",
+    "active participation in partisan politics",
+    "sticking to his beliefs",
+    "loyalty to the ruling party"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One of the objectives of a multi-party system is to",
+   "options": [
+    "prevent rigging",
+    "provide alternatives",
+    "avoid ethnicity",
+    "eliminate corruption"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An exception to the mandate of the legislature is",
+   "options": [
+    "enactment of laws",
+    "oversight of the executive",
+    "representation of the citizenry",
+    "conduct of external relations"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A constitution formulated and imposed on a country without popular participation is said to be created by",
+   "options": [
+    "fiat",
+    "directives",
+    "command",
+    "decree"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In a parliamentary system, the term shadow cabinet is often used to refer to",
+   "options": [
+    "back-benchers in the house",
+    "deputy prime ministers and assistant ministers",
+    "rebellious members of the ruling party",
+    "portfolio designates of the party in opposition"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following made the earliest contact with the Nigerian society?",
+   "options": [
+    "The Portuguese",
+    "The Germans",
+    "The British",
+    "The French"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Public corporations are established mainly to",
+   "options": [
+    "offer free services",
+    "make profit for government",
+    "provide jobs for the unemployed",
+    "provide services at subsidized rates"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Indirect Rule as a British colonial policy was first introduced in",
+   "options": [
+    "India",
+    "Uganda",
+    "Ghana",
+    "Nigeria"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Following the 1976 Local Government reforms in Nigeria, the Local governments were empowered to",
+   "options": [
+    "promulgate edicts",
+    "promulgate and enforce bye-laws",
+    "appoint and dismiss chairmen",
+    "appoint and dismiss directors of personnel"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In the Nigerian Constitution, the powers to create local governments lie with the",
+   "options": [
+    "state governors",
+    "National Assembly",
+    "Presidency",
+    "state house of assembly"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In the Nigerian Constitution, the powers to create local governments lie with the",
+   "options": [
+    "State Governors",
+    "National Assembly",
+    "Presidency",
+    "State House of Assembly"
+   ],
+   "answerIndex": 3
+  }
+ ]
+}

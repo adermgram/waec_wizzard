@@ -1,0 +1,15 @@
+[
+ {"subject": "chemistry", "title": "Chemistry Paper 2", "file": "chemistry_paper_2.pdf"},
+ {"subject": "accounting", "title": "Financial Accounting Questions", "file": "accounting_questions.pdf"},
+ {"subject": "agriculture", "title": "Agricultural Science Questions", "file": "agriculture_questions.pdf"},
+ {"subject": "biology", "title": "Biology Questions", "file": "biology_questions.pdf"},
+ {"subject": "commerce", "title": "Commerce Questions", "file": "commerce_questions.pdf"},
+ {"subject": "economics", "title": "Economics Questions (Set 1)", "file": "economics_questions_1.pdf"},
+ {"subject": "economics", "title": "Economics Questions (Set 2)", "file": "economics_questions_2.pdf"},
+ {"subject": "english", "title": "English Language Questions", "file": "english_questions.pdf"},
+ {"subject": "geography", "title": "Geography Questions", "file": "geography_questions.pdf"},
+ {"subject": "government", "title": "Government Questions (All)", "file": "government_questions.pdf"},
+ {"subject": "government", "title": "Government Solutions 2008", "file": "government_solutions_2008.pdf"},
+ {"subject": "mathematics", "title": "Mathematics Questions", "file": "mathematics_questions.pdf"},
+ {"subject": "physics", "title": "Physics Questions", "file": "physics_questions.pdf"}
+]

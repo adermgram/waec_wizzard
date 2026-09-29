@@ -1,0 +1,2664 @@
+{
+ "2001": [
+  {
+   "question": "The largest liability appearing in the book of a commercial bank is",
+   "options": [
+    "cash",
+    "deposits",
+    "loans and advances",
+    "treasury bills"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Lagos clearing house is",
+   "options": [
+    "a commodity market",
+    "an import licensing centre",
+    "another name for the Lagos stock exchange",
+    "a cheque sorting centre"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The biggest source of government revenue in Nigeria is",
+   "options": [
+    "mining, rents and royalties",
+    "company income tax",
+    "import duties",
+    "petroleum profit tax"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "An increase in liquid reserve requirements by the central bank of Nigeria will result in",
+   "options": [
+    "a reduction in commercial banks' excess reserves",
+    "more commercial bank loan to members of the public",
+    "an increase in commercial banks excess reserves",
+    "no change in commercial banks excess reserves"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A distinguishing characteristic of a consumers' cooperative is the fact that",
+   "options": [
+    "the customers are the owners",
+    "the customers are the workers",
+    "the customers are the managers",
+    "the customers are low income people"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Disposable income is the same thing as",
+   "options": [
+    "personal income minus personal savings",
+    "personal income minus taxes",
+    "national income minus depreciation",
+    "exports minus imports"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Marginal cost is",
+   "options": [
+    "Lowest cost of producing goods",
+    "The cost of production of the most efficient firm in the industry",
+    "The cost of production of the last or extra unit of goods produced by a firm",
+    "The cost of production at which the minimum profit is obtained by a firm"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The chief sources of Federal Government revenue in Nigeria are?",
+   "options": [
+    "Import duties, petroleum, import tax, profit tax, royalties and government dividends",
+    "Personal income tax, excise tax and vehicle licenses",
+    "Export duties, personal income tax and royalties",
+    "Property income, sales tax and excise tax"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Function of commercial banks do NOT include?",
+   "options": [
+    "Lending with interest charges",
+    "Carrying out transactions on behalf of customers",
+    "Expansion of money supply",
+    "Printing of currency"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Monetary policy does NOT involve",
+   "options": [
+    "Increasing the import duties",
+    "Buying or selling treasury bills by the Central Bank",
+    "Printing of more currency note",
+    "Increasing or decreasing cash reserve ratio by the Central Bank"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In an economy, if the proportion of people who are below 18 years is 40% and those above 60 years is 30% what would this imply?",
+   "options": [
+    "The dependency ratio is high",
+    "The population is optimum",
+    "The ratio of females to males is high",
+    "The population is growing at less than equilibrium"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which is considered the most effective tool by which the Central Bank of Nigeria can control the activities of commercial banks?",
+   "options": [
+    "Open market operation",
+    "Reserve requirements",
+    "Bank rate",
+    "Directives"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The PAYE (Pay As You Earn) in Nigeria is an example of?",
+   "options": [
+    "Indirect tax",
+    "Progressive tax",
+    "Regressive tax",
+    "Community tax"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If income rises from N200.00 to N250.00 and the amount spent on good X falls from N30.00 to N28.00, then good X is?",
+   "options": [
+    "An income elastic good",
+    "A normal good",
+    "An inferior good",
+    "Demand elastic"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which is not responsible for the decline in food production in West Africa?",
+   "options": [
+    "Neglect of agriculture by many people",
+    "Drift of young people rural to urban areas",
+    "Influence of weather and climate",
+    "Many of the countries do not balance of payments problems"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The most dominant economic activity which employs the largest number of people in West Africa is?",
+   "options": [
+    "Manufacturing",
+    "Transport",
+    "Government",
+    "Agriculture"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Public enterprises are supported on the grounds that they are undertaken for?",
+   "options": [
+    "Increasing profit of the private sector",
+    "Reducing the burden of the private sector",
+    "Improving the welfare of the people",
+    "Earning profit for the government"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In the above table, the marginal cost of the 3rd unit of output is",
+   "options": [
+    "12",
+    "6",
+    "10",
+    "2"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Full equilibrium under perfect competition requires that?",
+   "options": [
+    "MC =MR and AC =AR",
+    "MC = MR but AR>AC",
+    "MR =MC =AR=AC",
+    "TR>TC"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Oligopoly means",
+   "options": [
+    "Large number of sellers in the markets",
+    "Single seller in the market",
+    "Few sellers in the markets",
+    "Few buyers in the market"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Price discrimination can be described profitably by a monopolist when the elasticity of demand for his product is",
+   "options": [
+    "Elastic in both markets",
+    "Unitary elastic in both market",
+    "Inelastic in both markets",
+    "Elastic in one market and inelastic in the other"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Demand for money for speculative purposes means?",
+   "options": [
+    "Buying goods and services whose prices have risen",
+    "Keeping money for unforeseen expenditure",
+    "Buying financial assets because of possible gains",
+    "Buying real estate"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If the Central Bank intends to increase the money supply through open market operations then it will",
+   "options": [
+    "Sell securities in the open market",
+    "Buy securities in the open market",
+    "Issues more currency note",
+    "Withdraw money supply from the market"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "When the import of a commodity is limited to a definite quantity by using a trade control method, this is known as",
+   "options": [
+    "Tariffs",
+    "Quotas",
+    "Exchange control",
+    "Devaluation"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Balance of payments of a country explains the overall position of?",
+   "options": [
+    "Current account of the balance of payments",
+    "Capital account in the balance of payments",
+    "Both the current and capital accounts",
+    "Position of the balance of trade"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "All of the following EXCEPT ONE are normal functions of the marketing board in Nigeria",
+   "options": [
+    "Price stabilization",
+    "Efficient marketing of agriculture crops",
+    "Provision of funds for building access roads",
+    "Development of the agricultural industry"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following countries is NOT a member of the economic Community of West African States?",
+   "options": [
+    "Sierra Leone",
+    "Sudan",
+    "Gambia",
+    "Nigeria"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In Nigeria, a balance of payments deficit can be solved by all of the following EXCEPT?",
+   "options": [
+    "Imposing import bans on some commodity",
+    "Imposing import duties",
+    "Drawing down on external reserves",
+    "Purchasing foreign exchanges from foreign countries"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following is NOT a visible item on international trade payment?",
+   "options": [
+    "Payments to foreign shipping companies",
+    "Payment for imported cars",
+    "Receipt from cocoa exports",
+    "Payments for steel imports"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Given the international trade statistics of Nigeria for the past 6 years, which of these statements would you consider to be correct?",
+   "options": [
+    "The share of agricultural exports is decreasing",
+    "The share of agricultural exports is increasing",
+    "The value of industrial imports is constant",
+    "The value of mineral export is declining"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The most basic concern of economists is to?",
+   "options": [
+    "study ways of allocating scarce resources in order to satisfy human wants",
+    "create human wants",
+    "redistribute income so that it is used correctly",
+    "create perfect competition"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these statements is NOT true of economics as a discipline?",
+   "options": [
+    "it assumes limited human wants",
+    "it is analytical",
+    "it is a social science",
+    "it is concerned with people's material well-being"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "An increase in the price of butter causes an increase in the demand for margarine. This indicates that butter and margarine are?",
+   "options": [
+    "substitute goods",
+    "complementary goods",
+    "elastic goods",
+    "inferior goods"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "An equilibrium price?",
+   "options": [
+    "equates the quantity supplied to be equal to the quantity demanded",
+    "keeps excess demand within limits",
+    "generates the greatest possible demand and supply",
+    "generates the greatest possible profits"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "When a nation’s exports are greater than its imports",
+   "options": [
+    "A favorable balance of trade exists",
+    "an unfavorable balance of payment exists",
+    "A favorable balance of payment exists",
+    "An unfavorable balance of trade exists"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Unlimited liability means?",
+   "options": [
+    "A firm must pay its debts from business as well as private funds",
+    "The government can tax a company without limit",
+    "A company ceases to exist at the death of one of its owners",
+    "The debts of a company must be paid out of its assets"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One of the probable effects of an increased minimum wage in Nigeria is?",
+   "options": [
+    "to create involuntary unemployment",
+    "to decrease the wage rate",
+    "to create volunteer unemployment",
+    "to increase the level of unemployment"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If the income of a consumer rises and his demand for good X falls, good X can be described as",
+   "options": [
+    "none of the above",
+    "a normal good",
+    "an abnormal good",
+    "a good with inelastic demand"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Inflation is likely to benefit?",
+   "options": [
+    "debtors",
+    "persons with bank savings",
+    "persons employed in financial houses",
+    "persons who live on fixed pension funds"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT a characteristic of perfect competition?",
+   "options": [
+    "Supply and demand are equal",
+    "many sellers and buyers in the markets",
+    "There is perfect knowledge",
+    "Products are identical"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Opportunity cost is best defined as?",
+   "options": [
+    "sacrificed alternative (output, income etc.)",
+    "the penalty for not seizing golden opportunities",
+    "the cost of creating job opportunities",
+    "payment made to an industrial worker"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT included in measuring national income by the income approach?",
+   "options": [
+    "Wages and salaries of public servants",
+    "Student grants and scholarships",
+    "Profit of companies",
+    "Income earned by self-employed persons such as lawyers"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A downward sloping demand curve intersects a fixed supply curve, A shift of this demand curve to the right implies that?",
+   "options": [
+    "Both price and quantity will increase",
+    "Only price increases",
+    "Only quantity increases",
+    "The price remains constant"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following items is NOT an argument for locating industries in rural areas?",
+   "options": [
+    "Rural areas supply agricultural raw material",
+    "The pace of development will be quickened in rural areas",
+    "Employment will be provided for rural inhabitants",
+    "Capital is easily available in rural areas"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The natural growth rate of a population is the",
+   "options": [
+    "Sum of the birth rate and the death rate",
+    "Sum of the birth rate and the net migration rate",
+    "Birth rate minus death rate",
+    "Birth rate divided by the net migration"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following sets fully represents factors of production?",
+   "options": [
+    "Sunlight, machinery, man, land",
+    "Land, labour, capital, enterprise, technology",
+    "Capital, technology, ideas, markets, land",
+    "Land, water, weather"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Based on the above production possibilities table, the real cost of a unit of food when the economy produces 100 units of food is",
+   "options": [
+    "2 units of clothing",
+    "4 units of clothing",
+    "8 units of clothing",
+    "10 units of clothing"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The participation of Nigeria in International trade is beneficial because it",
+   "options": [
+    "Promotes peaceful co-existence among nations",
+    "Reduces foreign competition in the domestic market",
+    "Enables the country earn foreign exchange",
+    "Provides opportunity for the importation of foreign technology"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The following statements are true EXCEPT",
+   "options": [
+    "The less competitive a market is, the more a firm in that market will charge for its product",
+    "the less competitive a market is, the lower the profits made by firms in that market",
+    "the more competitive a market is, the more a firm in that market will charge for its product",
+    "the more competitive a market is, the lower the profits made by firms in that market"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following would NOT lead to a shift in the demand curve for oranges?",
+   "options": [
+    "A change in the price of oranges",
+    "A change in the price of apples",
+    "A change in the taste of consumers",
+    "A change in the income of consumers"
+   ],
+   "answerIndex": 0
+  }
+ ],
+ "2002": [
+  {
+   "question": "If the price of a commodity falls and the quantity purchased of it does not rise, the commodity can be described as",
+   "options": [
+    "normal",
+    "abnormal",
+    "inferior",
+    "superior"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Mr.A earns N300 and pays N15 in tax. Mr. B earns N100 and pays N6 in tax. This tax system can be described as?",
+   "options": [
+    "proportional tax",
+    "progressive tax",
+    "competitive tax",
+    "regressive tax"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which sector can you say is growing fastest in the Nigeria economy?",
+   "options": [
+    "Agriculture",
+    "Industry",
+    "Education",
+    "Labour"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which is NOT a method of raising capital funds in Nigeria?",
+   "options": [
+    "Borrowing from abroad",
+    "Internal borrowing",
+    "Nigerianization of foreign companies",
+    "Gifts from abroad"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If a firm doubles its output and its cost increase by 60%, the firm is experiencing",
+   "options": [
+    "increase cost",
+    "economies of scale",
+    "decreasing returns",
+    "decreasing cost"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The fundamental problem of Economics is?",
+   "options": [
+    "money",
+    "poverty",
+    "unemployment",
+    "the scarcity of resources relative to wants"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If you do not have to give anything in order to get a particular thing, then its opportunity cost is?",
+   "options": [
+    "zero",
+    "not measurable",
+    "its price in money",
+    "infinite"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is the standard concept for measuring and analyzing population growth?",
+   "options": [
+    "The rate of natural increase",
+    "The net migrate",
+    "The rate of population increase",
+    "All of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "When we draw a market demand curve, we?",
+   "options": [
+    "ignore tastes, incomes and other prices",
+    "assumes that tastes, income and prices do not matter",
+    "assumes that taste, income and all other prices change in same direction as prices",
+    "assume that tastes, incomes and all other prices remain constant"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Capital earns income because?",
+   "options": [
+    "it is productive",
+    "it is expensive",
+    "it is always cheaper to substitute capital for labour",
+    "it is technically more efficient than labour"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In a free market economy, the rationing of scarce goods is done principally by",
+   "options": [
+    "the government",
+    "business organizations",
+    "the price mechanism",
+    "consumers"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A disadvantage of the corporate form of business is the?",
+   "options": [
+    "risk of the owners of loss of personal effects if the business should fail",
+    "ability of the corporation to its financial resources",
+    "limited life span of the corporation",
+    "problems presented by separation ownership from control"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The value of money depends primarily on?",
+   "options": [
+    "the gold backing of the currency",
+    "the gold backing of both currency and deposit",
+    "the general price level",
+    "the amount of money in circulation"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In a mixed economy, the role of the government is to?",
+   "options": [
+    "regulate and control economic activities",
+    "own all the factors of production",
+    "provide free goods and services",
+    "control prices of goods and services"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The concept of opportunity cost is used to explain?",
+   "options": [
+    "the cost of buying a product",
+    "the cost of foregone alternatives",
+    "the cost of production",
+    "the cost of capital"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The impact of inflation on fixed income earners is?",
+   "options": [
+    "neutral",
+    "positive",
+    "negative",
+    "uncertain"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The primary aim of monetary policy is?",
+   "options": [
+    "to control inflation",
+    "to control unemployment",
+    "to increase government revenue",
+    "to reduce the balance of payment deficit"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "When the supply of money increases, the likely effect is?",
+   "options": [
+    "increase in interest rates",
+    "decrease in the level of investment",
+    "decrease in the price level",
+    "increase in inflation"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The theory of comparative advantage explains?",
+   "options": [
+    "why countries should avoid international trade",
+    "why countries should engage in international trade",
+    "why countries should focus on self-sufficiency",
+    "the benefits of reducing trade barriers"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "One of the ways by which Government derives revenue from industrial enterprises in West Africa is?",
+   "options": [
+    "Tariffs",
+    "Excise duties",
+    "Poll tax",
+    "Import duties"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The primary objective of fiscal policy is?",
+   "options": [
+    "to control inflation",
+    "to reduce unemployment",
+    "to stabilize the currency",
+    "to influence the level of economic activity"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In economics, the term 'market failure' refers to?",
+   "options": [
+    "an inefficient allocation of resources",
+    "an excess supply of goods",
+    "an excess demand for goods",
+    "a situation where government intervention is unnecessary"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In a perfectly competitive market, firms are price takers because?",
+   "options": [
+    "they are able to influence the market price",
+    "there are many firms producing identical products",
+    "they have no control over the market",
+    "they can set their own prices"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The production possibility frontier (PPF) illustrates?",
+   "options": [
+    "the maximum output achievable with given resources",
+    "the level of government expenditure",
+    "the distribution of income",
+    "the role of government in the economy"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The purpose of taxation is?",
+   "options": [
+    "to increase government revenue",
+    "to control inflation",
+    "to provide public goods and services",
+    "all of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The primary function of the central bank is?",
+   "options": [
+    "to issue currency",
+    "to regulate commercial banks",
+    "to manage national debt",
+    "all of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The law of demand states that?",
+   "options": [
+    "as price increases, quantity demanded decreases",
+    "as price decreases, quantity demanded decreases",
+    "as price increases, quantity demanded increases",
+    "as price decreases, quantity demanded remains constant"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The concept of elasticity of demand measures?",
+   "options": [
+    "the responsiveness of quantity demanded to a change in price",
+    "the responsiveness of price to changes in income",
+    "the responsiveness of quantity supplied to changes in price",
+    "the responsiveness of demand to changes in government policy"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A market equilibrium is reached when?",
+   "options": [
+    "supply equals demand",
+    "supply is greater than demand",
+    "demand is greater than supply",
+    "price is fixed"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The GDP deflator is used to?",
+   "options": [
+    "measure the inflation rate",
+    "calculate real GDP",
+    "adjust nominal GDP for inflation",
+    "predict future economic growth"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following is an example of a public good?",
+   "options": [
+    "education",
+    "healthcare",
+    "national defense",
+    "clean water"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The marginal cost of production is?",
+   "options": [
+    "the cost of producing an additional unit of output",
+    "the total cost divided by the number of units produced",
+    "the fixed cost of production",
+    "the cost of raw materials"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'GDP' stands for?",
+   "options": [
+    "Gross Domestic Product",
+    "Gross Domestic Profit",
+    "Gross Development Product",
+    "Gross Domestic Purchasing"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT a type of unemployment?",
+   "options": [
+    "cyclical unemployment",
+    "seasonal unemployment",
+    "structural unemployment",
+    "inflationary unemployment"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The primary purpose of monetary policy is?",
+   "options": [
+    "to control inflation",
+    "to influence interest rates",
+    "to manage the money supply",
+    "all of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The equilibrium price in a market is determined by?",
+   "options": [
+    "the interaction of supply and demand",
+    "government regulation",
+    "consumer preferences",
+    "producer costs"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following best describes 'inflation'?",
+   "options": [
+    "a general increase in prices",
+    "a decrease in consumer spending",
+    "a decrease in the money supply",
+    "an increase in interest rates"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'fiscal policy' refers to?",
+   "options": [
+    "government spending and taxation decisions",
+    "central bank actions to influence the money supply",
+    "regulations affecting businesses",
+    "international trade agreements"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A budget surplus occurs when?",
+   "options": [
+    "government expenditure exceeds revenue",
+    "government revenue exceeds expenditure",
+    "government expenditure equals revenue",
+    "there is a deficit in the trade balance"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The concept of 'opportunity cost' implies?",
+   "options": [
+    "the cost of the next best alternative forgone",
+    "the monetary cost of a good or service",
+    "the cost of production",
+    "the total cost of all alternatives"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The situation whereby in a fiscal year a government’s revenue receipts are less than its expenditures is referred to as?",
+   "options": [
+    "budget deficit",
+    "balance budget",
+    "budget surplus",
+    "unfavorable budget"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following statements is NOT true about agriculture in West Africa?",
+   "options": [
+    "Agriculture production is the basis for excise taxes in West Africa",
+    "Agriculture employs over 60% of West Africa’s occupied population",
+    "Many West African countries depend on agricultural exports for foreign exchange earnings",
+    "Agriculture provides incomes to West African farmers who engaged in it"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The process by which West African countries attempt to reduce the import of manufactured goods by encouraging firms to produce these goods at home is known as?",
+   "options": [
+    "industrialization",
+    "export-promotion",
+    "import-substitution",
+    "export-substitution"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Economics may be defined as?",
+   "options": [
+    "the study of human behavior in the allocation of scarce resources",
+    "the study of markets and prices",
+    "the study of production and distribution",
+    "the study of money and banking"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Elasticity of demand is given by",
+   "options": [
+    "the percentage change in quantity demanded divided by the corresponding percentage change in price",
+    "the percentage change in price divided by the corresponding percentage change in quantity demanded",
+    "the percentage change in quantity demanded divided by the corresponding price",
+    "the percentage change in price divided by the corresponding quantity demanded"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If a commodity has many substitutes, it is most likely that?",
+   "options": [
+    "the demand curve is fairly elastic",
+    "the demand curve is fairly inelastic",
+    "the demand curve is parallel to the quantity axis",
+    "the demand curve is positively sloped"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following statements does NOT describe a situation of perfect competition?",
+   "options": [
+    "The firm makes no pure profit in the short run",
+    "The firm faces an infinitely elastic demand curve",
+    "The price does not change with changes in the output level of the firm",
+    "There is freedom of entry into, and exit out of the industry"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Surplus in balance of payment leads to?",
+   "options": [
+    "increases in foreign reserves",
+    "inflation or increasing prices generally",
+    "decreases in foreign reserves",
+    "Government budget surplus"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following does NOT belong in respect of the quantity of money?",
+   "options": [
+    "Measure of value",
+    "Durability",
+    "Division into the smallest units of value",
+    "Portable"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Government budget can be described as the sum of?",
+   "options": [
+    "Planned expenditure and expected revenue within a financial year",
+    "Indirect tax, direct tax, and loans expected within a financial year",
+    "Planned recurrent expenditure and planned investment expenditure",
+    "Planned capital expenditure for a development plan within a plan period"
+   ],
+   "answerIndex": 0
+  }
+ ],
+ "2003": [
+  {
+   "question": "The effect of the demand for product A caused by a change in the price of a product B is called?",
+   "options": [
+    "cross-elasticity of demand",
+    "elasticity of supply",
+    "competitive demand",
+    "composite demand"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following can be regarded as a liability of a commercial bank?",
+   "options": [
+    "advances",
+    "deposits",
+    "treasury bills",
+    "cash"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A Tax which takes a higher percentage from higher incomes is called?",
+   "options": [
+    "a regressive tax",
+    "a progressive tax",
+    "an indirect tax",
+    "a direct tax"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following statements is true?",
+   "options": [
+    "A proportional tax is one which takes from high income people a larger fraction of their income than it takes for low income people",
+    "taxes on commodities of services which can be shifted elsewhere are usually called direct taxes",
+    "The sole proprietor is a legal entity",
+    "the influence of demand on price will be smallest on the short run"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Price control cannot work in Nigeria because",
+   "options": [
+    "the population is too large",
+    "the policemen hate to arrest people",
+    "while it is fairly easy to control producers and importing firms, smaller distributors are too many to be controlled",
+    "control cannot work under military rule"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The foreign exchange market is a market where",
+   "options": [
+    "graded commodities like wheat, flour, etc are sold and bought",
+    "currencies are sold and bought",
+    "treasury bills are sold and bought",
+    "government bonds are sold and bought"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following financial assets consist the lowest rate of interest in Nigeria?",
+   "options": [
+    "commercial bills",
+    "call money",
+    "treasury bills",
+    "development loan stocks"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The effect of the demand for product A caused by a change in the price of a product B is called?",
+   "options": [
+    "cross-elasticity of demand",
+    "elasticity of supply",
+    "competitive demand",
+    "composite demand"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following can be regarded as a liability of a commercial bank?",
+   "options": [
+    "advances",
+    "deposits",
+    "treasury bills",
+    "overdrafts"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A Tax which takes a higher percentage from higher incomes is called?",
+   "options": [
+    "a regressive tax",
+    "a progressive tax",
+    "a proportional tax",
+    "an indirect tax"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The largest liability appearing in the book of a commercial bank is",
+   "options": [
+    "cash",
+    "deposits",
+    "loans and advances",
+    "capital and reserves"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The Lagos clearing house is",
+   "options": [
+    "a commodity market",
+    "an import licensing centre",
+    "another name for the Lagos stock exchange",
+    "a cheque sorting centre"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The biggest source of government revenue in Nigeria is",
+   "options": [
+    "mining, rents and royalties",
+    "company income tax",
+    "import duties",
+    "petroleum profit tax"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "An increase in liquid reserve requirements by the central bank of Nigeria will result in",
+   "options": [
+    "a reduction in commercial banks' excess reserves",
+    "more commercial bank loan to members of the public",
+    "an increase in commercial banks excess reserves",
+    "no change in commercial banks excess reserves"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A distinguishing characteristic of a consumers' cooperative is the fact that",
+   "options": [
+    "the customers are the owners",
+    "the customers are the workers",
+    "the customers are the managers",
+    "the customers are low income people"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Disposable income is the same thing as",
+   "options": [
+    "personal income minus personal savings",
+    "personal income minus taxes",
+    "national income minus depreciation",
+    "exports minus imports"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Marginal cost is",
+   "options": [
+    "Lowest cost of producing goods",
+    "The cost of production of the most efficient firm in the industry",
+    "The cost of production of the last or extra unit of goods produced by a firm",
+    "The cost of production at which the minimum profit is obtained by a firm"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following is not a form of business organization",
+   "options": [
+    "A sole proprietorship",
+    "Cartel",
+    "Partnership",
+    "Joint stock"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "As consumption of beer increases, its marginal utility to a drinker will",
+   "options": [
+    "Increase",
+    "Remain constant",
+    "Fluctuate",
+    "Decrease"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following sector of the economy is estimated to be the largest employer of labour in the country",
+   "options": [
+    "Construction",
+    "Agriculture",
+    "Distribution",
+    "Mining and petroleum"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The expression ‘terms of trade’ is used to describe",
+   "options": [
+    "Quality of export",
+    "The direction of foreign trade",
+    "Terms of purchase on deferred payment basis",
+    "The rate at which export exchange for imports"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If the demand of a product with perfectly elastic supply increases, there will be",
+   "options": [
+    "An increase in price and quantity offered",
+    "An increase in quantity offered but price will remain the same",
+    "A reduction in price and quantity offered",
+    "An increase in price but a reduction in quantity offered for sale"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of these would not be included in the fundamental principle of a free enterprise economy",
+   "options": [
+    "Private ownership of factors of production",
+    "The right to organize factor for production purposes",
+    "The right to make private profit",
+    "Government control of mobility of factor of production"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Economics is called a social science because it is",
+   "options": [
+    "A branch of social studies",
+    "A study of the ways man devises to satisfy his unlimited wants from unlimited resources",
+    "Governed by scientific methods",
+    "Based on laboratory findings"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A firm operates under the condition of diminishing returns when",
+   "options": [
+    "Total cost is greater than total revenue",
+    "Average cost is falling",
+    "Marginal cost is falling",
+    "Marginal cost is rising"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If two commodities are good substitutes for one another, e.g butter and margarine, an increase in the demand for one will reduce the demand for the other. This type of demand is called",
+   "options": [
+    "composite demand",
+    "elastic demand",
+    "derived demand",
+    "competitive demand"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "One of the reason why the condition of supply of a commodity may change is",
+   "options": [
+    "a change in real income",
+    "changes in the technique of production",
+    "a change of fashion or taste",
+    "change in population"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "When the demand curve shift to the right it indicate that a larger quantity is demanded at each price. This is caused by one of the following",
+   "options": [
+    "a fall in income",
+    "a rise in the price of a complement",
+    "a fall in the price of substitute",
+    "none of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "When the price of a commodity is below the equilibrium price the quantity demanded will exceed the quantity supplied. Such a situation is referred to as",
+   "options": [
+    "elastic supply",
+    "joint demand",
+    "excess supply",
+    "none of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The central bank controls the activities of other banks by all but one of the following",
+   "options": [
+    "The use of bank rate",
+    "The purchase or sale of government bonds on the open market",
+    "special deposit",
+    "taxation"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of these alternative is wrong? Central banks are",
+   "options": [
+    "bankers to the government",
+    "bankers to commercial banks",
+    "merchant banks",
+    "controllers and regulators of money supply"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The principle of comparative advantage or comparative cost is NOT based on one of the following assumptions",
+   "options": [
+    "there are restrictions in trade",
+    "there are no cost of transportation",
+    "there is perfect competition",
+    "there are no tariff or import and export quota"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is not a direct tax?",
+   "options": [
+    "company income tax",
+    "capital tax",
+    "purchase tax",
+    "personal income tax"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Division of labour means",
+   "options": [
+    "dividing the labour into different categories",
+    "splitting the process of production into different parts to be completed by each person",
+    "dividing the goods and services into different sections",
+    "group of labourers working in a factory or shop"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "By utility we mean",
+   "options": [
+    "usefulness",
+    "power of satisfying a want",
+    "beneficial",
+    "advantageous"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following is not an indirect tax?",
+   "options": [
+    "excise duty",
+    "company tax",
+    "import duty",
+    "export duty"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Average cost is",
+   "options": [
+    "the total cost of production",
+    "the extra cost of producing one additional unit of output",
+    "cost of producing a unit of output",
+    "variable cost"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Opportunity cost is the",
+   "options": [
+    "price of scarce goods",
+    "resources required for making a commodity",
+    "cost of luxury goods",
+    "alternative forgone in order to satisfy a want"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following institutions specializes in providing funds for medium and long term investment in Nigeria?",
+   "options": [
+    "Nigeria Industrial Development Bank",
+    "Nigeria Bank for Commerce and Industry",
+    "Nigeria Agricultural and Cooperative Bank",
+    "Central Bank of Nigeria"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Commercial banks in Nigeria create money",
+   "options": [
+    "by printing the Naira notes",
+    "through cheque system",
+    "through the use of credit",
+    "by engaging in the sale of securities"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The long-run average cost curve is",
+   "options": [
+    "L-shaped",
+    "V-shaped",
+    "U-shaped",
+    "bowl shaped"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The main function of money includes all of the following EXCEPT",
+   "options": [
+    "a store of value",
+    "a store of wealth",
+    "a unit of account",
+    "a medium of exchange"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The method of agricultural development in Nigeria that has cost the federal government most is",
+   "options": [
+    "river basin development",
+    "agricultural cooperative",
+    "plantation farming",
+    "farm settlement"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One major advantage of the sole proprietor form of business over the company form is",
+   "options": [
+    "the ability to raise capital easily",
+    "its limited liability",
+    "the possibility of continuity",
+    "flexibility in management"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT an aim of trade union?",
+   "options": [
+    "to secure higher wages for members",
+    "to secure better working conditions",
+    "to maintain a closed shop",
+    "to regulate the market"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A commercial bank is unique in that it is the only institution that",
+   "options": [
+    "makes loans to private people and businessmen",
+    "accepts deposits",
+    "can store people's valuables",
+    "can transfer money from one place to another for its customers"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which is an example of an invisible item in the trade Account of Ghana?",
+   "options": [
+    "Export of Cocoa from Ghana",
+    "Import of oil from Nigeria",
+    "A gift of a Peugeot 504 by a firm in Nigeria to a firm in Ghana",
+    "Payment for shipping and insurance by a Ghanaian company to companies outside Ghana"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which is NOT a direct effort to increase Agricultural production in Nigeria?",
+   "options": [
+    "Operation feed the Nation",
+    "Nigerian Youth Service Corps",
+    "Increased loans to farmers and cooperatives",
+    "Research in Agric & Extension services"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If a company doubles all its inputs and discovers that its output is more than doubles, we can say that the company is experiencing",
+   "options": [
+    "Increasing Marginal utility",
+    "Dis economies of scale",
+    "Increasing costs",
+    "Increasing returns to scale"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The quantity supplied of a commodity increases best when",
+   "options": [
+    "Production increases",
+    "Demand increases",
+    "Price of the commodity increases",
+    "Population of the country increases"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2000": [
+  {
+   "question": "Indirect taxes are taxes?",
+   "options": [
+    "which are levied on people and economic units through the goods and services they purchase",
+    "whose incidence always falls on the consumer",
+    "which are based on the progressive principle",
+    "on casinos, airports and capital gains"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Prohibiting the sale of lace materials in Nigeria would probably lead to?",
+   "options": [
+    "Higher price of lace material in Nigeria",
+    "Increase supply of lace material in Nigeria",
+    "Production of better quality lace abroad",
+    "Increase income to all dealers of lace materials in Nigeria"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One of the ways by which Government derives revenue from industrial enterprises in West Africa is?",
+   "options": [
+    "Tariffs",
+    "Excise duties",
+    "Poll tax",
+    "Import duties"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Progressive income tax can be expressed as",
+   "options": [
+    "tax that rises as income rises",
+    "tax that falls as income rises",
+    "tax that is independent of income",
+    "tax that is neutral to income"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Economics is a science which deals basically with",
+   "options": [
+    "allocation of scarce resources",
+    "the factors of production",
+    "oil exportation",
+    "the gross domestic product of nations"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The rate at which commercial banks create money depends upon",
+   "options": [
+    "the ratio of cash reserves to deposits",
+    "the rate at which the banks lend money",
+    "the demand for goods and services",
+    "the value of exports"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The basic economic problems that must be solved in a mixed economy are",
+   "options": [
+    "how to determine the mix of private and public goods to produce",
+    "how to determine the amount of labour that should be employed in production",
+    "how to distribute resources equally among individuals",
+    "how to distribute income equally among individuals"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Marginal cost is best described as",
+   "options": [
+    "the cost of producing an additional unit of output",
+    "the cost of raw materials",
+    "a term used in international trade",
+    "another name for fixed cost"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Suppose that the equilibrium price of an article is N5.00 but the government fixes the price by law at N4.00, the supply will be",
+   "options": [
+    "The same as equilibrium supply",
+    "Greater than equilibrium supply",
+    "Less than the equilibrium supply",
+    "Determined later by government"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A budget deficit means",
+   "options": [
+    "That a country is buying more than is selling",
+    "That a country is selling more than is buying",
+    "That a government is spending more than in takes in taxation",
+    "That a government is spending as much as it takes in taxation"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "When elasticity is zero, the demand curve is",
+   "options": [
+    "Perfectly elastic",
+    "Perfectly inelastic",
+    "Downward sloping",
+    "Circular"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The following is NOT a reason for the existence of small firms",
+   "options": [
+    "Scale of production is limited by size of the market",
+    "Expansion brings diminishing returns",
+    "Large firms can cater for wide markets",
+    "Small firms can provide personal services"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Inferior goods are referred to in Economics as goods",
+   "options": [
+    "Whose quality is low",
+    "Consumed by very poor people",
+    "Whose consumption falls when consumers' income rises",
+    "Which satisfy only the basic needs"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which would you NOT consider an advantage of one-man business?",
+   "options": [
+    "freedom of action",
+    "limited liabilities",
+    "Quick decision-making",
+    "Personal contact with customers"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The budget of Nigeria will be deficit if",
+   "options": [
+    "revenue expenditure exceeds the revenue receipts",
+    "capital expenditure exceeds the capital receipts",
+    "revenue and capital receipts exceeds revenue and capital receipts",
+    "the government is spending more than its receipts"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "An economic problem arises when?",
+   "options": [
+    "manufactured goods are in short supply",
+    "money is in short supply",
+    "buyers are many",
+    "scarcity and choice are involved"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "By subsistence production we mean?",
+   "options": [
+    "goods and services are produced for consumption only",
+    "goods and services are sold to others",
+    "raw materials are produced in the country",
+    "goods and services are produced for the market"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Division of labour means?",
+   "options": [
+    "the labour is divided into different section",
+    "the work is divided into different parts to be completed by each labour",
+    "production is completed by the different department of a factory",
+    "commodities are produced at different times by a single labourer"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A limited liability company is owned by?",
+   "options": [
+    "an individual",
+    "two or more partners",
+    "shareholders",
+    "government"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following best describes 'economic growth'?",
+   "options": [
+    "an increase in the economy's total output",
+    "a rise in the price level",
+    "a decrease in unemployment",
+    "a reduction in government spending"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'Phillips curve' illustrates the relationship between?",
+   "options": [
+    "inflation and unemployment",
+    "interest rates and investment",
+    "supply and demand",
+    "tax rates and government revenue"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'Lorenz curve' is used to represent?",
+   "options": [
+    "income inequality",
+    "unemployment rates",
+    "economic growth",
+    "consumer spending"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is a tool of monetary policy?",
+   "options": [
+    "taxation",
+    "government spending",
+    "open market operations",
+    "regulation of wages"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The 'Gini coefficient' measures?",
+   "options": [
+    "income inequality",
+    "economic efficiency",
+    "market equilibrium",
+    "inflation"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'aggregate demand' curve represents?",
+   "options": [
+    "the total quantity of goods and services demanded at various price levels",
+    "the total quantity of goods and services supplied at various price levels",
+    "the total income earned by factors of production",
+    "the total output produced by an economy"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'price elasticity of supply' measures?",
+   "options": [
+    "the responsiveness of quantity supplied to a change in price",
+    "the responsiveness of quantity demanded to a change in price",
+    "the change in price relative to the change in supply",
+    "the change in demand relative to the change in price"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'business cycle' refers to?",
+   "options": [
+    "the fluctuations in economic activity over time",
+    "the trend of economic growth",
+    "the level of economic development",
+    "the pattern of inflation and deflation"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is an example of a fiscal policy tool?",
+   "options": [
+    "changing interest rates",
+    "regulating money supply",
+    "government spending and taxation",
+    "controlling inflation"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The 'trade balance' measures?",
+   "options": [
+    "the difference between a country's exports and imports",
+    "the total value of exports",
+    "the total value of imports",
+    "the difference between government revenue and expenditure"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'stagflation' describes?",
+   "options": [
+    "high inflation combined with high unemployment",
+    "high inflation combined with economic growth",
+    "low inflation combined with low unemployment",
+    "low inflation combined with high economic growth"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is a characteristic of a monopoly?",
+   "options": [
+    "one seller and many buyers",
+    "many sellers and one buyer",
+    "many buyers and many sellers",
+    "one buyer and many sellers"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'consumer price index' (CPI) measures?",
+   "options": [
+    "the average change in prices paid by consumers for goods and services",
+    "the average change in wages over time",
+    "the average change in production costs",
+    "the average change in government spending"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'trade-off' concept in economics refers to?",
+   "options": [
+    "the cost of forgoing one option in favor of another",
+    "the choice between various investment opportunities",
+    "the decision to spend or save money",
+    "the comparison of different economic theories"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In economics, 'opportunity cost' refers to?",
+   "options": [
+    "the value of the next best alternative forgone",
+    "the cost of production",
+    "the price of a good or service",
+    "the total cost of all alternatives"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'marginal utility' of a good refers to?",
+   "options": [
+    "the additional satisfaction from consuming one more unit",
+    "the total satisfaction from consuming all units",
+    "the cost of producing an additional unit",
+    "the average satisfaction from all units consumed"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The 'law of supply' states that?",
+   "options": [
+    "as price increases, quantity supplied increases",
+    "as price decreases, quantity supplied decreases",
+    "as price increases, quantity demanded decreases",
+    "as price decreases, quantity demanded increases"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "An economy in which both the public and the private sectors contribute substantially to the growth of output is?",
+   "options": [
+    "a mixed economy",
+    "a socialist economy",
+    "a capitalist economy",
+    "an industrial economy"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which is NOT an important factor responsible for high concentration of population in some part of Nigeria?",
+   "options": [
+    "Processing of petroleum oil",
+    "Climate influences",
+    "Development of trade and markets",
+    "Soil fertility"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'monetary policy' refers to?",
+   "options": [
+    "government decisions on taxation and spending",
+    "central bank actions to control the money supply",
+    "regulations affecting the banking sector",
+    "international trade policies"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The principle of 'diminishing marginal utility' states that?",
+   "options": [
+    "as consumption of a good increases, the additional satisfaction decreases",
+    "total satisfaction from a good increases with more consumption",
+    "marginal cost decreases with more production",
+    "utility remains constant regardless of consumption"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'monopolistic competition' refers to?",
+   "options": [
+    "a market structure with many firms offering differentiated products",
+    "a market with only one producer",
+    "a market with only a few firms",
+    "a market where all firms sell identical products"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT a factor of production?",
+   "options": [
+    "land",
+    "labor",
+    "capital",
+    "money"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The concept of 'elasticity' in economics measures?",
+   "options": [
+    "how sensitive demand or supply is to changes in price",
+    "the total revenue from sales",
+    "the fixed cost of production",
+    "the efficiency of production"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'GDP per capita' refers to?",
+   "options": [
+    "the total output of an economy divided by the population",
+    "the total income of all citizens",
+    "the total consumption of goods and services",
+    "the average income of individuals before taxes"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is a characteristic of a public good?",
+   "options": [
+    "non-excludability",
+    "non-rivalry",
+    "both A and B",
+    "none of the above"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The term 'deflation' refers to?",
+   "options": [
+    "a decrease in the general price level",
+    "an increase in the general price level",
+    "an increase in interest rates",
+    "a decrease in the money supply"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following best describes 'economic efficiency'?",
+   "options": [
+    "allocating resources to maximize total welfare",
+    "minimizing production costs",
+    "maximizing output",
+    "reducing unemployment"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The term 'liquidity' in finance refers to?",
+   "options": [
+    "the ease with which an asset can be converted into cash",
+    "the profitability of an investment",
+    "the return on investment",
+    "the risk associated with an asset"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In the context of economics, 'marginal' refers to?",
+   "options": [
+    "the additional or incremental change from a decision",
+    "the total change resulting from a decision",
+    "the average change over time",
+    "the fixed change from a decision"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT a role of the central bank?",
+   "options": [
+    "issuing currency",
+    "regulating commercial banks",
+    "providing loans to businesses",
+    "managing national reserves"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2004": [
+  {
+   "question": "Malthus became famous through his theory which may be stated simply",
+   "options": [
+    "the death rate may become so high that people may not be able to produce",
+    "population may outgrow the means of subsistence",
+    "people will eventually decide not to have children",
+    "migration of people from one place to another may leave some parts of the world barren"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A commercial bank is unique in that it is the only institution that",
+   "options": [
+    "makes loans to private people and businessmen",
+    "accept deposits",
+    "can store peoples' valuables",
+    "can transfer money from one place to another for its customers"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which is an example of an invisible item in the trade Account of Ghana?",
+   "options": [
+    "Export of Cocoa from Ghana",
+    "Import of oil from Nigeria",
+    "A gift of a Peugeot 504 by a firm in Nigeria to a firm in Ghana",
+    "Payment for shipping and insurance by a Ghanaian company to companies outside Ghana"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which is NOT a direct effort to increase Agricultural production in Nigeria?",
+   "options": [
+    "Operation feed the Nation",
+    "Nigerian Youth Service Corps",
+    "Increased loans to farmers and cooperatives",
+    "Research in Agric & Extension services"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If a company doubles all its inputs and discovers that its output is more than doubles, we can say that the company is experiencing",
+   "options": [
+    "Increasing Marginal utility",
+    "Diseconomies of scale",
+    "Increasing costs",
+    "Increasing returns to scale"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Price control cannot work in Nigeria because",
+   "options": [
+    "the population is too large",
+    "the policemen hate to arrest people",
+    "while it is fairly easy to control producers and importing firms, smaller distributors are too many to be controlled",
+    "control cannot work under military rule"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The foreign exchange market is a market where",
+   "options": [
+    "graded commodities like wheat, flour, etc are sold and bought",
+    "currencies are sold and bought",
+    "treasury bills are sold and bought",
+    "government bonds are sold and bought"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following financial assets consist the lowest rate of interest in Nigeria?",
+   "options": [
+    "commercial bills",
+    "call money",
+    "treasury bills",
+    "development loan stocks"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The country will be overpopulated when",
+   "options": [
+    "the rate of birth is high",
+    "the death rate is low",
+    "the growth rate is high",
+    "population is increasing more than resources in the country"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The value of money is generally measured in reference to",
+   "options": [
+    "the interest rate charged on bank loans",
+    "the general price level",
+    "the size of a country's gold stock",
+    "the price of stocks and shares on the stock exchange"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If the quantity demanded of a commodity increases from 20 to 30 when there is an increase in price from N4 to N5, the elasticity of demand is",
+   "options": [
+    "zero",
+    "1",
+    "2",
+    "5"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The total value of goods and services sold and bought in a country across its border during a given period, usually a year, is known as",
+   "options": [
+    "visible trade",
+    "invisible trade",
+    "balance of payments",
+    "terms of trade"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following types of capital is not rewarded by means of dividends?",
+   "options": [
+    "Ordinary shares",
+    "Preference shares",
+    "Participating preference shares",
+    "Debentures"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of these is not usually the function of a wholesaler?",
+   "options": [
+    "Transport",
+    "Storage",
+    "Advertising",
+    "Branding"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Net national income is",
+   "options": [
+    "Gross national income minus depreciation",
+    "Gross domestic product plus net income from abroad",
+    "Gross national income divided by the total population",
+    "Gross national product plus subsidies minus indirect taxes"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If Mr A earns N2,000 a year while Mr B earns N8,000 but Mr A pays N200 in tax per annum while Mr B pays N400, such a tax is",
+   "options": [
+    "Progressive",
+    "Indirect",
+    "Regressive",
+    "Proportional"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following is not an asset of a commercial bank?",
+   "options": [
+    "Cash",
+    "Money at call",
+    "Treasury bills",
+    "Reserve funds"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The lowering of the exchange rate between a country's currency and other currencies is known as",
+   "options": [
+    "The foreign exchange rate",
+    "Deflation",
+    "Exchange control",
+    "None of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "When the average physical product curve is rising, the marginal physical product is",
+   "options": [
+    "Below it",
+    "Above it",
+    "Falling",
+    "Zero"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The proportion of currency in the money supply",
+   "options": [
+    "is higher in developing countries than advanced countries",
+    "is lower in developing countries than advanced countries",
+    "is the same in both developing and advanced countries",
+    "grows as the economy develops"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If a government is running deficit, this means",
+   "options": [
+    "A term of trade are unfavourable",
+    "more project cannot be undertaken",
+    "Tax inflow is greater than expenditure",
+    "tax inflow is less than expenditure"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following assets of the commercial bank does not yield revenue?",
+   "options": [
+    "Money in the tills of the bank",
+    "money at call",
+    "Treasury certificates",
+    "Treasury bills"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is not a component of national income at factor cost?",
+   "options": [
+    "Wages earned by doctor",
+    "Rent paid to landlords",
+    "Indirect tax",
+    "Undistributed company profits"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the financial institutions cannot direct tax loans to individuals?",
+   "options": [
+    "The agricultural bank",
+    "The Industrial bank",
+    "The central bank",
+    "The Co-operative bank"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "An ad valorem tax means",
+   "options": [
+    "total amount of an income tax",
+    "a certain percentage on the value of a commodity",
+    "a certain percentage tax on the volume of commodity",
+    "a tax on capital gain"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The foreign exchange rate of a country is",
+   "options": [
+    "the interest rate fixed by the central bank",
+    "the price of one national currency in terms of another",
+    "the rate at which the central bank issues money",
+    "the rate of interest on government bonds"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The 'terms of trade' means",
+   "options": [
+    "the trade agreement between two countries",
+    "the difference in the volumes of exports of two countries",
+    "the value of a unit of export in relation to the value of a unit of import",
+    "the production of total value of exports to the value of total trade"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which is the most liquid of the following financial assets held by an individual?",
+   "options": [
+    "Outstanding balance on the current account of a commercial bank",
+    "A credit balance on a savings account",
+    "A crossed postal order",
+    "An insurance policy"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The price mechanism",
+   "options": [
+    "regulates supply and demand",
+    "rations the consumers",
+    "rewards the producers",
+    "allocates scarce resources"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "When marginal cost equals marginal revenue of products",
+   "options": [
+    "the firm is producing at a loss",
+    "the firm is at a break-even point",
+    "the firm is making the least profit",
+    "the firm has maximum profit"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which is NOT a function of Central Bank in West Africa",
+   "options": [
+    "Dealing in foreign exchange",
+    "Issuing of currency",
+    "Accepting deposit from private customers",
+    "Acting as government bank"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which is NOT a cause of high population growth in Nigeria?",
+   "options": [
+    "Family planning Unit of Nigeria",
+    "Improve medical facilities",
+    "Reduction in death rate",
+    "Increased birth rate"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Commercial banks can create money in the following ways?",
+   "options": [
+    "by using coins and paper money",
+    "by borrowing money from banks abroad",
+    "by receiving deposit from individuals",
+    "by printing money on the instruction of the central bank"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Utility of a commodity means?",
+   "options": [
+    "its usefulness",
+    "power to satisfy a want",
+    "price of the commodity",
+    "satisfaction derived from the product of commodity"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "International trade arise because?",
+   "options": [
+    "one country has more abundant resource",
+    "one country has the technology to produce the commodity whilst the other has not",
+    "one country has the maximum comparative advantage or minimum comparative disadvantage in the production",
+    "All of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "By balance of visible trade we mean?",
+   "options": [
+    "import and export of goods",
+    "import and export of service",
+    "balance of current account in the balance of payment",
+    "balance of capital account in the balance of payment"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Nigeria earns the major part of her foreign exchange from the export of?",
+   "options": [
+    "manpower to another countries",
+    "crude oil",
+    "petroleum products",
+    "groundnuts and cotton"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following institutions specializes in providing funds for medium and long term investment in Nigeria?",
+   "options": [
+    "Nigeria Industrial Development Bank",
+    "Nigeria Bank for Commerce and Industry",
+    "Nigeria Agricultural and Cooperative Bank",
+    "Central Bank of Nigeria"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Commercial banks in Nigeria create money",
+   "options": [
+    "by printing the Naira notes",
+    "through cheque system",
+    "through the use of credit",
+    "by engaging in the sale of securities"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The long-run average cost curve is",
+   "options": [
+    "L-shaped",
+    "V-shaped",
+    "U-shaped",
+    "bowl shaped"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The main function of money includes all of the following EXCEPT",
+   "options": [
+    "a store of value",
+    "a store of wealth",
+    "a unit of account",
+    "a medium of exchange"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The method of agricultural development in Nigeria that has cost the federal government most is",
+   "options": [
+    "river basin development",
+    "agricultural cooperative",
+    "plantation farming",
+    "farm settlement"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One major advantage of the sole proprietor form of business over the company form is",
+   "options": [
+    "the ability to raise capital easily",
+    "its limited liability",
+    "the possibility of continuity",
+    "flexibility in management"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT an aim of trade union?",
+   "options": [
+    "to secure higher wages for members",
+    "to secure better working conditions",
+    "to maintain a closed shop",
+    "to regulate the market"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A commercial bank is unique in that it is the only institution that",
+   "options": [
+    "makes loans to private people and businessmen",
+    "accepts deposits",
+    "can store people's valuables",
+    "can transfer money from one place to another for its customers"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which is an example of an invisible item in the trade Account of Ghana?",
+   "options": [
+    "Export of Cocoa from Ghana",
+    "Import of oil from Nigeria",
+    "A gift of a Peugeot 504 by a firm in Nigeria to a firm in Ghana",
+    "Payment for shipping and insurance by a Ghanaian company to companies outside Ghana"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which is NOT a direct effort to increase Agricultural production in Nigeria?",
+   "options": [
+    "Operation feed the Nation",
+    "Nigerian Youth Service Corps",
+    "Increased loans to farmers and cooperatives",
+    "Research in Agric & Extension services"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If a company doubles all its inputs and discovers that its output is more than doubles, we can say that the company is experiencing",
+   "options": [
+    "Increasing Marginal utility",
+    "Dis economies of scale",
+    "Increasing costs",
+    "Increasing returns to scale"
+   ],
+   "answerIndex": 3
+  }
+ ],
+ "2005": [
+  {
+   "question": "What do we call a market where there is large number of buyers and sellers, such that no one has an appreciable influence over prices?",
+   "options": [
+    "Free market",
+    "Perfectly competitive market",
+    "Controlled market",
+    "Stock exchange market"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A typical corporate form of business organization is owned by",
+   "options": [
+    "President of a country",
+    "Shareholders",
+    "The general manager and the executives",
+    "Foreigners and citizens of the country"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The burden of tax on a commodity whose demand is infinitely inelastic",
+   "options": [
+    "is zero",
+    "will be borne by the seller alone",
+    "will be borne by the buyer alone",
+    "will be borne by both buyer and seller"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The pre-dominance of non-working housewives and maids in West Africa",
+   "options": [
+    "will understate the national income of the countries",
+    "will overstate the national income of the countries",
+    "will lead to constant per capita income over the years",
+    "will cause unfavourable terms of trade"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Inflation can be curbed by",
+   "options": [
+    "increasing aggregate demand",
+    "paying higher wages",
+    "increasing government expenditure",
+    "reducing aggregate demand"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In most cases the marginal utility derived from a particular good",
+   "options": [
+    "increases as additional units are consumed",
+    "increases at a decreasing rate as additional units are consumed",
+    "decreases at a constant rate as additional units are consumed",
+    "decreases as additional units are consumed"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Infant industries are",
+   "options": [
+    "a baby food and a baby clothing factories",
+    "those which are introducing new products",
+    "industries temporarily protected by tariff barriers until mature enough to compete on world markets",
+    "industries that are allowed to remain permanent cases of adolescence"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Production in Economics occurs when",
+   "options": [
+    "a commodity or service is sold",
+    "utility is created or added",
+    "raw materials are produced or extracted from mines",
+    "all of these"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "From an economic point of view, an activity does not have a cost when",
+   "options": [
+    "someone else pays for it",
+    "the returns are greater than the cost",
+    "the choice involves giving up nothing",
+    "the government pays for it"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which would you NOT consider an agro-based industry in Nigeria?",
+   "options": [
+    "a dairy enterprise producing milk",
+    "a yam flour mill",
+    "a poultry industry",
+    "none of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Price control indicates the following",
+   "options": [
+    "price is fixed at equilibrium level",
+    "price is fixed above equilibrium level",
+    "price is not fixed but determined by demand and supply",
+    "price is fixed below equilibrium level"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following statements is true?",
+   "options": [
+    "A proportional tax is one which takes from high income people a larger fraction of their income than it takes for low income people",
+    "taxes on commodities of services which can be shifted elsewhere are usually called direct taxes",
+    "The sole proprietor is a legal entity",
+    "the influence of demand on price will be smallest on the short run"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "What is the most important factor influencing the location of the iron and steel industry at Ajaokuta?",
+   "options": [
+    "Availability of labour in the area",
+    "Access to transport facilities",
+    "Nearness of raw materials",
+    "Availability of power"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A good measure of the standard of living usually used for international comparison is",
+   "options": [
+    "Gross national income (GNI)",
+    "Net national income (NNI)",
+    "Gross national product (GNP)",
+    "Per capita income (PCI)"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A commodity can be sold for two or more different prices if it is?",
+   "options": [
+    "Produced or sold by oligopoly",
+    "Sold in perfect market",
+    "Produced or sold by monopsony",
+    "Produced or sold by monopoly"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If two commodities are good substitutes for one another, e.g butter and margarine, an increase in the demand for one will reduce the demand for the other. This type of demand is called",
+   "options": [
+    "composite demand",
+    "elastic demand",
+    "derived demand",
+    "competitive demand"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "One of the reason why the condition of supply of a commodity may change is",
+   "options": [
+    "a change in real income",
+    "changes in the technique of production",
+    "a change of fashion or taste",
+    "change in population"
+   ],
+   "answerIndex": 1
+  }
+ ]
+}

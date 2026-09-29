@@ -1,0 +1,3014 @@
+{
+ "2000": [
+  {
+   "question": "Solve the equations m² + n² = 29, m + n = 7.",
+   "options": [
+    "(2, 3) and (3, 5)",
+    "(2, 5) and (5, 2)",
+    "(5, 2) and (5, 3)",
+    "(5, 3) and (3, 5)"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity element is -1, find the inverse of the element 2 under *.",
+   "options": [
+    "4",
+    "zero",
+    "-2",
+    "-4"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to",
+   "options": [
+    "zero",
+    "half of the common difference",
+    "double the common difference",
+    "the common difference"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Factorize 4x² - 9y² + 20x + 25.",
+   "options": [
+    "(2x - 3y + 5)(2x - 3y - 5)",
+    "(2x - 3y)(2x + 3y)",
+    "(2x - 3y + 5)(2x + 3y + 5)",
+    "(2x + 5)(2x - 9y + 5)"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?",
+   "options": [
+    "8cm",
+    "6cm",
+    "9cm",
+    "7cm"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°.",
+   "options": [
+    "4√3cm",
+    "8cm",
+    "8√3cm",
+    "4cm"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
+   "options": [
+    "y = (x/10) + 5",
+    "y = x + 5",
+    "√3y = - x + 5√3",
+    "√3y = x + 5√3"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Given an isosceles triangle with length of 2 equal sides t units and opposite side √3t units with angle θ. Find the value of the angle θ opposite to the √3t units.",
+   "options": [
+    "100°",
+    "120°",
+    "30°",
+    "60°"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3).",
+   "options": [
+    "4",
+    "6",
+    "3",
+    "0"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
+   "options": [
+    "6",
+    "2",
+    "3",
+    "8"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius.",
+   "options": [
+    "6.5 units",
+    "13.0 units",
+    "3.5 units",
+    "7.0 units"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q.",
+   "options": [
+    "040°",
+    "070°",
+    "280°",
+    "320°"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A cylindrical tank has a capacity of 3080 m³. What is the depth of the tank if the diameter of its base is 14 m?",
+   "options": [
+    "(Take pi = 22/7)",
+    "23 m",
+    "25 m",
+    "20 m"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k.",
+   "options": [
+    "y = 4 ± k",
+    "y = k ± 4",
+    "y = 4 + k",
+    "y = k - 4"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST.",
+   "options": [
+    "πr/6",
+    "πr/2",
+    "πr/12",
+    "πr/3"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If the gradient of the curve y = 2kx² + x + 1 at x = 1 is 9, find k.",
+   "options": [
+    "4",
+    "3",
+    "2",
+    "1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units",
+   "options": [
+    "14",
+    "3",
+    "5",
+    "11"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
+   "options": [
+    "y = 90 - x",
+    "y = 150 - x",
+    "y = 60 - x",
+    "y = 120 -x"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
+   "options": [
+    "(1, 1)",
+    "(2, 2)",
+    "(4, 4)",
+    "(4, -4)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR",
+   "options": [
+    "The diagonal QS",
+    "the perpendicular bisector of PQ",
+    "The diagonal PR",
+    "side SR"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The locus of a point which is 5 cm from the line LM is a",
+   "options": [
+    "line distance 10 cm from LM and parallel to LM",
+    "pair of line on opposite sides of LM and parallel to it, each distance 5 cm from LM",
+    "line parallel to LM and 5 cm from LM",
+    "pair of parallel lines on one side of LM and parallel to LM"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
+   "options": [
+    "1",
+    "-3",
+    "2",
+    "-1"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Find the derivatives of (2 + 3x)(1 - x) with respect to x",
+   "options": [
+    "6",
+    "-3",
+    "1 - 6x",
+    "6x - 1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "What is the rate of change of the volume V of a hemisphere with respect to its radius r when r = 2?",
+   "options": [
+    "8π",
+    "16π",
+    "2π",
+    "4π"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the derivatives of the function y = 2x^2(2x - 1) at the point x = -1?",
+   "options": [
+    "18",
+    "16",
+    "-4",
+    "-6"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the value of the expression 2(3 + 4) - 5?",
+   "options": [
+    "9",
+    "11",
+    "7",
+    "13"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Factorize completely ac - 2bc - a + 4b^2",
+   "options": [
+    "(a - 2b)(c - a - 2b)",
+    "(a - 2b)(c + a +2b)",
+    "(a - 2b)(c - a + 2b)",
+    "(a - 2b)(c + a - 2b)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the sum to infinity of the series 1/2 , 1/6, 1/18, .....",
+   "options": [
+    "2/3",
+    "1/3",
+    "3/4",
+    "1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Simplify 1 - (7/3 x 5/4) + 3/5",
+   "options": [
+    "-16/15",
+    "-79/60",
+    "-37/15",
+    "-151/60"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Simplify (√98 -√50)/√32",
+   "options": [
+    "3",
+    "1",
+    "1/2",
+    "1/4"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "An airplane flies from city X on a bearing of 120° for 300 km to city Y, and then on a bearing of 210° for 200 km to city Z. Find the distance and bearing of city Z from city X.",
+   "options": [
+    "424.3 km, 160°",
+    "400 km, 165°",
+    "450 km, 155°",
+    "500 km, 170°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If (frac{9^{2x-1}}{27^{x+1}} = 1, find the value of x.",
+   "options": [
+    "8",
+    "5",
+    "3",
+    "2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A boat sails from point P on a bearing of 080° for 120 km and then changes course to 170° and sails for 80 km. Find the distance and bearing of the boat from point P.",
+   "options": [
+    "140.3 km, 107°",
+    "150 km, 110°",
+    "130 km, 105°",
+    "160 km, 115°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the variance of 2, 6, 8, 6, 2 and 6",
+   "options": [
+    "6",
+    "5",
+    "√6",
+    "√5"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination",
+   "options": [
+    "490",
+    "495",
+    "496",
+    "498"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the range of 1/6, 1/3, 3/2, 2/3, 8/9 and 4/3",
+   "options": [
+    "3/4",
+    "5/6",
+    "7/6",
+    "4/3"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If P344₆ - 23P2₆ = 2PP2₆, find the value of the digit P.",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A binary operation * is defined by a * b = ab. If a * 2 = 2 - a, find the possible values of a.",
+   "options": [
+    "1, -1",
+    "1, 2",
+    "2, -2",
+    "1, -2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The 3rd term of an A.P is 4x - 2y and the 9th term is 10x - 8y. Find the common difference.",
+   "options": [
+    "19x - 17y",
+    "8x - 4y",
+    "x - y",
+    "2x"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the inverse of p under the binary operation * defined by p * q = p + q - pq, where p and q are real numbers and zero is the identity.",
+   "options": [
+    "p",
+    "p - 1",
+    "p/(p-1)",
+    "p/(p+1)"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If (a^2 b^{-3}c)^{3/4} / a^{-1}b^{4}c^{5} = a^{p} b^{q} c^{r} What is the value of p+2q?",
+   "options": [
+    "5/2",
+    "-(5/4)",
+    "-(25/4)",
+    "-10"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A trader bought 100 oranges at 5 for N1.20, 20 oranges got spoilt and the remaining were sold at 4 for N1.50. Find the percentage gain or loss.",
+   "options": [
+    "30% gain",
+    "25% gain",
+    "30% loss",
+    "25% loss"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the answer when 2434_6 is divided by 42_6?",
+   "options": [
+    "236",
+    "356",
+    "526",
+    "556"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If 2_9 x (Y3)_9 = 3_5 x (Y3)_5, find the value of Y.",
+   "options": [
+    "4",
+    "3",
+    "2",
+    "1"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Simplify √((0.0023 × 750) / (0.00345 × 1.25))",
+   "options": [
+    "15",
+    "20",
+    "40",
+    "75"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If m * n = (m/n - n/m) for m, n belong to R, evaluate -3*4",
+   "options": [
+    "-25/12",
+    "-7/12",
+    "7/12",
+    "25/12"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The sum of two numbers is twice their difference. If the difference of the numbers is P, find the larger of the two numbers",
+   "options": [
+    "p/2",
+    "3p/2",
+    "5p/2",
+    "3p"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A binary operation * is defined by a*b = ab + a + b for any real number a and b. if the identity element is zero, find the inverse of 2 under this operation.",
+   "options": [
+    "2/3",
+    "1/2",
+    "-1/2",
+    "-2/3"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Given P = {1, 3, 5, 7, 9, 11} and Q = {2, 4, 6, 8, 10, 12}. Determine the relationship between P and Q",
+   "options": [
+    "P∩Q = ∅",
+    "P ⊂ Q",
+    "Q⊂P",
+    "P = Q"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Factorize completely x^{2} + 2xy + y^{2} + 3x + 3y - 18.",
+   "options": [
+    "(x+y+6)(x+y-3)",
+    "(x-y-6)(x-y+3)",
+    "(x-y+6)(x-y-3)",
+    "(x+y-6)(x+y+3)"
+   ],
+   "answerIndex": 0
+  }
+ ],
+ "2001": [
+  {
+   "question": "Evaluate: (1/2 - 1/4 + 1/8 - 1/16 + ...) - 1",
+   "options": [
+    "2/3",
+    "zero",
+    "-2/3",
+    "-1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax³ + bx² + cx - 1, find a, b, c in that order.",
+   "options": [
+    "⁻¹/₂, 1, ¹/₂",
+    "¹/₂, 1, ¹/₂",
+    "¹/₂, 1, ⁻¹/₂",
+    "¹/₂, -1, ¹/₂"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A plane flies from point X on a bearing of 030° for 400 km and then flies on a bearing of 150° for 300 km. Find the distance and bearing of the plane from point X.",
+   "options": [
+    "515.2 km, 087°",
+    "500 km, 090°",
+    "550 km, 080°",
+    "600 km, 085°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A trader realizes 10x - x² naira profit from the sale of x bags on corn. How many bags will give him the desired profit?",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is 1 * 1?",
+   "options": [
+    "2",
+    "1",
+    "2",
+    "2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the result of 5 * 5?",
+   "options": [
+    "5",
+    "10",
+    "30",
+    "25"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+   "options": [
+    "25",
+    "19",
+    "18",
+    "17"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+   "options": [
+    "1/2 X",
+    "X - 1/4",
+    "X - 1/3",
+    "X - 1/2"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the value of X if √2 / (x + √2) = 1 / (x - √2)",
+   "options": [
+    "3√2 + 4",
+    "3√2 - 4",
+    "3 - 2√2",
+    "4 + 2√2"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A plane flies from airport X on a bearing of 045° for 500 km to airport Y and then on a bearing of 135° for 400 km to airport Z. Find the distance and bearing of airport Z from airport X.",
+   "options": [
+    "824.6 km, 095°",
+    "800 km, 100°",
+    "850 km, 105°",
+    "900 km, 110°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality",
+   "options": [
+    "60",
+    "30",
+    "20",
+    "15"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
+   "options": [
+    "-5, -4",
+    "-4,. -5",
+    "4, 5",
+    "5, 4"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
+   "options": [
+    "1/4",
+    "1/2",
+    "2/3",
+    "3/2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Triangle OPQ above is the solution of the inequalities",
+   "options": [
+    "x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+    "y + x ≤ 0, y - x ≥ 0, x -1 ≥ 0",
+    "x - 1 ≤ 0, y - x ≥ o, y + x ≥ 0",
+    "x - 1 ≤ 0, y + x ≤ 0, y - x ≤ 0"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A pilot flies from airport A on a bearing of 090° for 350 km to airport B. From B, the pilot flies on a bearing of 180° for 400 km to airport C. Find the distance and bearing of airport C from airport A.",
+   "options": [
+    "538.5 km, 143°",
+    "550 km, 145°",
+    "500 km, 140°",
+    "600 km, 150°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?",
+   "options": [
+    "2π",
+    "5π",
+    "π",
+    "4π"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If y = x^2 - (1/x). find dy/dx",
+   "options": [
+    "2x - (1/x2)",
+    "2x + x2",
+    "2x - x2",
+    "2x + (1/x2)"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
+   "options": [
+    "15 days",
+    "12 days",
+    "5 days",
+    "9 days"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The angle of elevation of the top of a tower from a point on the ground is 30°. From another point 40 m closer to the tower, the angle of elevation is 45°. Find the height of the tower.",
+   "options": [
+    "40 m",
+    "34.64 m",
+    "50 m",
+    "44.72 m"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Two points A and B are 200 m apart on a horizontal plane. The angle of elevation of a tower from A is 30° and from B is 45°. Find the height of the tower.",
+   "options": [
+    "200(√3 - 1) m",
+    "173.21 m",
+    "150 m",
+    "100 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d.",
+   "options": [
+    "2a + 2 = 0",
+    "3a + 5d = 0",
+    "a + 3d = 0",
+    "a + 2d = 0"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A person standing 300 m away from the base of a building observes the top of the building at an angle of elevation of 20°. After walking 200 m towards the building, the angle of elevation is observed to be 40°. Find the height of the building.",
+   "options": [
+    "300(tan 40° - tan 20°) m",
+    "80 m",
+    "150 m",
+    "250 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The inverse function f(x) = 3x + 4 is",
+   "options": [
+    "(x-4)/3",
+    "(x-5)/5",
+    "(x+3)/4",
+    "(x+4)/3"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c.",
+   "options": [
+    "4",
+    "3",
+    "2",
+    "1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The binary operation * is defined on the set of integers p and q by p*q = pq + p + q. Find 2 * (3 * 4).",
+   "options": [
+    "59",
+    "19",
+    "67",
+    "38"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... is",
+   "options": [
+    "11/3",
+    "10/3",
+    "5/2",
+    "3/2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9)",
+   "options": [
+    "4",
+    "27",
+    "√3",
+    "√17"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A chord of a circle subtends an angle of 120° degrees at the centre of a circle of diameter 4√3 cm. Calculate the area of the major sector.",
+   "options": [
+    "4π cm2",
+    "32 π cm2",
+    "16 π cm2",
+    "8 π cm2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Find the equation of the set of points which are equidistant from the parallel lines x = 1 and x = 7",
+   "options": [
+    "y = 3",
+    "x = 3",
+    "x = 4",
+    "y = 4"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A bucket is 12 cm in diameter at the top, 8 cm in diameter at the bottom and 4 cm deep. Calculate its volume.",
+   "options": [
+    "304π/3 cm3",
+    "144π cm3",
+    "128π cm3",
+    "72π cm3"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have?",
+   "options": [
+    "12",
+    "20",
+    "40",
+    "10"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
+   "options": [
+    "(2, 0)",
+    "(1, -2)",
+    "(-1, -2)",
+    "(1, 2)"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the equation of the locus of a point P(x, y) such that PV = PW, where V = (1,1) and W = (3,5).",
+   "options": [
+    "2x + 2y = 9",
+    "2x + 3y = 8",
+    "2x + y = 9",
+    "x + 2y = 8"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The angles of elevation of the top of a flagpole from two points A and B on a horizontal line passing through its base are 30° and 60° respectively. If the distance between A and B is 20 m, find the height of the flagpole.",
+   "options": [
+    "10(√3 + 1) m",
+    "17.32 m",
+    "25 m",
+    "15 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the area bounded by the curve y = x(2 - x), the x-axis, x = 0, and x = 2.",
+   "options": [
+    "4 sq units",
+    "2 sq units",
+    "⁴/₃ sq units",
+    "¹/₃ sq units"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Evaluate: ∫π/⁴₀(sin x - cos x) dx",
+   "options": [
+    "√2 + 1",
+    "√2 - 1",
+    "-√2 - 1",
+    "1 - √2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the volume of the solid generated when the area enclosed by y = 0, y = 2x, and x = 3 is rotated about the x-axis.",
+   "options": [
+    "81 π cubic units",
+    "36 π cubic units",
+    "18 π cubic units",
+    "9 π cubic units"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the derivative of t² sin (3t - 5) with respect to t?",
+   "options": [
+    "6t cos (3t - 5)",
+    "2t sin (3t - 5) - 3t² cos (3t - 5)",
+    "2t sin (3t - 5) + 3t² cos (3t - 5)",
+    "2t sin (3t - 5) + t² cos 3t"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Evaluate ∫¹-₂(x - 1)² dx",
+   "options": [
+    "⁻¹⁰/₃",
+    "7",
+    "9",
+    "11"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the value of x for which the function y = x³ - x has a minimum value.",
+   "options": [
+    "-√3",
+    "-√³/₃",
+    "√³/₃",
+    "√3"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If the minimum value of y = 1 + hx - 3x² is 13, find h.",
+   "options": [
+    "13",
+    "12",
+    "11",
+    "10"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}. Determine (P-Q) ∩ R.",
+   "options": [
+    "{1, x}",
+    "{x, y}",
+    "{x}",
+    "ɸ"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?",
+   "options": [
+    "480,000",
+    "249,696",
+    "249,600",
+    "244,800"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If (²√³ ⁻ √²)/(√₃ + ₂√₂) = m + n√6, find the values of m and n respectively.",
+   "options": [
+    "1, -2",
+    "-2, 1",
+    "⁻²/₅, 1",
+    "2, ³/₅"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?",
+   "options": [
+    "8",
+    "24",
+    "62",
+    "86"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Evaluate: (².⁸¹³ × ¹⁰⁻³ × 1.063)/(₅.₆₃₇ × ₁₀⁻²) reducing each number to two significant figures and leaving your answer in two significant figures.",
+   "options": [
+    "0.056",
+    "0.055",
+    "0.054",
+    "0.54"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A ship leaves port P and sails on a bearing of 060° for 250 km to point Q. It then changes course and sails on a bearing of 150° for 300 km to point R. Find the distance and bearing of point R from port P.",
+   "options": [
+    "431.6 km, 108°",
+    "450 km, 110°",
+    "470 km, 105°",
+    "500 km, 115°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?",
+   "options": [
+    "N112,000.50",
+    "N96,000.00",
+    "N85,714.28",
+    "N76,800.00"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If 314₁₀ - 256₇ = 340x, find x.",
+   "options": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Simplify: ³(²ⁿ⁺¹) - 4(2ⁿ⁻¹)/₂ⁿ⁺¹ - ₂ⁿ",
+   "options": [
+    "2n+1",
+    "2n-1",
+    "4",
+    "1/4"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2002": [
+  {
+   "question": "A hunter 1.6 m tall, views a bird on top of a tree at an angle of 45°. if the distance between the hunter and the tree is 10.4 m, find the height of the tree.",
+   "options": [
+    "9.0 m",
+    "12. 0 m",
+    "8.8 m",
+    "10.4 m"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "From a point A on the ground, the angle of elevation to the top of a building is 20°. From another point B, 100 m closer to the building, the angle of elevation is 40°. Find the height of the building.",
+   "options": [
+    "100(tan 40° + tan 20°) m",
+    "90 m",
+    "120 m",
+    "150 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A solid hemisphere has a radius of 7 cm. Find the total surface area.",
+   "options": [
+    "400 cm2",
+    "462 cm2",
+    "66 cm2",
+    "308 cm2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
+   "options": [
+    "-4",
+    "4",
+    "8",
+    "-8"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The locus of a point P which is equidistant from two given points S and T is",
+   "options": [
+    "the perpendicular bisector of ST",
+    "the angle bisector of PS and ST",
+    "a perpendicular to ST",
+    "a line parallel to ST"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A person standing on top of a cliff 100 m high looks down at a point on the ground. The angle of depression is 45°. Find the horizontal distance from the point to the base of the cliff.",
+   "options": [
+    "100 m",
+    "50 m",
+    "75 m",
+    "150 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A balloon is observed at an angle of elevation of 45° from a point A on the ground. After rising vertically by 100 m, it is observed from the same point at an angle of elevation of 60°. Find the height of the balloon initially.",
+   "options": [
+    "100√3 - 100 m",
+    "50 m",
+    "100 m",
+    "150 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12",
+   "options": [
+    "3",
+    "4",
+    "1",
+    "2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is",
+   "options": [
+    "10",
+    "11",
+    "6",
+    "8"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The probability of a student passing any exam is 2/3. If the student takes three exams, what is the probability that he will not pass any of them?",
+   "options": [
+    "2/3",
+    "4/9",
+    "8/27",
+    "1/27"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart?",
+   "options": [
+    "108°",
+    "180°",
+    "36°",
+    "60°"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "How many three-digit numbers can be formed from 32564 without repeating any of the digits?",
+   "options": [
+    "120",
+    "10",
+    "20",
+    "60"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set.",
+   "options": [
+    "105",
+    "100",
+    "95",
+    "110"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8.",
+   "options": [
+    "13/6",
+    "5/2",
+    "7/6",
+    "7/3"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In a class of 40 students, 32 offer Mathematicsematics, 24 offer Physics, and 4 offer neither Mathematicsematics nor Physics. How many offer both Mathematicsematics and Physics?",
+   "options": [
+    "20",
+    "16",
+    "8",
+    "4"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit?",
+   "options": [
+    "N2,160.00",
+    "N1, 620.00",
+    "N630.00",
+    "N360.00"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K.",
+   "options": [
+    "-4/3",
+    "-3/4",
+    "3/4",
+    "4/3"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 ≤ x ≤ 2, at which point(s) will they meet?",
+   "options": [
+    "(1,1) only",
+    "(1,1) and (1,2)",
+    "(0,0) and (1,1)",
+    "(√2,√2) only"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the value of ∫π₀(cos²θ - 1)/(sin²θ) dθ",
+   "options": [
+    "π",
+    "π/2",
+    "-π/2",
+    "-π"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If y = 2x - sin 2x, find dy/dx when x = π/4",
+   "options": [
+    "π",
+    "-π",
+    "π/2",
+    "-π/2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A bowl is designed by revolving completely the area enclosed by y = x² - 1, y = 3 and x ≥ 0 around the axis. What is the volume of this bowl?",
+   "options": [
+    "7π cubic units",
+    "15π/2 cubic units",
+    "8π cubic units",
+    "17π/2 cubic units"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If the volume of a hemisphere is increasing at a steady rate of 18π m³ s⁻¹, at what rate is its radius changing when it is 6m?",
+   "options": [
+    "2.50 m/s",
+    "2.00 m/s",
+    "0.25 m/s",
+    "0.20 m/s"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "X and Y are two events. The probability of X or Y is 0.7 and that of X is 0.4. If X and Y are independent, find the probability of Y.",
+   "options": [
+    "0.30",
+    "0.50",
+    "0.57",
+    "1.80"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A ship sails from port A on a bearing of 070° for 150 km and then changes course to 160° and sails for 100 km. Find the distance and bearing of the ship from port A.",
+   "options": [
+    "180.3 km, 103°",
+    "170 km, 100°",
+    "200 km, 105°",
+    "190 km, 110°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation.",
+   "options": [
+    "0",
+    "2",
+    "3",
+    "4"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In how many ways can the word MathematicsEMATICS be arranged?",
+   "options": [
+    "11!/(9! 2!)",
+    "11!/(9! 2! 2!)",
+    "11!/(2! 2! 2!)",
+    "11!/(2! 2!)"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Given that the various faces of a fair die 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f). If a pie chart is used to depict the data, the angle corresponding to 4 is?",
+   "options": [
+    "10°",
+    "16°",
+    "40°",
+    "60°"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If U = {x : x is an integer and 1 ≤ x ≤ 20} E₁ = {x : x is a multiple of 3} E₂ = {x : x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E₂.",
+   "options": [
+    "3/4",
+    "3/10",
+    "1/4",
+    "1/20"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The variance of x, 2x, 3x, 4x, and 5x is",
+   "options": [
+    "x√2",
+    "2x²",
+    "x²",
+    "3x"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In a school, 220 students offer Biology or Mathematicsematics or both. 125 offer Biology and 110 Mathematicsematics. How many offer Biology but not Mathematicsematics?",
+   "options": [
+    "95",
+    "80",
+    "125",
+    "110"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Simplify 52.4 - 5.7 - 3.45 - 1.75",
+   "options": [
+    "41.4",
+    "41.5",
+    "42.1",
+    "42.2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?",
+   "options": [
+    "60",
+    "50",
+    "45",
+    "36"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5.",
+   "options": [
+    "16",
+    "14",
+    "12",
+    "10"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included?",
+   "options": [
+    "15",
+    "28",
+    "30",
+    "45"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)?",
+   "options": [
+    "y = (3x²/2) + 2x",
+    "y = (3x²/2) + x",
+    "y = 3x² + (x/2)",
+    "y = 3x² + 2x"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The expression ax² + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively?",
+   "options": [
+    "1, 3, 1",
+    "1, 2, 1",
+    "2, 1, 1",
+    "1, 1, 3"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places",
+   "options": [
+    "20.980",
+    "20.351",
+    "20.981",
+    "20.352"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p² - q²)/(2pq).",
+   "options": [
+    "2(2+√2)",
+    "-2(2+√2)",
+    "2√2",
+    "-2√2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A plane flies from airport X on a bearing of 045° for 500 km to airport Y and then on a bearing of 135° for 400 km to airport Z. Find the distance and bearing of airport Z from airport X.",
+   "options": [
+    "824.6 km, 095°",
+    "800 km, 100°",
+    "850 km, 105°",
+    "900 km, 110°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum.",
+   "options": [
+    "N4,900",
+    "N5,000",
+    "N4,700",
+    "N4,800"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Tope bought X oranges at N5.00 each and some mangoes at N4.00 each. If she bought twice as many mangoes as oranges and spent at least N65.00 and at most N130.00, find the range of values of X.",
+   "options": [
+    "4≤X≤5",
+    "5≤X≤8",
+    "5≤X≤10",
+    "8≤X≤10"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Three consecutive positive integers k, l and m are such that l² = 3(k+m). Find the value of m.",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Express ¹/x³-₁ in partial fractions.",
+   "options": [
+    "¹/₃(¹/x-₁ - (ˣ⁺²)/x²+x+₁)",
+    "¹/₃(¹/x-₁ - (ˣ⁻²)/x²+x+₁)",
+    "¹/₃(¹/x-₁ - (ˣ⁻²)/x²+x+₁)",
+    "¹/₃(¹/x-₁ - (ˣ⁻¹)/x²-x-₁)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The first term of a geometric progression is twice its common ratio. Find the sum of the first two terms of the G.P if its sum to infinity is 8.",
+   "options": [
+    "8/5",
+    "8/3",
+    "72/25",
+    "56/9"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Divide 4x³ - 3x + 1 by 2x - 1.",
+   "options": [
+    "2x² - x + 1",
+    "2x² - x - 1",
+    "2x² + x + 1",
+    "2x² + x - 1"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Find a positive value of α if the coordinate of the centre of a circle x² + y² - 2αx + 4y - α = 0 is (α, -2) and the radius is 4 units.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A man 1.7m tall observes a bird on top of a tree at an angle of 30°. If the distance between the man's head and the bird is 25m, what is the height of the tree?",
+   "options": [
+    "26.7m",
+    "14.2m",
+    "1.7 + 25√³/₃m",
+    "1.7 + 25√²/₂m"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In ∆MNO, MN = 6 units, MO = 4 units and NO = 12 units. If the bisector of ∠M meets NO at P, calculate NP.",
+   "options": [
+    "4.8 units",
+    "7.2 units",
+    "8.0 units",
+    "18.0 units"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the tangent to the acute angle between the lines 2x + y = 3 and 3x - 2y = 5.",
+   "options": [
+    "-7/4",
+    "7/8",
+    "7/4",
+    "7/2"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "From a point P, the bearings of two points Q and R are N67°W and N23°E respectively. If the bearing of R from Q is N68°E and PQ = 150m, calculate PR.",
+   "options": [
+    "120m",
+    "140m",
+    "150m",
+    "160m"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2003": [
+  {
+   "question": "Factorize completely 4abx - 2axy -12b2x + 6bxy",
+   "options": [
+    "2x(a - 3b)(2b - y)",
+    "2x(3b - a)(2b - y)",
+    "2x(a - 3b)(y - 2b)",
+    "2x(2b - a)(3b - y)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
+   "options": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If y = x sinx, find dy/dx when x = π/2.",
+   "options": [
+    "-π/2",
+    "-1",
+    "1",
+    "π/2"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Determine the solution for 3x + 4 = 19.",
+   "options": [
+    "5",
+    "4",
+    "6",
+    "7"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced?",
+   "options": [
+    "12",
+    "21",
+    "28",
+    "32"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the mean deviation of 1, 2, 3 and 4",
+   "options": [
+    "2.5",
+    "2.0",
+    "1.0",
+    "1.5"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+   "options": [
+    "25 ways",
+    "10 ways",
+    "15 ways",
+    "20 ways"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
+   "options": [
+    "9",
+    "7",
+    "42",
+    "15"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?",
+   "options": [
+    "9/35",
+    "11/35",
+    "4/7",
+    "3/7"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly",
+   "options": [
+    "378 ways",
+    "462 ways",
+    "840 ways",
+    "924 ways"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?",
+   "options": [
+    "4",
+    "3",
+    "1",
+    "2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A histogram is described completely by",
+   "options": [
+    "Rectangular bars of equal width and the height of each rectangular bar is proportional to the frequency of the corresponding class interval.",
+    "Rectangular bars of equal width and rectangular bars have common sides with no gaps in between",
+    "The height of each rectangular bar is proportional to the frequency of the corresponding class interval and rectangular bars have common sides with no gaps in between",
+    "All of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "y is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
+   "options": [
+    "2",
+    "10",
+    "1/5",
+    "1/10"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "What are the integer values of x which satisfy the inequality -1 < 3 -2x ≤ 5?",
+   "options": [
+    "-1. 0, 1, 2",
+    "-2, 1, 0 , -1",
+    "0, 1, 2",
+    "-1, 0, 1"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Calculate the circumference of a circle with a radius of 7.",
+   "options": [
+    "14π",
+    "7π",
+    "21π",
+    "28π"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is the sum of the interior angles of a triangle?",
+   "options": [
+    "180 degrees",
+    "90 degrees",
+    "360 degrees",
+    "270 degrees"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
+   "options": [
+    "square of sides p",
+    "square of sides 2p",
+    "square of sides (p/2)",
+    "square of sides (p/4)"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A car dealer bought a second-hand car for N250,000 and spent N70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+   "options": [
+    "60%",
+    "32%",
+    "25%",
+    "20%"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Solve the inequality 2 - x > x².",
+   "options": [
+    "x 1",
+    "x > 2 or x < -1",
+    "-1 < x < 2",
+    "-2 < x < 1"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If α and β are the roots of the equation 3x² + 5x - 2 = 0, find the value of 1/α + 1/β",
+   "options": [
+    "-5/3",
+    "-2/3",
+    "1/2",
+    "5/2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A frustrum of pyramid with square base has its upper and lower sections as squares of sizes 2m and 5m respectively and the distance between them 6m. Find the height of the pyramid from which the frustrum was obtained.",
+   "options": [
+    "8.0 m",
+    "8.4 m",
+    "9.0 m",
+    "10.0 m"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 60°, find angle UST.",
+   "options": [
+    "310°",
+    "130°",
+    "80°",
+    "50°"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An equilateral triangle of side √3cm is inscribed in a circle. Find the radius of the circle.",
+   "options": [
+    "2/3 cm",
+    "2 cm",
+    "1 cm",
+    "3 cm"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the value of α^2 + β^2 if α + β = 2 and the distance between points (1, α) and (β, 1) is 3 units",
+   "options": [
+    "14",
+    "3",
+    "5",
+    "11"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
+   "options": [
+    "y = 90 - x",
+    "y = 150 - x",
+    "y = 60 - x",
+    "y = 120 - x"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "",
+   "options": [
+    "60 cm²",
+    "72 cm²",
+    "48 cm²",
+    "24 cm²"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
+   "options": [
+    "(1, 1)",
+    "(2, 2)",
+    "(4, 4)",
+    "(4, -4)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Determine the locus of a point inside a square PQRS which is equidistant from PQ and QR",
+   "options": [
+    "The diagonal QS",
+    "The perpendicular bisector of PQ",
+    "The diagonal PR",
+    "Side SR"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced?",
+   "options": [
+    "12",
+    "21",
+    "28",
+    "32"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "find the mean deviation of 1, 2, 3 and 4",
+   "options": [
+    "2.5",
+    "2.0",
+    "1.0",
+    "1.5"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The slope of the tangent to the curve y = 3x^2 - 2x + 5 at the point (1, 6) is",
+   "options": [
+    "4",
+    "1",
+    "6",
+    "5"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Triangle OPQ above is the solution of the inequalities",
+   "options": [
+    "x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+    "y + x ≤ 0, y - x ≥ 0, x -1 ≥ 0",
+    "x - 1 ≤ 0, y - x ≥ o, y + x ≥ 0",
+    "x - 1 ≤ 0, y + x ≤ 0, y - x ≤ 0"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Factorize completely 4abx - 2axy -12b2x + 6bxy",
+   "options": [
+    "2x(a - 3b)(2b - y)",
+    "2x(3b - a)(2b - y)",
+    "2x(a - 3b)(y - 2b)",
+    "2x(2b - a)(3b - y)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
+   "options": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Find the value of x in the diagram above",
+   "options": [
+    "85",
+    "95",
+    "105",
+    "115"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In a class of 35 students, 22 study English, 18 study Mathematicsematics and 6 study neither English nor Mathematicsematics. How many students study both subjects?",
+   "options": [
+    "5",
+    "7",
+    "9",
+    "11"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "From the diagram, find PR",
+   "options": [
+    "24",
+    "26",
+    "28",
+    "30"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The angle of elevation of the top of a tree from a point 35 m from its foot on a horizontal ground is 56°. Find the height of the tree",
+   "options": [
+    "52.3 m",
+    "54.6 m",
+    "56.5 m",
+    "58.6 m"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the area of a triangle whose sides are 13 cm, 14 cm and 15 cm",
+   "options": [
+    "75 cm²",
+    "84 cm²",
+    "90 cm²",
+    "96 cm²"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the median of the data set 2, 6, 8, 4, 7, 3, 9",
+   "options": [
+    "4",
+    "6",
+    "7",
+    "8"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Evaluate ((0.14^2 \\times 0.275)/7(0.02)) to 3 decimal places.",
+   "options": [
+    "0.039",
+    "0.385",
+    "0.033",
+    "0.038"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Evaluate ((0.14^2 \\times 0.275)/7(0.02)) to 3 decimal places.",
+   "options": [
+    "0.039",
+    "0.385",
+    "0.033",
+    "0.038"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Divide: a^{3x} - 26a^{2x} + 156a^{x} - 216 by a^{2x} - 24a^{x} + 108.",
+   "options": [
+    "ax - 2",
+    "ax + 2",
+    "ax - 8",
+    "ax - 6"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If two graphs y = px^2 + q and y = 2x^2 -1 intersect at x = 2, find the value of p in terms q.",
+   "options": [
+    "(q-8/7)",
+    "(7-q/4)",
+    "(8-q/2)",
+    "(7+q/8)"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the integral values of x and y satisfying the inequality 3y + 5x \\leq 15, given that y > 0, y 0.",
+   "options": [
+    "(1,1), (1,2), (1,3)",
+    "(1,1), (2,1), (1,3)",
+    "(1,1), (3,1), (2,2)",
+    "(1,1), (1,2), (2,1)"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Evaluate \\int 2(2x - 3)^{(2/3)} \\Mathematicsrm{d}x",
+   "options": [
+    "3/5(2x-3)5/3 + k",
+    "6/5(2x-3)5/3 + k",
+    "2x-3+k",
+    "2(2x-3)+k"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Differentiate (2x+5)^{2} (x-4) with respect to x.",
+   "options": [
+    "4(2x+5)(x-4)",
+    "4(2x+5)(4x-3)",
+    "(2x+5)(2x-13)",
+    "(2x+5)(6x-11)"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Find the area bounded by the curves y = 4 - x² and y = 2x + 1.",
+   "options": [
+    "20(1/3) sq. units",
+    "20(2/3) sq. units",
+    "10(2/3) sq. units",
+    "10(1/3) sq. units"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1.",
+   "options": [
+    "12π",
+    "4π",
+    "24π",
+    "8π"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode.",
+   "options": [
+    "49",
+    "121",
+    "25",
+    "64"
+   ],
+   "answerIndex": 1
+  }
+ ],
+ "2004": [
+  {
+   "question": "A man made a profit of 5% when he sold an article for N60,000.00. How much would he have sell the article to make a profit of 26%",
+   "options": [
+    "N68,000",
+    "N72,000",
+    "N65,000",
+    "N70,000"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If X = {all the perfect squares less than 40} Y = {all the odd numbers from 1 to 15}. Find X ∩ Y.",
+   "options": [
+    "{3, 9}",
+    "{9}",
+    "{9, 25}",
+    "{1, 9}"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is",
+   "options": [
+    "-4/3",
+    "-3/4",
+    "4/3",
+    "3/4"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Simplify 1 - (7/3 x 5/4) + 3/5",
+   "options": [
+    "-16/15",
+    "-79/60",
+    "-37/15",
+    "-151/60"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the value of y if 2y - 3 = 7?",
+   "options": [
+    "5",
+    "4",
+    "6",
+    "7"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the area of a triangle with a base of 10 and height of 6.",
+   "options": [
+    "30",
+    "20",
+    "40",
+    "50"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Simplify (√98 -√50)/√32",
+   "options": [
+    "3",
+    "1",
+    "1/2",
+    "1/4"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is",
+   "options": [
+    "A straight line",
+    "a circle",
+    "the bisector of angle PXQ",
+    "the perpendicular bisector of PQ"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon.",
+   "options": [
+    "8",
+    "6",
+    "4",
+    "3"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "y is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
+   "options": [
+    "2",
+    "10",
+    "1/5",
+    "1/10"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "",
+   "options": [
+    "1/5",
+    "1/2",
+    "1/6",
+    "1/4"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "",
+   "options": [
+    "6000 tonnes",
+    "1500 tonnes",
+    "1200 tonnes",
+    "9000 tonnes"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+   "options": [
+    "25 ways",
+    "10 ways",
+    "15 ways",
+    "20 ways"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
+   "options": [
+    "9",
+    "7",
+    "42",
+    "15"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?",
+   "options": [
+    "9/35",
+    "11/35",
+    "4/7",
+    "3/7"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly",
+   "options": [
+    "378 ways",
+    "462 ways",
+    "840 ways",
+    "924 ways"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?",
+   "options": [
+    "4",
+    "3",
+    "1",
+    "2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "I. Rectangular bars of equal width\nII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.\nIII. Rectangular bars have common sides with no gaps in between\nA histogram is described completely by",
+   "options": [
+    "I, II and III",
+    "I and II",
+    "II and III",
+    "I and III"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What are the integer values of x which satisfy the inequality -1 < 3 -2x ≤ 5?",
+   "options": [
+    "-1, 0, 1, 2",
+    "-2, 1, 0, -1",
+    "0, 1, 2",
+    "-1, 0, 1"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
+   "options": [
+    "27",
+    "8",
+    "78",
+    "48"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If the operation * on the set of integers is defined by P * Q = √(PQ), find the value of 4 * ( 8 * 32).",
+   "options": [
+    "8",
+    "3",
+    "16",
+    "4"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the remainder when 3x³ + 5x² - 11x + 4 is divided by x + 3",
+   "options": [
+    "-4",
+    "4",
+    "1",
+    "-1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Factorize completely ac - 2bc - a + 4b²",
+   "options": [
+    "(a - 2b)(c - a - 2b)",
+    "(a - 2b)(c + a + 2b)",
+    "(a - 2b)(c - a + 2b)",
+    "(a - 2b)(c + a - 2b)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x.",
+   "options": [
+    "2x2 - 3x",
+    "x2 - 3x",
+    "x2 - 3x - 3",
+    "x2 - 3x + 3"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "",
+   "options": [
+    "15√6",
+    "20√6",
+    "3√6",
+    "5√6"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "",
+   "options": [
+    "45°",
+    "55°",
+    "35°",
+    "40°"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The locus of a point which is 5 cm from the line LM is a",
+   "options": [
+    "line distance 10 cm from LM and parallel to LM",
+    "pair of lines on opposite sides of LM and parallel to it, each distance 5 cm from LM",
+    "line parallel to LM and 5 cm from LM",
+    "pair of parallel lines on one side of LM and parallel to LM"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The solution of the quadratic inequality (x3 + x - 12) ≥ 0 is",
+   "options": [
+    "x ≥ -3 or x ≤ 4",
+    "x ≥ 3 or x ≥ -4",
+    "x ≤ 3 or x v -4",
+    "x ≥ 3 or x ≤ -4"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
+   "options": [
+    "1",
+    "-3",
+    "2",
+    "-1"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A ladder leans against a wall making an angle of 60° with the ground. If the ladder is 10 m long, find the height of the wall it reaches.",
+   "options": [
+    "8.66 m",
+    "5 m",
+    "7.5 m",
+    "10 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The angle of elevation of the top of a building from a point 50 m away from its base is 30°. Find the height of the building.",
+   "options": [
+    "28.87 m",
+    "25 m",
+    "30 m",
+    "35 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the derivatives of (2 + 3x)(1 - x) with respect to x",
+   "options": [
+    "6",
+    "-3",
+    "1 - 6x",
+    "6x - 1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "What is the rate of change of the volume V of a hemisphere with respect to its radius r when r = 2?",
+   "options": [
+    "8π",
+    "16π",
+    "2π",
+    "4π"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the derivatives of the function y = 2x^2(2x - 1) at the point x = -1?",
+   "options": [
+    "18",
+    "16",
+    "-4",
+    "-6"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A ship sails from point A on a bearing of 135° for 100 km, then changes course to 045° and sails for 150 km. Find the distance and bearing of the ship from point A.",
+   "options": [
+    "196.4 km, 093°",
+    "180 km, 100°",
+    "200 km, 095°",
+    "220 km, 090°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The sum of four numbers is 1214_5. What is the average expressed in base five?",
+   "options": [
+    "114",
+    "141",
+    "401",
+    "411"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the variance of 2, 6, 8, 6, 2 and 6",
+   "options": [
+    "6",
+    "5",
+    "√6",
+    "√5"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination",
+   "options": [
+    "490",
+    "495",
+    "496",
+    "498"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the range of 1/6, 1/3, 3/2, 2/3, 8/9 and 4/3",
+   "options": [
+    "3/4",
+    "5/6",
+    "7/6",
+    "4/3"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Given: U = {Even numbers between 0 and 30} P = {Multiples of 6 between 0 and 30} Q = {Multiples of 4 between 0 and 30} Find (P∪Q)c",
+   "options": [
+    "{2, 10, 14, 22, 26}",
+    "{0, 10, 14, 22, 26}",
+    "{2,4, 14, 18, 26}",
+    "{0, 2, 6, 22, 26}"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
+   "options": [
+    "3",
+    "4",
+    "6",
+    "9"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The graph of the function y = x^2 + 4 and a straight line PQ are drawn to solve the equation x^2 - 3x + 2 = 0. What is the equation of PQ?",
+   "options": [
+    "y = 3x - 2",
+    "y = 3x + 2",
+    "y = 3x - 4",
+    "y = 3x + 4"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality",
+   "options": [
+    "60",
+    "30",
+    "20",
+    "15"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
+   "options": [
+    "-5, -4",
+    "-4,. -5",
+    "4, 5",
+    "5, 4"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
+   "options": [
+    "1/4",
+    "1/2",
+    "2/3",
+    "3/2"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is",
+   "options": [
+    "7.0",
+    "8.7",
+    "9.5",
+    "11.0"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw?",
+   "options": [
+    "2/3",
+    "1/2",
+    "1/3",
+    "1/4"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Given: U = {Even numbers between 0 and 30} P = {Multiples of 6 between 0 and 30} Q = {Multiples of 4 between 0 and 30} Find (P∪Q)c",
+   "options": [
+    "{2, 10, 14, 22, 26}",
+    "{0, 10, 14, 22, 26}",
+    "{2,4, 14, 18, 26}",
+    "{0, 2, 6, 22, 26}"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
+   "options": [
+    "3",
+    "4",
+    "6",
+    "9"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If 6Pr = 6, find the value of 6Pr+1",
+   "options": [
+    "30",
+    "33",
+    "35",
+    "15"
+   ],
+   "answerIndex": 0
+  }
+ ],
+ "2005": [
+  {
+   "question": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
+   "options": [
+    "27",
+    "8",
+    "78",
+    "48"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1",
+   "options": [
+    "10",
+    "8",
+    "-10",
+    "-8"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
+   "options": [
+    "N1215",
+    "N720",
+    "N1620",
+    "N810"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The sum of the first n positive integers is",
+   "options": [
+    "1/2 n(n-1)",
+    "n(n+1)",
+    "n(n-1)",
+    "1/2 n(n+1)"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively. Find the product of the modal and the median number",
+   "options": [
+    "36",
+    "48",
+    "30",
+    "40"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In a basket, there are 6 grapes, 11 bananas and 13 oranges. If one fruit is chosen at random. What is the probability that the fruit is either a grape or a banana",
+   "options": [
+    "6/30",
+    "5/30",
+    "17/30",
+    "11/30"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A senatorial candidate had planned to visit seven cities prior to a primary election. However, he could only visit four of the cities. How many different itineraries could be considered?",
+   "options": [
+    "640",
+    "840",
+    "520",
+    "920"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In how many ways can 6 subjects be selected from 10 subjects for an examination",
+   "options": [
+    "218",
+    "216",
+    "215",
+    "210"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If y = x cos x, find dy/dx",
+   "options": [
+    "sin x - x cos x",
+    "sin x + x cos x",
+    "cos x + x sin x",
+    "cos x - x sin x"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value",
+   "options": [
+    "2/3",
+    "1",
+    "-2/3",
+    "-1"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
+   "options": [
+    "3/4",
+    "-9/2",
+    "45/4",
+    "-3/4"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Factorize 2t2 + t - 15",
+   "options": [
+    "(2t - 3)(t + 5)",
+    "(t + 3)(2t - 5)",
+    "(t + 3)(t - 5)",
+    "(2t + 3)(t - 5)"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Solve the inequalities -3(x - 2) < -2(x + 3)",
+   "options": [
+    "x > 12",
+    "x < 12",
+    "x > -12",
+    "x < - 12"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Simplify (√98 -√50)/√32",
+   "options": [
+    "3",
+    "1",
+    "1/2",
+    "1/4"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is",
+   "options": [
+    "A straight line",
+    "a circle",
+    "the bisector of angle PXQ",
+    "the perpendicular bisector of PQ"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A binary operation Δ is defined by aΔb = a + b + 1 for any numbers a and b. Find the inverse of the real number 7 under the operation Δ, if the identity element is -1",
+   "options": [
+    "-7",
+    "-9",
+    "5",
+    "9"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The nth term of the sequence 3/2, 3, 7, 16, 35, 74 ..... is",
+   "options": [
+    "5 . 2n-2 - n",
+    "5 . 2n-2 - (n+1) / 2",
+    "3 . 2n-2",
+    "3/2 n"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If x10 = 12145 find x",
+   "options": [
+    "124",
+    "121",
+    "184",
+    "180"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the value of x for which 2(32x-1) = 162",
+   "options": [
+    "5/2",
+    "3/2",
+    "2/5",
+    "1/2"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If log102 = x, express log1012.5 in terms of x",
+   "options": [
+    "2(1 + x)",
+    "2 + 3x",
+    "2(1 - x)",
+    "2 - 3x"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A particle P moves between points S and T such that angle SPT is always constant of ST constant. Find the locus of P",
+   "options": [
+    "It is a semi circle with ST as diameter",
+    "It is a perpendicular bisector of ST",
+    "It is a quadrant of a circle with ST as diameter",
+    "It is a straight line perpendicular to ST"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 intersect at (1, -2), find the value of k",
+   "options": [
+    "-4",
+    "-3",
+    "-2",
+    "-1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0",
+   "options": [
+    "y - 2 = 0",
+    "y - 4 = 0",
+    "y - 1 = 0",
+    "y - 3 = 0"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the remainder when 3x^3 + 5x^2 - 11x + 4 is divided by x + 3",
+   "options": [
+    "-4",
+    "4",
+    "1",
+    "-1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The nth term of two sequences are Qn = 3 . 2n - 2 and Um = 3 . 22m - 3. Find the product of Q2 and U2.",
+   "options": [
+    "18",
+    "12",
+    "6",
+    "3"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is the value of k if the mid-point of the line joining (1 - k, k) and (k + 1, 1 - k) is (2, -1)",
+   "options": [
+    "3/2",
+    "2",
+    "1",
+    "1/2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "From a point on the ground, the angle of elevation to the top of a building is 35°. From a point 50 m closer to the building, the angle of elevation is 50°. Find the height of the building.",
+   "options": [
+    "50(√3 - 1) m",
+    "70 m",
+    "90 m",
+    "100 m"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If log10(x + 6) = 2, find x",
+   "options": [
+    "96",
+    "98",
+    "94",
+    "100"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Find the remainder when the expression 3x4 - 2x3 + x2 - 5 is divided by x - 1",
+   "options": [
+    "-4",
+    "2",
+    "-3",
+    "1"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Evaluate the integral ∫(2x^3 - 3x^2 + x - 1)dx",
+   "options": [
+    "1/2x^4 - x^3 + 1/2x^2 - x + C",
+    "2x^4 - 3x^3 + 1/2x^2 - x + C",
+    "1/2x^4 - 3x^3 + x^2 - x + C",
+    "2x^4 - x^3 + x^2 - 1 + C"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If sin θ = 0.8, find cos θ",
+   "options": [
+    "0.6",
+    "0.5",
+    "0.4",
+    "0.3"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the value of x for which 4^(x-1) = 64",
+   "options": [
+    "5",
+    "4",
+    "3",
+    "2"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Find the angle θ in degrees if cos θ = -1/2",
+   "options": [
+    "150",
+    "180",
+    "120",
+    "60"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "If a man buys 2 books for N5 each and sells one at a loss of 20% and the other at a gain of 30%, find his percentage gain or loss",
+   "options": [
+    "2.5% gain",
+    "4% loss",
+    "5% gain",
+    "10% loss"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Solve for x: log10(3x + 1) = 1",
+   "options": [
+    "2",
+    "3",
+    "5",
+    "10"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A ship sails from point A on a bearing of 045° for 200 km and then changes course to a bearing of 135° for 150 km. Find the distance and bearing of the ship from point A.",
+   "options": [
+    "318.2 km, 099°",
+    "250 km, 120°",
+    "300 km, 100°",
+    "320 km, 090°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "An airplane flies from city X on a bearing of 120° for 300 km to city Y, and then on a bearing of 210° for 200 km to city Z. Find the distance and bearing of city Z from city X.",
+   "options": [
+    "424.3 km, 160°",
+    "400 km, 165°",
+    "450 km, 155°",
+    "500 km, 170°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A ship sails from port A on a bearing of 070° for 150 km and then changes course to 160° and sails for 100 km. Find the distance and bearing of the ship from port A.",
+   "options": [
+    "180.3 km, 103°",
+    "170 km, 100°",
+    "200 km, 105°",
+    "190 km, 110°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A boat sails from point P on a bearing of 080° for 120 km and then changes course to 170° and sails for 80 km. Find the distance and bearing of the boat from point P.",
+   "options": [
+    "140.3 km, 107°",
+    "150 km, 110°",
+    "130 km, 105°",
+    "160 km, 115°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Solve the equations m² + n² = 29, m + n = 7.",
+   "options": [
+    "(2, 3) and (3, 5)",
+    "(2, 5) and (5, 2)",
+    "(5, 2) and (5, 3)",
+    "(5, 3) and (3, 5)"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "A boat sails from point P on a bearing of 080° for 120 km and then changes course to 170° and sails for 80 km. Find the distance and bearing of the boat from point P.",
+   "options": [
+    "140.3 km, 107°",
+    "150 km, 110°",
+    "130 km, 105°",
+    "160 km, 115°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A ship sails from port A on a bearing of 045° for 200 km and then changes course to a bearing of 135° for 150 km. Find the distance and bearing of the ship from port A.",
+   "options": [
+    "318.2 km, 099°",
+    "250 km, 120°",
+    "300 km, 100°",
+    "320 km, 090°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A plane flies from point X on a bearing of 030° for 400 km and then flies on a bearing of 150° for 300 km. Find the distance and bearing of the plane from point X.",
+   "options": [
+    "515.2 km, 087°",
+    "500 km, 090°",
+    "550 km, 080°",
+    "600 km, 085°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A ship leaves port P and sails on a bearing of 060° for 250 km to point Q. It then changes course and sails on a bearing of 150° for 300 km to point R. Find the distance and bearing of point R from port P.",
+   "options": [
+    "431.6 km, 108°",
+    "450 km, 110°",
+    "470 km, 105°",
+    "500 km, 115°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A pilot flies from airport A on a bearing of 090° for 350 km to airport B. From B, the pilot flies on a bearing of 180° for 400 km to airport C. Find the distance and bearing of airport C from airport A.",
+   "options": [
+    "538.5 km, 143°",
+    "550 km, 145°",
+    "500 km, 140°",
+    "600 km, 150°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A ship sails from point A on a bearing of 135° for 100 km, then changes course to 045° and sails for 150 km. Find the distance and bearing of the ship from point A.",
+   "options": [
+    "196.4 km, 093°",
+    "180 km, 100°",
+    "200 km, 095°",
+    "220 km, 090°"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Solve the system of equations x + y = 8 and x - y = 2.",
+   "options": [
+    "(5, 3)",
+    "(6, 2)",
+    "(7, 1)",
+    "(4, 4)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Find the roots of the quadratic equation x² - 5x + 6 = 0.",
+   "options": [
+    "(2, 3)",
+    "(1, 6)",
+    "(3, 4)",
+    "(2, 2)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Solve for x: 5x - 2 = 3x + 8.",
+   "options": [
+    "5",
+    "3",
+    "4",
+    "6"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "If the sides of a square are each 4 units long, what is the area of the square?",
+   "options": [
+    "16 square units",
+    "8 square units",
+    "12 square units",
+    "20 square units"
+   ],
+   "answerIndex": 0
+  }
+ ]
+}

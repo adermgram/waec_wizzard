@@ -1,0 +1,1766 @@
+{
+ "government": {
+  "2000": [
+   {
+    "question": "The independent African countries that signed the OAU Charter on May 25th 1963 were",
+    "options": [
+     "Togo and Sierra Leone",
+     "Morocco and Angola",
+     "Togo and Morocco",
+     "Chad and Gambia"
+    ],
+    "correctRaw": "none of the above"
+   }
+  ],
+  "2003": [
+   {
+    "question": "A common feature of the earlier political parties in Nigeria was that they",
+    "options": [
+     "were formed by the government",
+     "started as a social-cultural organizations",
+     "were backed by the colonialists",
+     "were non-elitist in nature"
+    ],
+    "correctRaw": "started as social-cultural organizations"
+   },
+   {
+    "question": "The adoption of a federal system of government in Nigeria under colonial rule was necessitated mainly by",
+    "options": [
+     "geographical proximity",
+     "administrative convenience",
+     "cultural diversity",
+     "vast economic resources"
+    ],
+    "correctRaw": "administrative convenience and cultural diversity"
+   }
+  ]
+ },
+ "english": {
+  "2001": [
+   {
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space. The employer, not the salesman and his representative is responsible for the loss",
+    "options": [
+     "are",
+     "are being",
+     "are never",
+     "have been"
+    ],
+    "correctRaw": "is"
+   },
+   {
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space. In order to carry out necessary examination the dead body was exhumed",
+    "options": [
+     "extracted",
+     "extradited",
+     "exiled",
+     "expelled"
+    ],
+    "correctRaw": "exhumed"
+   }
+  ],
+  "2005": [
+   {
+    "question": "Choose the expression or word which best complete each sentence: The Nigerian society of Engineers has set up .... to study the nation's problems",
+    "options": [
+     "a brain trust",
+     "a tribunal",
+     "an inquiring",
+     "an inquest"
+    ],
+    "correctRaw": "a task force"
+   }
+  ]
+ },
+ "biology": {
+  "2005": [
+   {
+    "question": "Bryophytes are different from flowers because they",
+    "options": [
+     "live in moist habitats",
+     "are small plants",
+     "reproduce sexually and asexually",
+     "have small leaves"
+    ],
+    "correctRaw": "have no vascular tissue"
+   },
+   {
+    "question": "In an angiosperm leaf, the xylem is",
+    "options": [
+     "beside the phloem",
+     "surrounded by the phloem",
+     "above the phloem",
+     "around the phloem"
+    ],
+    "correctRaw": "in separate bundles from the phloem"
+   },
+   {
+    "question": "Which of the following represents the sequence of protein hydrolysis?",
+    "options": [
+     "3 → 1 → 2 → 4",
+     "3 → 2 → 4 → 1",
+     "3 → 1 → 2 → 4",
+     "3 → 4 → 1 → 2"
+    ],
+    "correctRaw": "3 → 1 → 4 → 2"
+   },
+   {
+    "question": "A food substance which produces red coloration with Sudan III contains",
+    "options": [
+     "protein",
+     "sugar",
+     "starch",
+     "cellulose"
+    ],
+    "correctRaw": "fat"
+   },
+   {
+    "question": "Partially digested food ready to leave the stomach is referred to as",
+    "options": [
+     "chyme",
+     "curd",
+     "glycogen",
+     "paste"
+    ],
+    "correctRaw": "roughage"
+   },
+   {
+    "question": "Blood platelets are important because they are",
+    "options": [
+     "amoeboid and nucleated",
+     "produce antitoxins",
+     "produce antibodies",
+     "digest harmful bacteria"
+    ],
+    "correctRaw": "release thrombin for blood clotting"
+   },
+   {
+    "question": "The appendicular skeleton is made up of the",
+    "options": [
+     "limbs",
+     "skull and limbs",
+     "phalanges",
+     "ulna and radius"
+    ],
+    "correctRaw": "girdles and limbs"
+   },
+   {
+    "question": "If a flower is protandrous then it",
+    "options": [
+     "must be unisexual",
+     "has an undeveloped androecium",
+     "has no androecium",
+     "must be insect-pollinated"
+    ],
+    "correctRaw": "can prevent self-pollination"
+   },
+   {
+    "question": "Irish potato is a",
+    "options": [
+     "bulb",
+     "tap root",
+     "rhizome",
+     "root tuber"
+    ],
+    "correctRaw": "stem tuber"
+   },
+   {
+    "question": "The hereditary material in a cell is known as",
+    "options": [
+     "ADP",
+     "CNS",
+     "RNA",
+     "ATP"
+    ],
+    "correctRaw": "DNA"
+   },
+   {
+    "question": "Which of the following food chains is in the correct sequence?",
+    "options": [
+     "Weeds → Tadpole → Beetles → Fish → Man",
+     "Weeds → Tadpole → Fish → Beetles → Man",
+     "Tadpole → Beetles → Weeds → Man → Fish",
+     "Man → Fish → Beetles → Tadpole → Weeds"
+    ],
+    "correctRaw": "Fish → Beetles → Weeds → Man → Tadpoles"
+   },
+   {
+    "question": "Soil erosion CANNOT be controlled by",
+    "options": [
+     "planting cover crops",
+     "contouring of sloping ground",
+     "terracing of slopes",
+     "laying of mulch"
+    ],
+    "correctRaw": "burning of bush"
+   }
+  ],
+  "2001": [
+   {
+    "question": "In which of the following groups of organisms do all the members have asexual method of reproduction?",
+    "options": [
+     "A geen filament algae, a flowering plant and a bird",
+     "A toad (or frog), amoeba and mucor (penicillium)",
+     "A flowering plant, tape worm (or ascaris) and a green filamentous algae",
+     "Mucor (or penicillium), a bird and a toad (or frog)"
+    ],
+    "correctRaw": "Amoeba, mucor (or penicillium) and a green filamentous algae"
+   },
+   {
+    "question": "The study of organisms and the environment of an abandoned farmland is the ecology of",
+    "options": [
+     "a community",
+     "a population",
+     "a specie",
+     "a habitat"
+    ],
+    "correctRaw": "an ecosystem"
+   },
+   {
+    "question": "Which of these is not associated with tadpole stages of toad or frog?",
+    "options": [
+     "V-shaped gland",
+     "operculum",
+     "external gills",
+     "jelly"
+    ],
+    "correctRaw": "shell"
+   }
+  ],
+  "2000": [
+   {
+    "question": "The oxygen given off during the process represented by the equation 6CO2 + 6H2O → C6H12O6 + 6O2 {Under sunlight & Chlorophyll) is derived from",
+    "options": [
+     "sunlight",
+     "chlorophyll",
+     "carbon dioxide",
+     "atmosphere"
+    ],
+    "correctRaw": "water"
+   }
+  ],
+  "2003": [
+   {
+    "question": "Normally any character shown by an organism is due to the effects of",
+    "options": [
+     "Hormones and chromosomes",
+     "Chromosomes",
+     "Mutation",
+     "Hormones and genes"
+    ],
+    "correctRaw": "Genes and environment"
+   },
+   {
+    "question": "A fruit formed from a single flower having several free carpels is",
+    "options": [
+     "A multiple fruit",
+     "A dry dehiscent fruit",
+     "A dry indehiscent fruit",
+     "A simple fruit"
+    ],
+    "correctRaw": "An aggregate fruit"
+   },
+   {
+    "question": "One common feature of the fungi, algae, mosses and ferns is that they?",
+    "options": [
+     "Are photosynthetic",
+     "Show alternation of generation",
+     "Reproduce by means of conjugation",
+     "Can survive dry conditions"
+    ],
+    "correctRaw": "Have no seeds"
+   },
+   {
+    "question": "The correct route for a piece of bread eaten by a mammal is",
+    "options": [
+     "Oral cavity - oesophagus - stomach - ileum - rectum",
+     "Oral cavity - stomach - oesophagus - duodenum - ileum - rectum",
+     "Oral cavity - oesophagus - duodenum - rectum",
+     "Oral cavity - oesophagus - ileum - stomach - duodenum - rectum"
+    ],
+    "correctRaw": "Oral cavity - oesophagus - stomach - ileum - duodenum - rectum"
+   },
+   {
+    "question": "Which of these animals is NOT metamerically segmented?",
+    "options": [
+     "Tapeworm",
+     "Earthworm",
+     "Centipede",
+     "Crayfish"
+    ],
+    "correctRaw": "Shark"
+   }
+  ],
+  "2004": [
+   {
+    "question": "Any dry fruit which can break into several parts each containing one seed is a",
+    "options": [
+     "capsule",
+     "aggregrate fruit",
+     "legume",
+     "schizocarp"
+    ],
+    "correctRaw": "follicle"
+   },
+   {
+    "question": "Which of the following is NOT a function of mammalian blood?",
+    "options": [
+     "Engulfing bacteria",
+     "Production of hormones",
+     "Transporting ureas",
+     "Distribution of heat"
+    ],
+    "correctRaw": "Transporting glucose"
+   },
+   {
+    "question": "The maize grain is regarded as a fruit and not a seed because",
+    "options": [
+     "it has a coleorhiza",
+     "it has a coleoptile",
+     "of the relatively large endosperm",
+     "there is the remain of a style"
+    ],
+    "correctRaw": "of the relatively small scutellum"
+   },
+   {
+    "question": "Which of these parts of the mammalian ears is directly concerned with the sense of balance?",
+    "options": [
+     "Cochlea",
+     "Eustachian tube",
+     "Ear-drum",
+     "Pinna"
+    ],
+    "correctRaw": "Semicircular canals"
+   },
+   {
+    "question": "When freshly tapped palm wine was kept overnight it was found to be more alcoholic. This effect must have been due to",
+    "options": [
+     "the addition of saccharin",
+     "the addition of sugar",
+     "the addition of whisky or local gin",
+     "some complex hydrolytic reaction"
+    ],
+    "correctRaw": "anaerobic respiration of an organism"
+   },
+   {
+    "question": "If a farmer left his land uncultivated for five years before returning to it, he must be practising",
+    "options": [
+     "modern agriculture",
+     "strip cropping",
+     "contour ridging",
+     "crop rotation"
+    ],
+    "correctRaw": "the bush fallow system"
+   },
+   {
+    "question": "A pyramid of numbers can be defined as",
+    "options": [
+     "the number of plants and animals in an ecosystem",
+     "an arrangement of organism according to their habitat",
+     "the numerical relationships of a food chain",
+     "the number of plants and animals in a population"
+    ],
+    "correctRaw": "the total number of species and general in a community"
+   },
+   {
+    "question": "In man, spermatozoa are never found in the?",
+    "options": [
+     "testis",
+     "urethra",
+     "epididymis",
+     "prostrate glands"
+    ],
+    "correctRaw": "vas deferens"
+   },
+   {
+    "question": "Which of the following statements is TRUE of inhalation of air by man?",
+    "options": [
+     "The ribs are not raised",
+     "Diaphragm is raised",
+     "Intercostal muscles relax",
+     "Pressure of the thoracic cavity increase"
+    ],
+    "correctRaw": "Size of thoracic cavity increase"
+   },
+   {
+    "question": "If the gall bladder of a man is removed by surgery, which of the following processes will be most seriously affected?",
+    "options": [
+     "Digestion of fats and oil",
+     "Formation of urea",
+     "Digestion of starch",
+     "Conversion of protein"
+    ],
+    "correctRaw": "Storage and release of the urine"
+   },
+   {
+    "question": "Flatworms and roundworms are said to be invertebrates because",
+    "options": [
+     "they are small animals",
+     "they can live inside the vertebrates",
+     "some of them are unicellular",
+     "they have no backbones"
+    ],
+    "correctRaw": "they are parasitic"
+   },
+   {
+    "question": "Where is the energy produced in a cell?",
+    "options": [
+     "Nucleus",
+     "Nucleolus",
+     "Lysosomes",
+     "Chloroplast"
+    ],
+    "correctRaw": "Mitochondria"
+   },
+   {
+    "question": "In which part of a leguminous plant can you find bacteria like Azotobacter?",
+    "options": [
+     "Spongy mesophyll of leaf",
+     "At the nodes",
+     "At the internodes",
+     "In nodules"
+    ],
+    "correctRaw": "Palisade mesophyll of leaf"
+   },
+   {
+    "question": "The three blood vessels that supply the mammalian alimentary canals are",
+    "options": [
+     "segmented artery, hepatic artery and coeliac artery",
+     "coeliac artery, anterior mesenteric artery and posteroir mesenteric artery",
+     "coelic artery, segmental artery and hepatic artery",
+     "hepatic artery, anterior mesenteric artery and posterior mesenteric artery"
+    ],
+    "correctRaw": "hepatic portal vein, anterior mesenteric artery and posterior mesenteric artery"
+   },
+   {
+    "question": "In an epigeal germination, it is the",
+    "options": [
+     "epicotyl that elongates fast",
+     "hypocotyl that elongates fast",
+     "hypogeal that elongates fast",
+     "plumule that elongates fast"
+    ],
+    "correctRaw": "roots that elongate fast"
+   },
+   {
+    "question": "The mammalian pancreas is involved with the?",
+    "options": [
+     "digestion of food only",
+     "digestion and absorption of food",
+     "digestion of food and regulation of blood sugar",
+     "digestion of food, production of hormone and the regulation of blood sugar"
+    ],
+    "correctRaw": "digestion of food, and the regulation of blood"
+   },
+   {
+    "question": "When a person with blood belonging to group O has lost much blood due to an accident, he can be given blood from persons who have blood belonging to",
+    "options": [
+     "group O only",
+     "group A only",
+     "group AB only",
+     "groups A and O"
+    ],
+    "correctRaw": "groups AB and O"
+   },
+   {
+    "question": "The absence of stomata shows that a leaf may be",
+    "options": [
+     "from a floating plant",
+     "from submerged plant",
+     "varigated",
+     "from a terrestrial plant"
+    ],
+    "correctRaw": "from parasitic green plant"
+   },
+   {
+    "question": "Root hairs are developed from the",
+    "options": [
+     "root apex",
+     "epidermis of root",
+     "vascular bundles",
+     "endodermis"
+    ],
+    "correctRaw": "pericycle"
+   },
+   {
+    "question": "In a dicot leaf, guard cells differ from other epidermal cells because they",
+    "options": [
+     "have no definite shape",
+     "lack nuclei",
+     "are smaller",
+     "contain chloroplast"
+    ],
+    "correctRaw": "lack vacuole"
+   },
+   {
+    "question": "Which of the following structure is NOT found in the female agama lizard?",
+    "options": [
+     "Pre-anal pads",
+     "Eardrum",
+     "Gular fold",
+     "Nasal scale"
+    ],
+    "correctRaw": "Nuchal crest"
+   },
+   {
+    "question": "Herbs differ from shrubs because they",
+    "options": [
+     "do not produce fruit",
+     "are useful to herbalist",
+     "do not become woody",
+     "are only annual"
+    ],
+    "correctRaw": "are only perennials"
+   },
+   {
+    "question": "Which of the following is not associated with excretion in mammals",
+    "options": [
+     "Glomerulus",
+     "Urea",
+     "Faeces",
+     "Carbon Dioxide"
+    ],
+    "correctRaw": "Bowman's capsule"
+   },
+   {
+    "question": "If an organic compound has its hydrogen: oxygen ratio as 2:1, it is likely to be",
+    "options": [
+     "a protein",
+     "a cabohydrate",
+     "a fat",
+     "a fatty acid and glycerol"
+    ],
+    "correctRaw": "an amino acid"
+   },
+   {
+    "question": "Which of the following elements are necessary for the formation of chlorophyll in a plant?",
+    "options": [
+     "magnesium and iron",
+     "Calcium and potassium",
+     "Calcium and sulphur",
+     "Potasium and sulphur"
+    ],
+    "correctRaw": "Phosphorus and potassium"
+   },
+   {
+    "question": "Which of the following statements is NOT true of mammalian erythrocytes?",
+    "options": [
+     "They have haemoglobin",
+     "they appear yellow when looked at singly",
+     "They are disc shaped",
+     "The cell are more numerous than leucocytes"
+    ],
+    "correctRaw": "They have nuclei at maturity"
+   },
+   {
+    "question": "In woody plants, grass and water vapour are transported across the stems by the",
+    "options": [
+     "xylem fibres",
+     "medullary rays",
+     "sieve tubes",
+     "phloem fibres"
+    ],
+    "correctRaw": "phloem parenchyma"
+   },
+   {
+    "question": "Which of the following substance is not found in urine?",
+    "options": [
+     "Water",
+     "Sodium chloride",
+     "Nitrogenous compounds",
+     "Calcium chloride"
+    ],
+    "correctRaw": "Nitrogenous salts"
+   },
+   {
+    "question": "The kidneys of all vertebrates act as osmoregulators. This means that they",
+    "options": [
+     "keep the composition of the plasma constant",
+     "regulate osmotic processes",
+     "control the volume of blood entering the kidneys",
+     "decrease the osmotic pressure of the blood"
+    ],
+    "correctRaw": "increase the osmotic pressure of blood"
+   },
+   {
+    "question": "The movement of plant in response to external stimulus of no particular direction is",
+    "options": [
+     "taxism",
+     "tropism",
+     "hyptotropic movement",
+     "nastic movement"
+    ],
+    "correctRaw": "phototropism"
+   },
+   {
+    "question": "The part of the mammalian brain responsible for maintaining balance is the",
+    "options": [
+     "medulla oblongata",
+     "olfactory lobe",
+     "cerebellum",
+     "cerebrum"
+    ],
+    "correctRaw": "thalamus"
+   }
+  ]
+ },
+ "accounting": {
+  "2003": [
+   {
+    "question": "The balance of the payments account is?",
+    "options": [
+     "N24,000",
+     "N22,000",
+     "N14,000",
+     "N8,000"
+    ],
+    "correctRaw": "NO OPTION INDICATED"
+   }
+  ]
+ },
+ "economics": {
+  "2004": [
+   {
+    "question": "Pure monopoly describes market where",
+    "options": [
+     "there are many sellers and a few buyers",
+     "goods are sold at different price",
+     "entry is not blocked, but no one cares to enter",
+     "a few sellers and one buyer exist"
+    ],
+    "correctRaw": "None of the above"
+   },
+   {
+    "question": "Disposable income equals",
+    "options": [
+     "personal income less business profits",
+     "personal income minus taxes and subsidies",
+     "national income less borrowing from abroad",
+     "national income plus transfer of payments"
+    ],
+    "correctRaw": "personal income less taxes plus subsidies"
+   }
+  ],
+  "2005": [
+   {
+    "question": "When the demand curve shifts to the right it indicates that a larger quantity is demanded at each price. This is caused by one of the following",
+    "options": [
+     "a fall in income",
+     "a rise in the price of a complement",
+     "a fall in the price of substitute",
+     "a change in taste against this commodity"
+    ],
+    "correctRaw": "none of the above"
+   },
+   {
+    "question": "When the price of a commodity is below the equilibrium price the quantity demanded will exceed the quantity supplied. Such a situation is referred to as",
+    "options": [
+     "elastic supply",
+     "joint demand",
+     "excess supply",
+     "derived demand"
+    ],
+    "correctRaw": "none of the above"
+   },
+   {
+    "question": "The central bank controls the activities of other banks by all but one of the following",
+    "options": [
+     "The use of bank rate",
+     "The purchase or sale of government bonds on the open market",
+     "special deposit",
+     "the use of directives"
+    ],
+    "correctRaw": "taxation"
+   },
+   {
+    "question": "Which of these alternatives is wrong? central banks are",
+    "options": [
+     "bankers to the government",
+     "bankers to commercial banks",
+     "merchant banks",
+     "controllers and regulators of money supply"
+    ],
+    "correctRaw": "issuers of bank notes"
+   },
+   {
+    "question": "The principle of comparative advantage or comparative cost is NOT based on one of the following assumptions",
+    "options": [
+     "there are restrictions in trade",
+     "there are no cost of transportation",
+     "there is perfect competition",
+     "there are no tariff or import and export quotas"
+    ],
+    "correctRaw": "there are only two countries and only two commodities entering into international trade"
+   },
+   {
+    "question": "Which of the following is not a direct tax?",
+    "options": [
+     "company income tax",
+     "capital tax",
+     "purchase tax",
+     "personal income tax"
+    ],
+    "correctRaw": "capital gain tax"
+   },
+   {
+    "question": "Division of labour means",
+    "options": [
+     "dividing the labour into different categories",
+     "splitting the process of production into different parts to be completed by each person",
+     "dividing the goods and services into different sections",
+     "assigning different duties to labourers"
+    ],
+    "correctRaw": "group of labourers working in a factory or shop"
+   },
+   {
+    "question": "By utility we mean",
+    "options": [
+     "usefulness",
+     "power of satisfying a want",
+     "beneficial",
+     "advantageous"
+    ],
+    "correctRaw": "consumable"
+   },
+   {
+    "question": "Which of the following is not an indirect tax?",
+    "options": [
+     "excise duty",
+     "company tax",
+     "import duty",
+     "export duty"
+    ],
+    "correctRaw": "sales tax"
+   },
+   {
+    "question": "Average cost is",
+    "options": [
+     "the total cost of production",
+     "the extra cost of producing one additional unit of output",
+     "cost of producing a unit of output",
+     "variable cost"
+    ],
+    "correctRaw": "overhead cost"
+   },
+   {
+    "question": "Opportunity cost is the",
+    "options": [
+     "price of scarce goods",
+     "resources required for making a commodity",
+     "cost of luxury goods",
+     "accrual of financial losses by chance"
+    ],
+    "correctRaw": "alternative forgone in order to satisfy a want"
+   },
+   {
+    "question": "The quantity supplied of a commodity increases best when",
+    "options": [
+     "Production increases",
+     "Demand increases",
+     "Price of the commodity increases",
+     "Population of the country increases"
+    ],
+    "correctRaw": "More commodities are imported"
+   },
+   {
+    "question": "The country will be overpopulated when",
+    "options": [
+     "the rate of birth is high",
+     "the death rate is low",
+     "the growth rate is high",
+     "population is increasing more than resources in the country"
+    ],
+    "correctRaw": "unemployment is high in the country"
+   },
+   {
+    "question": "The value of money is generally measured in reference to",
+    "options": [
+     "the interest rate charged on bank loans",
+     "the general price level",
+     "the size of country's gold stock",
+     "the level of economic development in a country"
+    ],
+    "correctRaw": "the price of stocks and shares on the stock exchange"
+   },
+   {
+    "question": "If the quantity demanded of a commodity increases from 20 to 30 when there is an increase in price from N4 to N5, the elasticity of demand is",
+    "options": [
+     "zero",
+     "1",
+     "2",
+     "5"
+    ],
+    "correctRaw": "10"
+   },
+   {
+    "question": "The total value of goods and services sold and bought in a country across its border during a given period, usually a year is known as",
+    "options": [
+     "visible trade",
+     "invisible trade",
+     "balance of payments",
+     "balance of trade"
+    ],
+    "correctRaw": "terms of trade"
+   },
+   {
+    "question": "Which of the following types of capital is not rewarded by means of dividends?",
+    "options": [
+     "Ordinary shares",
+     "Preference shares",
+     "cumulative shares",
+     "participating preference shares"
+    ],
+    "correctRaw": "debentures"
+   },
+   {
+    "question": "Which of these is not usually the function of a wholesaler?",
+    "options": [
+     "Transport",
+     "Storage",
+     "Advertising",
+     "After-sale services"
+    ],
+    "correctRaw": "Branding"
+   },
+   {
+    "question": "Net national income is",
+    "options": [
+     "Gross national income minus depreciation",
+     "gross domestic product plus net income from abroad",
+     "nominal national income divided by the price level",
+     "gross national income divided by the total population"
+    ],
+    "correctRaw": "gross national product plus subsidies minus indirect taxes"
+   },
+   {
+    "question": "If Mr A earns N2,000 a year while Mr B earns N8,000 but Mr A pays N200 in tax per annum while Mr B pays N400, such a tax is",
+    "options": [
+     "Progressive",
+     "Indirect",
+     "Regressive",
+     "Proportional"
+    ],
+    "correctRaw": "None of the above"
+   },
+   {
+    "question": "Which of the following is not an asset of a commercial bank?",
+    "options": [
+     "cash",
+     "money at call",
+     "treasury bills",
+     "reserve funds"
+    ],
+    "correctRaw": "loans and over-draft"
+   },
+   {
+    "question": "The lowering of the exchange rate between a country's currency and other currencies is known as",
+    "options": [
+     "the foreign exchange rate",
+     "deflation",
+     "exchange control",
+     "the law of comparative advantage"
+    ],
+    "correctRaw": "None of the above"
+   },
+   {
+    "question": "When the average physical product curve is rising the marginal physical product is",
+    "options": [
+     "below it",
+     "above it",
+     "falling",
+     "zero"
+    ],
+    "correctRaw": "None of the above"
+   },
+   {
+    "question": "The proportion of currency in the money supply",
+    "options": [
+     "is higher in developing countries than advanced countries",
+     "is lower in developing countries than advanced countries",
+     "is the same in both developing and advanced countries",
+     "grows as the economy develops"
+    ],
+    "correctRaw": "none of the above"
+   },
+   {
+    "question": "If a government is running a deficit, this means",
+    "options": [
+     "A terms of trade are unfavorable",
+     "more projects cannot be undertaken",
+     "Tax inflow is greater than expenditure",
+     "aggregate demand is greater than aggregate supply"
+    ],
+    "correctRaw": "tax inflow is less than expenditure"
+   },
+   {
+    "question": "Pure monopoly describes a market where",
+    "options": [
+     "there are many sellers and a few buyers",
+     "goods are sold at different prices",
+     "entry is not blocked, but no one cares to enter",
+     "a few sellers and one buyer exist"
+    ],
+    "correctRaw": "None of the above"
+   },
+   {
+    "question": "Which of the following assets of the commercial bank does not yield revenue?",
+    "options": [
+     "Money in the tills of the bank",
+     "money at call",
+     "Treasury certificates",
+     "Treasury bills"
+    ],
+    "correctRaw": "Bills of exchange"
+   },
+   {
+    "question": "Which of the following is not a component of national income at factor cost?",
+    "options": [
+     "Wages earned by doctors",
+     "Rent paid to landlords",
+     "Indirect tax",
+     "Undistributed company profits"
+    ],
+    "correctRaw": "Interest on loan"
+   },
+   {
+    "question": "Which of the financial institutions cannot directly grant loans to individuals?",
+    "options": [
+     "The agricultural bank",
+     "The Industrial bank",
+     "The central bank",
+     "The Co-operative bank"
+    ],
+    "correctRaw": "The Standard bank"
+   },
+   {
+    "question": "An ad valorem tax means",
+    "options": [
+     "total amount of an income tax",
+     "a certain percentage on the value of a commodity",
+     "a certain percentage tax on the volume of commodity",
+     "a tax on capital gain"
+    ],
+    "correctRaw": "a profit tax"
+   },
+   {
+    "question": "The foreign exchange rate of a country is",
+    "options": [
+     "the interest rate fixed by the central bank",
+     "the price of one national currency in terms of another",
+     "the rate at which the central bank issues money",
+     "the rate of interest on government bonds"
+    ],
+    "correctRaw": "None of the above"
+   },
+   {
+    "question": "The 'terms of trade' means",
+    "options": [
+     "the trade agreement between two countries",
+     "the difference in the volumes of exports of two countries",
+     "the value of a unit of export in relation to the value of a unit of import",
+     "the production of total value of exports to the value of total trade"
+    ],
+    "correctRaw": "None of the above"
+   },
+   {
+    "question": "Which is the most liquid of the following financial assets held by an individual?",
+    "options": [
+     "Outstanding balance on the current account of a commercial bank",
+     "A credit balance on a savings account",
+     "A crossed postal order",
+     "An insurance policy"
+    ],
+    "correctRaw": "All of the above"
+   }
+  ]
+ },
+ "agriculture": {
+  "2000": [
+   {
+    "question": "The effect of clearing agricultural lands clean of all vegetation and or trees include the following except",
+    "options": [
+     "exposure of soil to erosion",
+     "compaction of soil",
+     "desertification",
+     "exposure of subsoil"
+    ],
+    "correctRaw": "complete removal of soil nutrients"
+   },
+   {
+    "question": "The factor that does not influence land use is",
+    "options": [
+     "topography",
+     "population pressure",
+     "forest establishment",
+     "soil type"
+    ],
+    "correctRaw": "population graph"
+   }
+  ],
+  "2001": [
+   {
+    "question": "Which of the following is not an effect of burning on the soil?",
+    "options": [
+     "increasing the soil nutrients",
+     "increasing the acidity of the soil",
+     "exposing the soil to erosion",
+     "sterilization of the soil"
+    ],
+    "correctRaw": "increasing the organic matter in the soil"
+   },
+   {
+    "question": "Which of the following is not an effect on man of the various preventive and control measures of diseases and pests of crops?",
+    "options": [
+     "air pollution",
+     "water poisoning",
+     "food contamination",
+     "poor health"
+    ],
+    "correctRaw": "poor utilization"
+   }
+  ],
+  "2002": [
+   {
+    "question": "Which of the following is not a source of minerals in animal nutrition?",
+    "options": [
+     "green pastures",
+     "fish meal",
+     "blood meal",
+     "cereal"
+    ],
+    "correctRaw": "palm oil"
+   },
+   {
+    "question": "The following are all leguminous forage crops except",
+    "options": [
+     "centrosema pubescens",
+     "vigna sinensis",
+     "stylosanthes hamata",
+     "panicum maximum"
+    ],
+    "correctRaw": "pueraria phaseoloides"
+   },
+   {
+    "question": "Which of the following livestock diseases is transmitted by ticks?",
+    "options": [
+     "red water",
+     "coccidiosis",
+     "aspergillosis",
+     "trypanosomiasis"
+    ],
+    "correctRaw": "brucellosis"
+   },
+   {
+    "question": "Dissolved oxygen in fish ponds is maintained at normal level in order to",
+    "options": [
+     "accelerate decay of plant materials",
+     "prevent disease attacks",
+     "prevent aquatic plants from competing with fish",
+     "keep fish activities normal"
+    ],
+    "correctRaw": "improve the quality of fish"
+   },
+   {
+    "question": "Which of the following is not a quality for selecting livestock?",
+    "options": [
+     "feed consumption",
+     "egg production",
+     "mortality rate",
+     "body weight"
+    ],
+    "correctRaw": "litter size"
+   },
+   {
+    "question": "Investments with long life span in agricultural economics are otherwise known as",
+    "options": [
+     "labour",
+     "entrepreneurship",
+     "savings deposit",
+     "profit"
+    ],
+    "correctRaw": "capital"
+   },
+   {
+    "question": "Under normal circumstances, the concept of consumer sovereignty in agriculture implies that",
+    "options": [
+     "the consumer and not the farmer determines what to produce",
+     "both the farmer and the consumer determine what to produce",
+     "the consumer and not the farmer owns the means of production",
+     "the environmental factors determine what to produce"
+    ],
+    "correctRaw": "the farmer determines what to produce"
+   },
+   {
+    "question": "Agricultural credits given to farmers in form of cash are used by the farmer to",
+    "options": [
+     "disseminate the latest technique in farming",
+     "implement new policies",
+     "investigate the cause of low agricultural production",
+     "make the total cash value of his crops greater than his expenses"
+    ],
+    "correctRaw": "pay for expenses in his farming business"
+   },
+   {
+    "question": "Farm records and account help the farmer to",
+    "options": [
+     "manage his farm as a business",
+     "repair his tools and machinery",
+     "transport his crop to the market",
+     "be less dependent on farming for an income"
+    ],
+    "correctRaw": "adopt modern techniques of farming"
+   },
+   {
+    "question": "The disbanded produce marketing boards in Nigeria dealt with the following commodities except",
+    "options": [
+     "oil palm",
+     "rubber",
+     "cocoa",
+     "groundnut"
+    ],
+    "correctRaw": "yam"
+   },
+   {
+    "question": "Agricultural extension programme would succeed in disseminating new ideas to farmers except if the programme",
+    "options": [
+     "is based on research tested on local conditions",
+     "involves the people for which the programme is planned",
+     "involved only the support to highly trained agricultural extension specialist",
+     "is not kept flexible to contemporary technology"
+    ],
+    "correctRaw": "is based on planned agricultural programmes"
+   },
+   {
+    "question": "The most important soil micro-organisms concerned with decay and nutrients-recycling are",
+    "options": [
+     "bacteria and fungi",
+     "fungi and algae",
+     "algae and actinomyces",
+     "actinomyces and bacteria"
+    ],
+    "correctRaw": "bacteria and algae"
+   },
+   {
+    "question": "The nutrient content of soil may be influenced by the following except",
+    "options": [
+     "harrowing",
+     "topography",
+     "cropping",
+     "fallowing"
+    ],
+    "correctRaw": "grazing"
+   },
+   {
+    "question": "What happens to the nitrogen and sulphur contents of vegetation when burning is used as a means of land clearing? They",
+    "options": [
+     "are released by burning and lost as gases",
+     "remain in ash as nitrates and sulphates",
+     "raise the pH of an acid soil",
+     "are released into the soil thus increasing the nutrients of the soil"
+    ],
+    "correctRaw": "activate the soil microbes after burning"
+   },
+   {
+    "question": "Which of the following does not occur as a result of poor drained soil?",
+    "options": [
+     "mottling near the top",
+     "decrease in rooting depth",
+     "change in colour of the subsoil",
+     "decrease in organic matter content"
+    ],
+    "correctRaw": "increase in oxygen level of the soil"
+   },
+   {
+    "question": "The different types of soil are determined by the relative amounts of each of the following components except",
+    "options": [
+     "rocks",
+     "air",
+     "water",
+     "minerals"
+    ],
+    "correctRaw": "organic matter"
+   },
+   {
+    "question": "Fertilizers that usually contain one nutrient which can be used directly by plants are commonly called",
+    "options": [
+     "organic fertilizers",
+     "mixed fertilizers",
+     "inorganic fertilizers",
+     "compound fertilizers"
+    ],
+    "correctRaw": "straight fertilizers"
+   },
+   {
+    "question": "A soil with particles of less than 0.002mm in diameter is referred to as",
+    "options": [
+     "clay",
+     "silt",
+     "sand",
+     "gravel"
+    ],
+    "correctRaw": "humus"
+   },
+   {
+    "question": "Which of the following factors does not bring about soil formation?",
+    "options": [
+     "climate",
+     "time",
+     "parent material",
+     "sunshine"
+    ],
+    "correctRaw": "topography"
+   },
+   {
+    "question": "Plant micro-nutrients include the following except",
+    "options": [
+     "sulphur",
+     "copper",
+     "iron",
+     "zinc"
+    ],
+    "correctRaw": "chlorine"
+   },
+   {
+    "question": "Most crop plants do not survive in water-logged soils because",
+    "options": [
+     "the dissolved nutrients are too diluted for crop plants",
+     "the plants will not photosynthesize",
+     "their leaves are turgid for respiration",
+     "their physiological processes will be increased"
+    ],
+    "correctRaw": "oxygen has been displaced to its deficiency for crops"
+   },
+   {
+    "question": "If the ginning percentage of the Samaru variety of cotton is 35, what will be the amount of raw cotton obtained from a 6-hectare farm with a yield of 330 kg seed cotton per hectare?",
+    "options": [
+     "46 kg",
+     "96.3 kg",
+     "114 kg",
+     "693 kg"
+    ],
+    "correctRaw": "6930 kg"
+   },
+   {
+    "question": "Which of the following factors does not affect the distribution of pasture grasses?",
+    "options": [
+     "type of species",
+     "temperature",
+     "soil",
+     "pests and diseases"
+    ],
+    "correctRaw": "rainfall"
+   },
+   {
+    "question": "Which of the following is not a reason for the government to encourage the planting of trees?",
+    "options": [
+     "controlling erosion",
+     "increasing soil fertility",
+     "preventing desert encroachment",
+     "reducing effects of environmental pollution"
+    ],
+    "correctRaw": "increasing output of mineral oil"
+   },
+   {
+    "question": "Which of the following crops does not require nursery?",
+    "options": [
+     "rice",
+     "tobacco",
+     "tomato",
+     "oil palm"
+    ],
+    "correctRaw": "maize"
+   },
+   {
+    "question": "The causal organism of damping-off disease of okra is a",
+    "options": [
+     "bacterium",
+     "virus",
+     "nematode",
+     "aphid"
+    ],
+    "correctRaw": "fungus"
+   },
+   {
+    "question": "Which of the following crops cannot be easily improved by cross-breeding?",
+    "options": [
+     "groundnut",
+     "cowpea",
+     "oil palm",
+     "maize"
+    ],
+    "correctRaw": "yam"
+   },
+   {
+    "question": "The most appropriate farm machinery for breaking soil is the",
+    "options": [
+     "harrow",
+     "plough",
+     "ridger",
+     "tractor"
+    ],
+    "correctRaw": "cultivator"
+   }
+  ],
+  "2003": [
+   {
+    "question": "Which of the following is not a factor of improvement in breeding cattle?",
+    "options": [
+     "fertility",
+     "butter-fat percentage",
+     "weaning weight",
+     "feed efficiency"
+    ],
+    "correctRaw": "back-fat thickness"
+   },
+   {
+    "question": "The exotic breeds of rabbits found in Nigeria include the following except",
+    "options": [
+     "new zealand white",
+     "chinchila",
+     "american albino",
+     "flemish giant"
+    ],
+    "correctRaw": "rhode island red"
+   },
+   {
+    "question": "Some of the by-products of fish include the following except",
+    "options": [
+     "fish meal",
+     "fish silage",
+     "glue",
+     "oil"
+    ],
+    "correctRaw": "leather"
+   }
+  ],
+  "2004": [
+   {
+    "question": "Which of the following is not a factor affecting fertility in farm animals?",
+    "options": [
+     "age",
+     "ovulation rate",
+     "number of ova fertilized",
+     "number of offspring produced"
+    ],
+    "correctRaw": "lactation rate"
+   },
+   {
+    "question": "Which of the following is not used for identification purposes in livestock?",
+    "options": [
+     "tattooing",
+     "branding",
+     "tagging",
+     "notching"
+    ],
+    "correctRaw": "shearing"
+   },
+   {
+    "question": "Which of the following will not contribute to soil formation in Nigeria?",
+    "options": [
+     "carbonation",
+     "oxidation",
+     "temperature",
+     "hydrolysis"
+    ],
+    "correctRaw": "glaciation"
+   },
+   {
+    "question": "Soil can be drained by the use of the following except",
+    "options": [
+     "channels",
+     "gutters",
+     "ditches",
+     "porous pipes"
+    ],
+    "correctRaw": "sprinklers"
+   },
+   {
+    "question": "Which of the following is not a limitation of farm mechanization?",
+    "options": [
+     "technical know-how",
+     "capital",
+     "small holdings",
+     "lack of spare parts"
+    ],
+    "correctRaw": "labour"
+   },
+   {
+    "question": "The most common weed of pastures in Nigeria is",
+    "options": [
+     "spear grass",
+     "goat weed",
+     "water leaf",
+     "tridax"
+    ],
+    "correctRaw": "sida"
+   },
+   {
+    "question": "The following are forestry crops except",
+    "options": [
+     "tectona grandis",
+     "gmelina arborea",
+     "anarcadium",
+     "pinus eliotis"
+    ],
+    "correctRaw": "chlorophora excelsa"
+   },
+   {
+    "question": "The pest designated as a national pest by the Nigeria Agricultural Advisory Council is",
+    "options": [
+     "variegated grasshopper",
+     "thrips",
+     "capsid",
+     "cricket"
+    ],
+    "correctRaw": "weevil"
+   },
+   {
+    "question": "Which of the following groups comprises only oil crops?",
+    "options": [
+     "groundnut, jute and cotton",
+     "melon, coconut and sisal hemp",
+     "coconut, cotton and sunflower",
+     "sunflower, rubber and jute"
+    ],
+    "correctRaw": "oil palm, sunflower and jute"
+   },
+   {
+    "question": "The mosaic symptom commonly associated with viral diseases of crops can be best observed on",
+    "options": [
+     "roots",
+     "stem",
+     "leaves",
+     "fruits"
+    ],
+    "correctRaw": "flower"
+   },
+   {
+    "question": "Pests of crops that feed by piercing and sucking plants include the following except",
+    "options": [
+     "stem borers",
+     "aphids",
+     "cocoa mirids",
+     "cotton stainers"
+    ],
+    "correctRaw": "cassava mealy bugs"
+   },
+   {
+    "question": "Maize grows best on",
+    "options": [
+     "sandy soil",
+     "sandy-clay soil",
+     "clayey-loam soil",
+     "loamy soil"
+    ],
+    "correctRaw": "silty-clay soil"
+   },
+   {
+    "question": "Soil may be exposed to erosion when a pasture is",
+    "options": [
+     "undergrazed",
+     "overgrazed",
+     "paddocked",
+     "weeded"
+    ],
+    "correctRaw": "fanced"
+   },
+   {
+    "question": "Taungya farm involves the combination of",
+    "options": [
+     "crop and animal husbandary",
+     "crop husbandary and forestry",
+     "forestry and animal husbandary",
+     "crop husbandary and fish farming"
+    ],
+    "correctRaw": "forestry and fishing farming"
+   },
+   {
+    "question": "The destructive effects of variegated grasshoppers are conspicuously observed on",
+    "options": [
+     "cassava and yam crops",
+     "cocoa and citrus crops",
+     "cowpea and maize crops",
+     "maize and cassava crops"
+    ],
+    "correctRaw": "citrus and weeds"
+   },
+   {
+    "question": "A castrated male fowl is known as",
+    "options": [
+     "cock",
+     "capon",
+     "cockerel",
+     "hen"
+    ],
+    "correctRaw": "broiler"
+   },
+   {
+    "question": "The type of feed which contains the essential nutrients in the right concentrations and proportions is known as",
+    "options": [
+     "growers mash",
+     "weaners diet",
+     "creep feed",
+     "concentrate"
+    ],
+    "correctRaw": "balance diet"
+   },
+   {
+    "question": "Which of the following is not a reason why planting a mixture of grass and legume on a pasture is economical to the farmer? The",
+    "options": [
+     "mixture can harbour pests",
+     "mixture helps in preventing soil erosion",
+     "farmer will save on fertilizer",
+     "mixture provides a balanced feed for livestock"
+    ],
+    "correctRaw": "mixture increases the rate of production of livestock"
+   },
+   {
+    "question": "The parts of the body affected by Newcastle disease of poultry are the",
+    "options": [
+     "digestive and circulatory systems",
+     "reproductive and excretory tracts",
+     "nervous system and respiratory tract",
+     "air-sac and the comb"
+    ],
+    "correctRaw": "comb and the legs"
+   },
+   {
+    "question": "A fish pond in an enclosed body of water is for",
+    "options": [
+     "rearing fish for consumption",
+     "rearing aquatic organisms for feeding fish",
+     "storing fish and other organisms",
+     "keeping ornamental fish and aquatic plants"
+    ],
+    "correctRaw": "rearing fish and other aquatic mammals"
+   },
+   {
+    "question": "The breed of goat noted for its production of high quality morocco leather is the",
+    "options": [
+     "west african dwarf",
+     "kano brown",
+     "ouda",
+     "bornu red"
+    ],
+    "correctRaw": "sokoto red"
+   }
+  ],
+  "2005": [
+   {
+    "question": "The commonest method of vegetative propagation is by",
+    "options": [
+     "layering",
+     "budding",
+     "cutting",
+     "grafting"
+    ],
+    "correctRaw": "tillering"
+   },
+   {
+    "question": "I. spreading and perennial plant with long and rapid growing stems. II. height of plant about 1.2m III. resistance to dry weather. Which of the following pasture grasses has the description given above?",
+    "options": [
+     "northern gamba grass",
+     "bahama grass",
+     "guinea grass",
+     "elephant grass"
+    ],
+    "correctRaw": "giant star grass"
+   },
+   {
+    "question": "The annual burning of forest areas encourages",
+    "options": [
+     "afforestation",
+     "deforestation",
+     "regeneration",
+     "selective exploitation"
+    ],
+    "correctRaw": "taungya farming"
+   },
+   {
+    "question": "Which of the following crops is not correctly grouped with its industrial product?",
+    "options": [
+     "cocoa-chocolate",
+     "rubber-boots",
+     "coconut-oil",
+     "cotton-textile"
+    ],
+    "correctRaw": "orange-margarine"
+   },
+   {
+    "question": "The objective of crops improvement programmes is to produce the following except",
+    "options": [
+     "crop types with improved taste and processing",
+     "disease-resistant crops",
+     "high-yielding crops",
+     "crops adapted to adverse environmental conditions"
+    ],
+    "correctRaw": "crops resistant to all pests"
+   },
+   {
+    "question": "The bacterial blight of cotton is also known as",
+    "options": [
+     "black arm",
+     "leaf spot",
+     "damping off",
+     "twister"
+    ],
+    "correctRaw": "leaf rust"
+   },
+   {
+    "question": "Land use is influenced by the following except",
+    "options": [
+     "population density",
+     "population growth",
+     "climatic conditions",
+     "topography"
+    ],
+    "correctRaw": "fallowing"
+   },
+   {
+    "question": "Coal is an example of",
+    "options": [
+     "igneous rock",
+     "metamorphic rock",
+     "plutonic rock",
+     "volcanic rock"
+    ],
+    "correctRaw": "sedimentary rock"
+   },
+   {
+    "question": "What is the percentage of water content of a soil sample if the mass of fresh soil is 180 gm and mass of dried soil is 120 gram?",
+    "options": [
+     "45.5%",
+     "40.4%",
+     "38.3%",
+     "35.3%"
+    ],
+    "correctRaw": "33.3%"
+   },
+   {
+    "question": "In which of the following ways are metamorphic rocks formed?",
+    "options": [
+     "By physical disintegration of igneous rocks",
+     "by alternative layering of particles of sedimentary and igneous rocks",
+     "by the combination of igneous and sedimentary rocks",
+     "through biological change of original rock"
+    ],
+    "correctRaw": "through chemical changes caused by heat and pressure"
+   },
+   {
+    "question": "Staking is very essential in the cultivation of",
+    "options": [
+     "tomato and pepper",
+     "cassava and cowpea",
+     "cowpea and spinach",
+     "tomato and yam"
+    ],
+    "correctRaw": "spinach and pepper"
+   },
+   {
+    "question": "Vetok 85 is used to control",
+    "options": [
+     "rodents",
+     "birds",
+     "stem borers",
+     "reptiles"
+    ],
+    "correctRaw": "nematodes"
+   }
+  ]
+ },
+ "geography": {
+  "2002": [
+   {
+    "question": "Which of the following areas is important for the production of crude petroleum?",
+    "options": [
+     "Canadian sheild",
+     "Ruhr region",
+     "Shaba province (former Katanga District)",
+     "Rand"
+    ],
+    "correctRaw": "North sea"
+   },
+   {
+    "question": "One of the negative effects of building new dams is",
+    "options": [
+     "making water available for domestic uses in rural areas",
+     "developing electricity to run industries",
+     "raising and catching a variety of fish",
+     "creating employment for the indigenous population"
+    ],
+    "correctRaw": "resettling people away from their ancestral homes"
+   }
+  ],
+  "2004": [
+   {
+    "question": "Which pair of activities would you NOT find in an equatorial climate?",
+    "options": [
+     "commercial grain farming",
+     "rice cultivation",
+     "lumbering",
+     "dry farming"
+    ],
+    "correctRaw": "commercial grain farming, dry farming"
+   },
+   {
+    "question": "Which statement is NOT true of the middle belt in Nigeria?",
+    "options": [
+     "the soil is not productive",
+     "the population is sparse",
+     "there are insect pests and disease carriers",
+     "mineral resources can be found there"
+    ],
+    "correctRaw": "none of the above"
+   },
+   {
+    "question": "Which purpose is NOT served by the Kainji Dam?",
+    "options": [
+     "provision of research facilities",
+     "provision of water for domestic use all over Nigeria",
+     "generation of electricity for use all over Nigeria",
+     "provision of recreational facilities"
+    ],
+    "correctRaw": "provision of fishing facilities"
+   },
+   {
+    "question": "Which of the following factors least explains the fast growing population in Africa?",
+    "options": [
+     "control of diseases",
+     "decline in death rate",
+     "the education of women",
+     "provision of more hospitals"
+    ],
+    "correctRaw": "improvement in transportation"
+   },
+   {
+    "question": "Which of the following towns is NOT a pre-colonial town?",
+    "options": [
+     "Ilorin",
+     "Bida",
+     "Ibadan",
+     "Kano"
+    ],
+    "correctRaw": "Enugu"
+   },
+   {
+    "question": "The Middle Best of West Africa is NOT characterised by one of the following. Which one?",
+    "options": [
+     "Low population densities",
+     "Ethnic fragmentation",
+     "Few large towns",
+     "Predominance of subsistence agriculture"
+    ],
+    "correctRaw": "Much export crop production"
+   },
+   {
+    "question": "Which ONE of the following statements about the railway lines of Africa is false?",
+    "options": [
+     "There is no trans-continental railway in Africa which can be compared with the Trans-Siberian Railway in length or importance",
+     "Few railway lines in Africa cross from one country to another",
+     "The railway lines of Africa generally run from the coast inland",
+     "The densest railway network in Africa is in the Republic of South Africa"
+    ],
+    "correctRaw": "Africa's railway lines are all of uniform gauge"
+   }
+  ]
+ }
+}

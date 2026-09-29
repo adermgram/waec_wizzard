@@ -1,0 +1,2422 @@
+{
+ "2000": [
+  {
+   "question": "Which of the following lakes owes its origin mainly to faulting?",
+   "options": [
+    "Lake Chad",
+    "Lake Superior",
+    "Lake Malawi",
+    "Lake Victoria"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The wearing away of the sides and bottom of a river's channel is called",
+   "options": [
+    "hydraulic action",
+    "corrosion",
+    "attrition",
+    "corrasion"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Temperature is to isotherms as air pressure is to",
+   "options": [
+    "isopleths",
+    "contours",
+    "isobars",
+    "isolines"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following gradients is the steepest?",
+   "options": [
+    "1 in 134",
+    "1 in 351",
+    "1 in 531",
+    "1 in 153"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In which of the following countries is commercial grain farming an important occupation?",
+   "options": [
+    "Nigeria",
+    "Kenya",
+    "Spain",
+    "Canada"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Pick out the incorrect statement",
+   "options": [
+    "The Ruhr is a great industrial region",
+    "Scandinavia is noted for its hardwood timber",
+    "The North Sea is a great fishing area",
+    "Woollen fabrics are manufactured in Yorkshire"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The length of a year is 365(1/4) days because that is the time it takes",
+   "options": [
+    "the sun to revolve round its orbit",
+    "the earth to rotate on its axis",
+    "the moon to revolve once round the earth",
+    "the earth to revolve once round the sun"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Two factors which promote rapid chemical weathering in the tropics are",
+   "options": [
+    "high temperature and extreme aridity",
+    "high temperature and low humidity",
+    "low temperature and high humidity",
+    "high temperature and high humidity"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Smooth oval hills composed mainly of boulders or glacial sands and gravels are known as",
+   "options": [
+    "eskers",
+    "drumlins",
+    "moraines",
+    "aretes"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the longest river in the world?",
+   "options": [
+    "Amazon",
+    "Nile",
+    "Yangtze",
+    "Mississippi"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following phenomena is not directly related to the rotation of the earth?",
+   "options": [
+    "seasonal changes",
+    "varrying duration of sunshine hours",
+    "unequal solar radiation on the earth's surface",
+    "night and day"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "On a population map of the world, all but one of the following appear generally as regions of low population density",
+   "options": [
+    "The hot deserts",
+    "The Amazon forests",
+    "Antarctica",
+    "The island of Java"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Mixed farming implies",
+   "options": [
+    "growing crops and rearing animals on a given land area",
+    "keeping poultry and rearing pigs on one and the same farm",
+    "growing grains and root crops on the same piece of land",
+    "mixed cultivation of wheat, barley, and oats"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The main advantage of the chain survey over the prismatic compass survey is that the former",
+   "options": [
+    "yields relatively more accurate results",
+    "involves highly more portable equipment",
+    "does not require a base map",
+    "closes its boundaries with no correction"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The main use of the Abney Level in surveying is to determine the",
+   "options": [
+    "angle of inclination",
+    "relative location",
+    "area coverage",
+    "spot height"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A typical example of landforms produced by marine erosion is a",
+   "options": [
+    "beach",
+    "spit",
+    "mud-flat",
+    "stack"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "When the gradient of a river channel changes from a steep to a gentle angle, the main activity of the river will be",
+   "options": [
+    "depositing",
+    "eroding",
+    "deepening",
+    "terracing"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A volcanic eruption is most likely to be violent when?",
+   "options": [
+    "lava is viscous",
+    "lava is fluid",
+    "it occurs underwater",
+    "it occurs in a rift valley"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The period when the earth is furthest from the sun is",
+   "options": [
+    "aphelion",
+    "summer",
+    "perihelion",
+    "spring"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A traveller crossing the international Date Line from America to Asia at 12 midnight on Sunday, would have to change his watch to 12 midnight on",
+   "options": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Saturday"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Lakes formed as a result of landslides, screes or avalanches are known as",
+   "options": [
+    "man-made lakes",
+    "barrier lakes",
+    "caldera lakes",
+    "rock-hollow lakes"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "In many areas, limestone rocks are resistant to water erosion on their surfaces and form uplands because of their",
+   "options": [
+    "coarse and resistant minerals",
+    "low porosity and permeability",
+    "dense and armophous structure",
+    "joints and pervious nature"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Fluid, basic lava flow is likely to give rise to a volcanic",
+   "options": [
+    "dome",
+    "cinder cone",
+    "shield",
+    "saddle reef"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Urban floods are mainly caused by",
+   "options": [
+    "construction of dams and barrages",
+    "clearance of vegetation on farmlands",
+    "blockage of drains and waterways",
+    "establishment of shelter belts"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The vegetation of the warm Temperate Eastern Margin is characterized by",
+   "options": [
+    "evergreen shrubs and thickets",
+    "mixed deciduous and coniferous forests",
+    "mixed tropical rainforests and monsoonal forests",
+    "mixed coniferous and broad-leaved evergreen forests"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The heavy dark soil associated with floodable valley-bottoms is a",
+   "options": [
+    "lateritic soil",
+    "ferrallitic soil",
+    "podzolic soil",
+    "hydromorphic soil"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following problems has posed the greatest threat to farmers in Anambra State?",
+   "options": [
+    "Gully erosion",
+    "Drought",
+    "Pests and diseases",
+    "Flooding"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The greatest volume of shipping across the Atlantic Ocean is?",
+   "options": [
+    "between Europe and North America",
+    "between Africa and South America",
+    "between Europe and Africa",
+    "between North America and South America"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT a reason for migration in West Africa?",
+   "options": [
+    "To seek for pleasure",
+    "To find better job opportunities",
+    "To escape from conflicts",
+    "To seek better education"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Uganda's exports and imports pass through the port of?",
+   "options": [
+    "Mombassa",
+    "Lagos",
+    "Dar es Salaam",
+    "Durban"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following pairs of natural resources is most vital for the development of heavy industries?",
+   "options": [
+    "Iron ore and coal",
+    "Gold and diamond",
+    "Oil and natural gas",
+    "Copper and bauxite"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "For which of the following pairs of economic activities is the Ukraine (in the U.S.S.R) famous",
+   "options": [
+    "Commercial grain agriculture and livestock ranching",
+    "Fishing and forestry",
+    "Mining and manufacturing",
+    "Textile production and dairy farming"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following economic activities involves the use of machinery, much land, but few people?",
+   "options": [
+    "Commercial grain agriculture",
+    "Subsistence farming",
+    "Plantation agriculture",
+    "Mixed farming"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following conditions leads to rapid population growth?",
+   "options": [
+    "A declining death rate and an increasing birth rate",
+    "High death rate and high birth rate",
+    "Low birth rate and high death rate",
+    "High birth rate and high emigration"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Of the following regions, the one that has the highest potentiality for the production of softwood timber for manufacture of paper is the?",
+   "options": [
+    "coniferous forest of Scandinavia",
+    "tropical rainforest of Brazil",
+    "deciduous forest of Europe",
+    "savannah regions of Africa"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Each of the following pairs consist of a region of high population density and a region of very low population. Which is an appropriate pair?",
+   "options": [
+    "The lower Nile Valley, Ganges Delta",
+    "Amazon Basin, Gobi Desert",
+    "Eastern China, Sahara Desert",
+    "Western Europe, Greenland"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is NOT an objective of industrialization in Nigeria?",
+   "options": [
+    "Encouraging migration from the rural areas",
+    "Creating job opportunities",
+    "Improving the standard of living",
+    "Diversifying the economy"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Nigeria's three steel rolling mills will be located around?",
+   "options": [
+    "Katsina, Oshogbo and Jos",
+    "Lagos, Port Harcourt and Kano",
+    "Ibadan, Enugu and Maiduguri",
+    "Abuja, Benin and Calabar"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following mining methods and minerals are NOT related?",
+   "options": [
+    "planning-coal",
+    "open-pit mining-copper",
+    "placer mining-gold",
+    "shaft mining-diamond"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "In which one of the following sections of a hill slope would you expect the soil to be deepest and most moist?",
+   "options": [
+    "footslope",
+    "summit",
+    "backslope",
+    "shoulder"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Poorly drained soils are good for the growth of?",
+   "options": [
+    "sugarcane",
+    "wheat",
+    "maize",
+    "millet"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following factors CANNOT be used to explain the nature and pattern of distribution of savannah vegetation in Africa?",
+   "options": [
+    "crop cultivation",
+    "rainfall",
+    "soil type",
+    "altitude"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these is NOT a weathering process?",
+   "options": [
+    "The formation of clay minerals from feldspars in granites",
+    "Chemical dissolution of minerals",
+    "Physical breakdown of rocks",
+    "Biological activity"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A map measures 10cm by 6cm. If the map is enlarged such that its area is 240 sq. cm, the map is enlarged?",
+   "options": [
+    "four times",
+    "three times",
+    "six times",
+    "ten times"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following statements is true of the Sahara Desert, the Arctic and sub-Arctic regions of North America?",
+   "options": [
+    "The environment is very harsh for both man and animal",
+    "They have similar temperatures",
+    "They are both densely populated",
+    "They have similar vegetation"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The major mountain belts of the world were produced through?",
+   "options": [
+    "folding",
+    "faulting",
+    "volcanic activity",
+    "glaciation"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following statements best describes the weathering process known as exfoliation?",
+   "options": [
+    "The peeling away of rocks in thin layers",
+    "The dissolving of rock in acid",
+    "The breaking of rock through freezing and thawing",
+    "The chemical alteration of rock minerals"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the instruments is used in measuring wind speed?",
+   "options": [
+    "Cup anemometer",
+    "Barometer",
+    "Hygrometer",
+    "Thermometer"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following features is NOT commonly associated with a river at the floodplain stage?",
+   "options": [
+    "Knickpoint",
+    "Meanders",
+    "Oxbow lakes",
+    "Levees"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Vegetables are usually grown near markets or their places of consumption because?",
+   "options": [
+    "they are easily perishable",
+    "they are not susceptible to attack from pests",
+    "they are meant to be eaten mainly by town dwellers",
+    "they can withstand heat for a long time"
+   ],
+   "answerIndex": 0
+  }
+ ],
+ "2001": [
+  {
+   "question": "Which of the following groups of people is not found in West Africa?",
+   "options": [
+    "Wolof",
+    "Mandingo",
+    "Mossi",
+    "Shona"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The most important gold mining town in Africa is",
+   "options": [
+    "Ilesa",
+    "Obuasi",
+    "Johannesburg",
+    "Bouake"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "An African port that handles more of other countries products than its own is",
+   "options": [
+    "Sofala (Beira)",
+    "Cape Town",
+    "Luanda",
+    "Mombasa"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Power for aluminium smelting is one of the principal objectives of the hydro-electric project in",
+   "options": [
+    "Kariba",
+    "Shiroro",
+    "Akosombo",
+    "Kainji"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "An example of a horst in Africa is",
+   "options": [
+    "Kilimanjaro",
+    "Ruwenzori",
+    "Cameroon",
+    "Erta Ale"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The group of countries that produce most of the cocoa in West Africa is",
+   "options": [
+    "Ghana, Sierra Leone and Gambia",
+    "Ghana, Cote d'Ivoire and Republic of Benin",
+    "Ghana, Nigeria and Cote d'Ivoire",
+    "Nigeria, Cote d'Ivoire and Togo"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The two dams found in the Upper and Lower Nile respectively are",
+   "options": [
+    "Sennar and Jebbel Aulia",
+    "Gezira and Sennar",
+    "Aswan and Jebel Aulia",
+    "Sennar and Aswan"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "A direct natural consequence of drought is",
+   "options": [
+    "famine and starvation",
+    "high mortality rate in livestock",
+    "drying up of most water sources",
+    "change in the chemical property of soils"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The most common tree in the desert is the",
+   "options": [
+    "date",
+    "acacia",
+    "pine",
+    "larch"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The most obvious physical feature that distinguishes undisturbed mature soil from an immature soil is the",
+   "options": [
+    "humus content",
+    "layered profile",
+    "nutrient status",
+    "topsoil texture"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The direction of flow of ocean currents is determined mainly by the",
+   "options": [
+    "rotation of the earth and land and sea breezes",
+    "shape of the continents and the temperature of the continental interior",
+    "prevailing winds and the rotation of the earth",
+    "depth of the ocean and the amount of fresh water inflow"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The medium class of layered cloud which brings continuous rain, snow or sleet is the",
+   "options": [
+    "altocumulus",
+    "altostratus",
+    "stratocumulus",
+    "nimbostratus"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The biodiversity of an ecosystem may be reduced through the",
+   "options": [
+    "extinction of plant species",
+    "removal of a single animal",
+    "introduction of a new plant",
+    "trapping of a single fish"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A soft, black opaque carbonaceous rock that can be used to make pencils is",
+   "options": [
+    "lignite",
+    "graphite",
+    "lead",
+    "coal"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The vegetation that is characterized by tall trees climbing plants and creepers in the Amazon is called",
+   "options": [
+    "pampas",
+    "veldt",
+    "selvas",
+    "steppes"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "One predominantly temperate grain that is being cultivated in some tropical areas today is",
+   "options": [
+    "sorghum",
+    "barley",
+    "maize",
+    "wheat"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The scientist who propounded the theory of continental drift was",
+   "options": [
+    "Alfred Wegener",
+    "William Davis",
+    "Arthur Holmes",
+    "Francis Bacon"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A sedimentary rock formed only in seas and oceans in warm tropical and subtropical environments is",
+   "options": [
+    "shale",
+    "limestone",
+    "sandstone",
+    "mudstone"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Exfoliation and rock disintegration are weathering processes only found in the",
+   "options": [
+    "tundra region",
+    "savannah region",
+    "desert region",
+    "mediterranean region"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "An area of the world that is likely to have 24-hour sunshine on July 15 of any year is the",
+   "options": [
+    "Horse latitudes",
+    "Southern polar area",
+    "Equatorial area",
+    "Northern polar area"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Where winds are onshore, warm ocean currents will bring a type of condition to the coastland that is",
+   "options": [
+    "cool and dry",
+    "warm and wet",
+    "cold and wet",
+    "hot and dry"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The speed of the wind is usually measured by",
+   "options": [
+    "an anemometer",
+    "a speedometer",
+    "an arrow",
+    "a wind vane"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Acid lava is rich in",
+   "options": [
+    "magnesium",
+    "aluminium",
+    "silica",
+    "silver"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The live commentary of a football match which started at 4:00pm at a place on longitude 15°E will be received by a listener in a town on longitude 160°W at",
+   "options": [
+    "6:20am same day",
+    "4:20am same day",
+    "1:40am next day",
+    "3:40am next day"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "During winter, the Eskimos live in",
+   "options": [
+    "tents",
+    "tunnels",
+    "caves",
+    "igloos"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Johannesburg, Jos and Galhivare are similar in that they all",
+   "options": [
+    "act as nodal towns",
+    "have population of over a million",
+    "grew because of the presence of minerals",
+    "act as commercial centres"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The shaduf method of irrigation was first practiced in",
+   "options": [
+    "Egypt",
+    "Ghana",
+    "Sudan",
+    "Niger"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Dairy farming is most notable in",
+   "options": [
+    "Egypt",
+    "Denmark",
+    "Japan",
+    "China"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The least of the factors to be considered in the location of industries is",
+   "options": [
+    "raw materials",
+    "transport",
+    "markets",
+    "climate"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The rise in the population of an area can be measured easily by",
+   "options": [
+    "multiplying the natural increase by the net migration",
+    "subtracting the natural increase from the net migration",
+    "adding the natural increase to the migration",
+    "dividing the natural increase by the net migration"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Transportation is an important economic activity because it",
+   "options": [
+    "promotes diffusion of innovation and ideas",
+    "facilitates urban-rural migration",
+    "promotes the health of national population",
+    "helps to achieve economic independence"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these sets enhances nucleation of rural settlements?",
+   "options": [
+    "Several sources of water and wet points",
+    "Narrow valleys and rugged highlands",
+    "Fertile broad plains and natural harbours",
+    "Dissected plains and wet intersections"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "One factor which helps to account for the dryness of the Sahara desert is the",
+   "options": [
+    "height of the jet stream over the area",
+    "persistence of a high pressure belt over the area",
+    "complete absence of vegetation over much of the area",
+    "impact of oil production by the countries of that region"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The movement of a group of people from a village to an irrigation project area may be described as",
+   "options": [
+    "urban-urban migration",
+    "rural-urban migration",
+    "urban-rural migration",
+    "rural-rural migration"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The most important factors influencing the distribution of population in the world are",
+   "options": [
+    "climate, relief, soils and mineral resources",
+    "climate, industrial activities, soils and tourism",
+    "climate, soils, agriculture and cultural activities",
+    "relief, industrial activities, agriculture and mineral resources"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The most dreaded pest in the Cotton Belt of the U.S.A is the",
+   "options": [
+    "weaver bird",
+    "beetle",
+    "bollweevil",
+    "white ant"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The Benguela current is to Namibia what the canaries current is to",
+   "options": [
+    "Kenya",
+    "Angola",
+    "Mozambique",
+    "Mauritania"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The two prominent highlands at the Nigeria-Cameroun border are",
+   "options": [
+    "Mambila and Oban",
+    "Mandara and Alantika",
+    "Udi and Shebshi",
+    "Jos Plateau and Kukuruku"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An important mineral deposit in South Africa which has attracted a large number of white settlers is",
+   "options": [
+    "iron in Durban",
+    "copper in Cape Town",
+    "gold in Witwatersrand",
+    "aluminium in Johannesburg"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The prosperity of Kenya depends upon the cultivation of",
+   "options": [
+    "coffee, sisal and rice",
+    "coffee, cocoa and rice",
+    "coffee, rubber and maize",
+    "coffee, maize and sisal"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "One major feature of manufacturing in West Africa is that the industries",
+   "options": [
+    "are evenly spread over major towns",
+    "produce mainly for domestic market",
+    "are capital intensive",
+    "have wide markets for their products"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The most important air masses which affect the climate of Nigeria are the",
+   "options": [
+    "tropical maritime and tropical sea and land breezes",
+    "tropical maritime and the equatorial westerlies",
+    "tropical maritime and the tropical continental",
+    "tropical maritime and the polar continental"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The low rainfall along Cape Three Points in Ghana is due to the",
+   "options": [
+    "upwelling of cold water",
+    "sparse vegetation",
+    "prevalence of south west winds",
+    "upwelling of warm water"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "In Nigeria, the dominant trees of the Guinea Savannah include",
+   "options": [
+    "isoberlinia, obeche and locust bean",
+    "isoberlinia, shea butter and silk cotton",
+    "acacia, dum palm and silk cotton",
+    "locust bean, oil bean and acacia"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "From its source to its mouth, the River Niger passes through",
+   "options": [
+    "Mali, Guinea, Niger and Nigeria",
+    "Guinea, Mali, Togo and Nigeria",
+    "Guinea, Mali, Niger and Nigeria",
+    "Mali, Niger, Guinea and Nigeria"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "An environmental hazard which occurs slowly and unnoticed in the oil-producing region of the Niger Delta of Nigeria is",
+   "options": [
+    "erosion",
+    "pollution",
+    "flood",
+    "subsidence"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "One basic mineral that is common to Sokoto, Ewekoro, Calabar and Nkalagu is",
+   "options": [
+    "coal",
+    "marble",
+    "limestone",
+    "gypsum"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The rise in the population of an area can be measured easily by",
+   "options": [
+    "multiplying the natural increase by the net migration",
+    "subtracting the natural increase from the net migration",
+    "adding the natural increase to the migration",
+    "dividing the natural increase by the net migration"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Transportation is an important economic activity because it",
+   "options": [
+    "promotes diffusion of innovation and ideas",
+    "facilitates urban-rural migration",
+    "promotes the health of national population",
+    "helps to achieve economic independence"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these sets enhances nucleation of rural settlements?",
+   "options": [
+    "Several sources of water and wet points",
+    "Narrow valleys and rugged highlands",
+    "Fertile broad plains and natural harbours",
+    "Dissected plains and wet intersections"
+   ],
+   "answerIndex": 2
+  }
+ ],
+ "2002": [
+  {
+   "question": "Exfoliation and rock disintegration are weathering processes only found in the",
+   "options": [
+    "tundra region",
+    "savannah region",
+    "desert region",
+    "mediterranean region"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "An area of the world that is likely to have 24-hour sunshine on July 15 of any year is the",
+   "options": [
+    "Horse latitudes",
+    "Southern polar area",
+    "Equatorial area",
+    "Northern polar area"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Where winds are onshore, warm ocean currents will bring a type of condition to the coastland that is",
+   "options": [
+    "cool and dry",
+    "warm and wet",
+    "cold and wet",
+    "hot and dry"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The speed of the wind is usually measured by",
+   "options": [
+    "an anemometer",
+    "a speedometer",
+    "an arrow",
+    "a wind vane"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Acid lava is rich in",
+   "options": [
+    "magnesium",
+    "aluminium",
+    "silica",
+    "silver"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The live commentary of a football match which started at 4:00pm at a place on longitude 15°E will be received by a listener in a town on longitude 160°W at",
+   "options": [
+    "6:20am same day",
+    "4:20am same day",
+    "1:40am next day",
+    "3:40am next day"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "During winter, the Eskimos live in",
+   "options": [
+    "tents",
+    "tunnels",
+    "caves",
+    "igloos"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Johannesburg, Jos and Galhivare are similar in that they all",
+   "options": [
+    "act as nodal towns",
+    "have population of over a million",
+    "grew because of the presence of minerals",
+    "act as commercial centres"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The shaduf method of irrigation was first practiced in",
+   "options": [
+    "Egypt",
+    "Ghana",
+    "Sudan",
+    "Niger"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Dairy farming is most notable in",
+   "options": [
+    "Egypt",
+    "Denmark",
+    "Japan",
+    "China"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The least of the factors to be considered in the location of industries is",
+   "options": [
+    "raw materials",
+    "transport",
+    "markets",
+    "climate"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The Qattara Depression in Egypt is the product of",
+   "options": [
+    "wind deflation",
+    "glacial gouging",
+    "volcanic activity",
+    "river gullying"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Rainfall caused by the movement of air over a mountain is termed",
+   "options": [
+    "orographic rainfall",
+    "cyclonic rainfall",
+    "frontal rainfall",
+    "thunder shower"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Identify the non-fuel mineral among the following",
+   "options": [
+    "Petroleum",
+    "Cassiterite",
+    "Lignite",
+    "Anthracite"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Identify the pair of forces/processes which may be responsible for the formation of rift valleys",
+   "options": [
+    "Centrifugal and Faulting",
+    "Erosional and Compressional",
+    "Compressional and Magnetic",
+    "Compressional and Faulting"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Bamboo and Mahogany, lianas and obeche, raphia and tree ferns. In which vegetation type are all these found?",
+   "options": [
+    "Tropical monsoon",
+    "Tropical rain forest",
+    "Sub-tropical forest",
+    "Chaparral forest"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The process of weathering include all but one of the following",
+   "options": [
+    "Alternate heating and cooling of rocks",
+    "Rock-breaking due to frost action",
+    "peeling off of exposed layers of rounded crystalline rocks",
+    "rock rotting because of chemical changes"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "With which one of the following areas are active volcanoes associated?",
+   "options": [
+    "Glaciated uplands",
+    "Plateau surfaces",
+    "Newly folded mountains",
+    "Coastal regions"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The ocean route with the greatest traffic is the",
+   "options": [
+    "North atlantic route",
+    "Cape of Good Hope route",
+    "North pacific route",
+    "North American-South American route"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following types of climate would a person not encounter in traveling from Algiers to Cape town?",
+   "options": [
+    "Tropical rain forest",
+    "Temperate",
+    "Desert",
+    "Mediterranean"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Norway, British Columbia,the Canadian Shield, and Finland are noted for their production of",
+   "options": [
+    "petroleum",
+    "soft-wood timber",
+    "the world's largest supply of fish",
+    "hard-wood timber"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The great commercial grain-farming regions of the world include all but one of the following. Which is it?",
+   "options": [
+    "The Prairie lands of North America",
+    "the Pampas of Argentina",
+    "The West African Savannah",
+    "The Murray-Darling Basin of Australia"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of these regions is not an area of high population density?",
+   "options": [
+    "The Nile Delta",
+    "The Niger Delta",
+    "The Ganges Delta",
+    "The Rhine Delta"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Industries like cement manufacturing and iron and steel are usually located close to the site of raw materials because",
+   "options": [
+    "finished products are delicate",
+    "raw materials are abundant",
+    "raw materials also occur at market site",
+    "total transport costs are reduced"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "One of the following indicates why the best fishing grounds of the world are located in mid-temperate latitudes",
+   "options": [
+    "There is abundant food for fish",
+    "the climate is suitable",
+    "an extensive continental shelf exists",
+    "the coincidence of A, B and C"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The major disadvantage of the River Nile as a trade route is that",
+   "options": [
+    "it passes through desert areas",
+    "it has several cataracts",
+    "it passes through several countries",
+    "it is slow-flowing"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following conditions is not conducive to the cultivation of tea?",
+   "options": [
+    "Heavy rainfall throughout the year",
+    "High elevation",
+    "A spell of dry weather in season",
+    "Good drainage"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following is not characteristic of major world cities?",
+   "options": [
+    "Coastal location",
+    "Air, water and noise pollution",
+    "inadequate transportation facilities",
+    "Dependence on primary activities"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The major disadvantage of air transportation compared with land transportation is that",
+   "options": [
+    "an aircraft can fly above terrestrial obstacles and therefore has a much wider choice of routes",
+    "air transport is much more expensive to develop, build and maintain",
+    "air transportation is faster in speed, enabling to make much more frequent runs",
+    "air transportation is much more suitable for international information exchange systems"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following statements is not true of primary activities?",
+   "options": [
+    "They are concerned with extracting material direct from the earth or sea",
+    "they are not involved in the processing of a finished product",
+    "They are located at the source of the raw materials",
+    "they are concerned with the provision of information and expertise"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The wind system that brings the harmattan to Africa is referred to as",
+   "options": [
+    "The north-east trade",
+    "the north-west trade",
+    "the south-west trade",
+    "the south-east trade"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following towns in Nigeria is noted for the production of glass beads as a traditional craft?",
+   "options": [
+    "Akwette",
+    "Keffi",
+    "Sokoto",
+    "Bida"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The most important coffee producer in West Africa is",
+   "options": [
+    "Ivory Coast",
+    "Nigeria",
+    "Ghana",
+    "Gambia"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One of the electric power stations in Nigeria which uses natural gas as a source of energy is",
+   "options": [
+    "Oji river",
+    "Sapele",
+    "Ijora",
+    "none of the above"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The Gezira plain is an important agricultural region in Africa noted for the production of",
+   "options": [
+    "rice",
+    "cotton",
+    "groundnut",
+    "beniseed"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Nigeria produces locally the major raw materials for the manufacture of all but one of these home made goods",
+   "options": [
+    "Cement",
+    "Aluminium products",
+    "Bar soap",
+    "Refined petroleum products"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the commodity associated with OPEC?",
+   "options": [
+    "iron and steel",
+    "mineral oil",
+    "vegetable oil",
+    "sugar"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of these contributes the least to Nigeria's national economy?",
+   "options": [
+    "Agriculture",
+    "Animal rearing",
+    "Manufacturing",
+    "Tourism"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "One of the following countries produces more rice than the others. Which is it?",
+   "options": [
+    "China",
+    "Ivory Coast",
+    "Japan",
+    "Thailand"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Dairy farming is often practiced near large urban centers because",
+   "options": [
+    "cattle feed is manufactured in cities",
+    "dairy products are perishable",
+    "dairy cattle are required to supply meat to urban population",
+    "special care for dairy cattle is available only in towns"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The main petroleum-producing countries of Africa are",
+   "options": [
+    "Nigeria, Togo and South Africa",
+    "Nigeria, Ivory Coast and Zaire",
+    "Nigeria, Algeria and Tunisia",
+    "Nigeria, Algeria and Libya"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A ship's radioed message on the high sea at 5.45pm was heard at Abidjan (5°W) at 11.15am on the same day. Find the position of the ship",
+   "options": [
+    "90°E",
+    "92°30'E",
+    "95°E",
+    "97°30'E"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What feature would you associate with a rejuvenated river?",
+   "options": [
+    "a waterfall",
+    "a delta",
+    "a meander",
+    "sand deposits"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The intensity of the sun's heat is not much in polar regions because",
+   "options": [
+    "the earth is flat at the poles",
+    "the atmosphere is thick at the poles",
+    "the atmosphere is thin at the poles",
+    "the angle of insolation is low"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following is a correct pair?",
+   "options": [
+    "Glacier/Erratic boulder",
+    "Desert/Cavern",
+    "Limestone/Pass",
+    "River/Cut-off"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following rocks is composed of the skeletons of microscopic sea plants and animals?",
+   "options": [
+    "Sandstone",
+    "Slate",
+    "Chalk",
+    "Clay"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Annual rainfall is low and erratic. The vegetation is scanty, although temperature is generally high, yet the daily range of temperature is very high. Which of the following is the climatic type described above?",
+   "options": [
+    "Monsoon",
+    "Mediterranean",
+    "British type",
+    "Hot desert"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Rain falls mainly during the warm summer months. Summer temperature rarely exceeds 18.3°C. Annual rainfall is often below 125cm. Which of these crops is most unlikely to do well in the area described above?",
+   "options": [
+    "Wheat",
+    "Cotton",
+    "Oats",
+    "Rye"
+   ],
+   "answerIndex": 0
+  }
+ ],
+ "2003": [
+  {
+   "question": "Which of these industries is usually located at the source of its major raw materials?",
+   "options": [
+    "cement manufacturing",
+    "brewing",
+    "textile manufacturing",
+    "stone dressing"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which one of the following states of Nigeria is a major kola-nut producer?",
+   "options": [
+    "Kano",
+    "Borno",
+    "Bendel",
+    "Bauchi"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Nigeria's new federal capital territory shares boundaries with four states. What are these states?",
+   "options": [
+    "Benue, Kwara, Niger and Kaduna",
+    "Kano, Kaduna, Niger and Kwara",
+    "Plateau, Kwara, Niger and Kaduna",
+    "Gongola, Bauchi, Kwara and Niger"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which are three main export crops of Uganda? 1. Bananas 2. Coffee 3. Cotton 4. Groundnuts 5. Sugar 6. Cassava 7. Tobacco",
+   "options": [
+    "1&5&7",
+    "2&3&7",
+    "2&4&5",
+    "1&6&7"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following is the least important reason for promoting manufacturing industries by West African Nations?",
+   "options": [
+    "to reduce dependence on agriculture",
+    "to earn more foreign exchange",
+    "to raise the level of employment",
+    "to produce locally everything needed"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the geographical reasons below least supports the existence of ECOWAS?",
+   "options": [
+    "the countries in the community are contiguous",
+    "it has an internal market of about 160 million people",
+    "the peoples are of the same racial group",
+    "the countries in the community share similar physical characteristics"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Dodoma is to Tanzania as .........is to Nigeria",
+   "options": [
+    "Lagos",
+    "Abuja",
+    "Port Hacourt",
+    "Ajaokuta"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the cause of the double rainfall maximal in southern Nigeria?",
+   "options": [
+    "land and sea breezes",
+    "nearness to the Atlantic Ocean",
+    "overhead sun at the tropic of Cancer",
+    "overhead sun on the equator"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Textile industries in Nigeria are characterized by the following features except one?",
+   "options": [
+    "full automation",
+    "import substitution",
+    "labour intensive",
+    "market oriented"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The following is a description of a type of climate: 'very cold winters (-34°C or colder), hot summers (21°C); mean annual rainfall under 380mm, most of it occurring in summer'. To which of the following does the description relate?",
+   "options": [
+    "tropical continental",
+    "tropical monsoon",
+    "temperate western margin",
+    "temperate eastern margin"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following features is NOT characteristic of a glaciated area?",
+   "options": [
+    "Hanging valleys",
+    "Aretes",
+    "Interlocking spurs",
+    "U-shaped valleys"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which one of the following terms give us the best general description of the relief of West Africa?",
+   "options": [
+    "Swamps and low lands",
+    "Hills and mountain",
+    "Scarp slopes and deep slopes",
+    "plain and plateaux"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following is the most important reason why the highest densities of cattle in West Africa are to be found in the Sudan and Sahel Savannah zones?",
+   "options": [
+    "The two zones are far from the coast",
+    "The two zones have abundant water resources",
+    "The two zones have abundant fodder resources",
+    "the two zones are largely free from tsetse flies"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following countries have few resources and yet has developed industries tremendously?",
+   "options": [
+    "United Kingdom",
+    "Italy",
+    "France",
+    "Norway"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which among the following is a producer of coal?",
+   "options": [
+    "Wankie (Zimbabwe)",
+    "Ndola (Zambia)",
+    "Nsutta (Ghana)",
+    "Jos (Nigeria)"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these is the least important advantage of the transcontinental railways in Europe and North-America?",
+   "options": [
+    "Easy evacuation of mineral products",
+    "Political integration",
+    "Easy evacuation of agricultural products",
+    "Employment of labour"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following can be regarded as the backbone of a modern industrial economy?",
+   "options": [
+    "Cement manufacturing industry",
+    "Ship-Building industry",
+    "Motor vehicle manufacturing industry",
+    "Iron and Steel industry"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A hinterland is?",
+   "options": [
+    "the central part of a country",
+    "an area which is far from the coast",
+    "a landlocked country",
+    "an area surrounding a city"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Very large in area but very low in population; which of the following countries fits this description best?",
+   "options": [
+    "Lesotho",
+    "Tunisia",
+    "Nigeria",
+    "Zaire"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The industrial economy of South Africa is NOT based on one of the following factors:",
+   "options": [
+    "abundant coal resources",
+    "abundant crude petroleum resources",
+    "abundant agricultural resources",
+    "abundant cheap labour"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Volcanoes are considered a natural resource because of all but one of the following reason",
+   "options": [
+    "mountainous landscape of volcanic origin have more scenic beauty",
+    "most volcanic soils yield fertile soils",
+    "intrusive volcanoes sometimes contains economic minerals",
+    "volcanic explosion helps control world population"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of these sets best arranges these settlement types in ascending order in terms of their complexity of function?",
+   "options": [
+    "hamlet, village, town, city, metropolis",
+    "village, hamlet, city, town, metropolis",
+    "metropolis, town, city, village, hamlet",
+    "town, hamlet, village, city, metropolis"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The great agricultural regions of the world includes all but one of these",
+   "options": [
+    "the corn belt of USA",
+    "the pampas of Argentina",
+    "the Black soils Region of Ukraine",
+    "the Sahel of West Africa"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of these sea routes carries the heaviest traffic?",
+   "options": [
+    "the North Atlantic routes between Europe and North America",
+    "the Suez Canal route between Europe and Asia",
+    "the Cape route between Europe and Asia",
+    "the Panama Canal route between Europe and Asia"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The Nigerian petroleum refineries are located at one of the following pairs of town?",
+   "options": [
+    "Lagos and Port-Harcourt",
+    "Port-Harcourt and Calabar",
+    "Benin and Warri",
+    "Port-Harcourt and Warri"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Nigeria's proposed Iron and steel industry based on the direct reduction would be located at;",
+   "options": [
+    "OSHOGBO",
+    "Port-Harcourt",
+    "Enugu",
+    "Warri"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Industries can be classified as either light or heavy. Which of the following groups of industries can be classified as light?",
+   "options": [
+    "Textile, clothing, footwear and printing",
+    "Iron and steel, cement and sugar",
+    "Non-metallic products and chemicals",
+    "Petroleum"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is the most important reason for moving the Federal Capital of Nigeria to Abuja?",
+   "options": [
+    "The area has a central location",
+    "To develop the interior of the country",
+    "To reduce pressure on Lagos",
+    "To create job opportunities"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "For what specific purpose is the Shiroro Dam on the river Kaduna being constructed?",
+   "options": [
+    "Generating electricity",
+    "Providing water for irrigation",
+    "Flood control",
+    "Recreation and tourism"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Landforms vary in Africa but there are no examples of?",
+   "options": [
+    "drumlins",
+    "mountains",
+    "plateaus",
+    "valleys"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Where does heavy precipitation tend to occur in the world?",
+   "options": [
+    "where temperatures are high and winds blow off shore",
+    "in the desert regions",
+    "at the poles",
+    "on mountain tops"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following is a feature of a rejuvenated drainage system?",
+   "options": [
+    "Incised meanders",
+    "Floodplains",
+    "Deltas",
+    "Oxbow lakes"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following rock types is non-sedimentary?",
+   "options": [
+    "Basalt",
+    "Limestone",
+    "Sandstone",
+    "Shale"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Plants take up mineral nutrients in solution from the soil. Some of these are required in large quantities while others are needed in small quantities. Which of these is required in small quantities?",
+   "options": [
+    "Sulphur",
+    "Nitrogen",
+    "Phosphorus",
+    "Potassium"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Two factors which together cause the varying length of day and night are?",
+   "options": [
+    "inclination of the earth on its axis and the revolution of the moon round the earth",
+    "inclination of the earth on its axis and its rotation",
+    "revolution of the earth around the sun and the moon around the earth",
+    "rotation of the moon and inclination of the earth"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "When one looks at a soil profile, the first characteristic to be noticed is soil?",
+   "options": [
+    "colour",
+    "texture",
+    "structure",
+    "composition"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these statements is NOT true of the burning of savannah?",
+   "options": [
+    "its makes the temperature of soil too high for the plants",
+    "it promotes the growth of fresh grass",
+    "it helps to control pests and diseases",
+    "it provides ash which enriches the soil"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Among West Africa countries, Togo is a leading exporter of?",
+   "options": [
+    "Phosphates",
+    "Cocoa",
+    "Coffee",
+    "Cotton"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Why is rainfall in northern Chile and along the coastal belt of southern Peru so low?",
+   "options": [
+    "Because the coast is washed by a cool current",
+    "Because of the Atacama Desert",
+    "Because of the Andes mountains",
+    "Because of the Humboldt Current"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Rivers can erode their beds through the process of?",
+   "options": [
+    "Abrasion",
+    "Solution",
+    "Attrition",
+    "Hydraulic action"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "With which of the following processes are drumlins, boulder clay and terminal moraines associated?",
+   "options": [
+    "Glacial deposition",
+    "River erosion",
+    "Wind erosion",
+    "Volcanic activity"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these groups of rocks consist of only sedimentary rocks and are used in the manufacture of cement?",
+   "options": [
+    "Coal, Limestone, gypsum",
+    "Marble, Granite, Slate",
+    "Basalt, Sandstone, Shale",
+    "Granite, Basalt, Gabbro"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these major soil groups is considered the most productive?",
+   "options": [
+    "Chernozems",
+    "Latosols",
+    "Podzols",
+    "Regosols"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The result of a football match completed at 6.00 p.m in Accra (Ghana) and heard at 12.00 noon that same day at another city. The longitude of that city is?",
+   "options": [
+    "75°E",
+    "15°W",
+    "0°",
+    "45°E"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which climate type is characterized by (i) very high temperature (over 33°C) during the period of high sun; (ii) moderately high annual temperature range 17-12°C and very high daily range 20-30°C. (iii) annual rainfall less than 4cm; and (iv) annual evaporation from a free water surface exceeding 200cm?",
+   "options": [
+    "Tropical desert climate, Bwh",
+    "Equatorial climate, Af",
+    "Tropical wet and dry climate, Aw",
+    "Mediterranean climate, Cs"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Chemical weathering processes include all except ONE of the following?",
+   "options": [
+    "Transportation",
+    "Hydrolysis",
+    "Oxidation",
+    "Carbonation"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Elements of weather and climate include all but ONE of the following:",
+   "options": [
+    "Altitude",
+    "Temperature",
+    "Precipitation",
+    "Humidity"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which town does NOT properly belong to the group?",
+   "options": [
+    "Forcados",
+    "Accra",
+    "Lagos",
+    "Takoradi"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these does NOT lie in the principal earthquake regions of the world?",
+   "options": [
+    "Mali",
+    "Japan",
+    "Chile",
+    "California"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "All but ONE of the following raw materials needed for Nigeria's iron and steel industry are available locally?",
+   "options": [
+    "Manganese",
+    "Iron ore",
+    "Limestone",
+    "Coal"
+   ],
+   "answerIndex": 0
+  }
+ ],
+ "2004": [
+  {
+   "question": "Which of the following is a major environmental problem in heavily industrialized regions?",
+   "options": [
+    "Accelerated erosion",
+    "Water pollution",
+    "Frost damage",
+    "Acid rain"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "A fog is most likely to develop when a",
+   "options": [
+    "warm moist wind blows over a warm current",
+    "warm moist wind blows over a cold current",
+    "cold, dry winds blows over a warm current",
+    "warm, dry winds blows over a cold current"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What is the study of the Earth called?",
+   "options": [
+    "Astronomy",
+    "Geology",
+    "Meteorology",
+    "Geography"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "What is the longest river in the world?",
+   "options": [
+    "Amazon",
+    "Nile",
+    "Yangtze",
+    "Mississippi"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following phenomena is not directly related to the rotation of the earth?",
+   "options": [
+    "seasonal changes",
+    "varrying duration of sunshine hours",
+    "unequal solar radiation on the earth's surface",
+    "night and day"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Inter-regional trade between countries in West Africa is promoted mainly by",
+   "options": [
+    "relationship with former colonial rulers",
+    "production of similar goods",
+    "deliberate government policies in recent times",
+    "competition among the nations in Africa"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "Which of the following zones is the least industrialized in Nigeria?",
+   "options": [
+    "Lokoja-Ajaokuta",
+    "Lagos-Ikeja",
+    "Port harcourt-Aba",
+    "Kaduna-Zaria"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "What is the Nile valley best known for?",
+   "options": [
+    "Industrial development",
+    "Water navigation",
+    "Commerce",
+    "Hydro-electricity"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which is not exported by the Republic of South Africa?",
+   "options": [
+    "Wines",
+    "Maize",
+    "Wool",
+    "Coffee"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Name the most important industrial mineral of Ghana",
+   "options": [
+    "Diamond",
+    "Bauxite",
+    "Manganese",
+    "Gold"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "If a map at a scale of 1:50,000 is reduced by half, what is the new scale of the map?",
+   "options": [
+    "1:250,000",
+    "1:25,000",
+    "1:200,000",
+    "1:100,000"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following most accurately describe the climate of coast lands which are adjacent to cool ocean currents?",
+   "options": [
+    "summer rain, winter drought",
+    "winter rain, summer drought",
+    "rain all the year round",
+    "aridity"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "How were the major mountain belts of the world produced?",
+   "options": [
+    "By wind erosion",
+    "By Folding",
+    "By glacial erosion",
+    "By river deposition"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Which of the following factors must account for the rapid increase in world population during the twentieth century?",
+   "options": [
+    "The slave trade was abolished",
+    "Death rates have decreased rapidly",
+    "Birth rates have increased rapidly",
+    "Increasing world production of food"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "What does subsistence agriculture mean?",
+   "options": [
+    "Intensive agriculture",
+    "Extensive agriculture",
+    "Agricultural production for cash",
+    "Agricultural production for household consumption"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following provides the best location for a bakery?",
+   "options": [
+    "Near a regular source of flour",
+    "In an area of cheap labour",
+    "Near a large market for bread",
+    "Near a source of good clean water"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The greatest volume of shipping across the Atlantic Ocean is",
+   "options": [
+    "between Africa and South America",
+    "between Africa and North America",
+    "between North America and South America",
+    "between Europe and North America"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "Which of the following has the highest mean annual rainfall?",
+   "options": [
+    "Freetown",
+    "Accra",
+    "Lome",
+    "Lagos"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which one of the following countries has an export trade which is dominated by a single mineral?",
+   "options": [
+    "Central Africa Empire",
+    "Uganda",
+    "Kenya",
+    "Zambia"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A World Title Boxing contest took place in New York (75°W time zone) on a Tuesday between 21:30 and 22:30 Hours and was televised live. When did viewers in Lagos (15°E time zone) watch the contest live on television?",
+   "options": [
+    "Wednesday between 03:30 and 04:30 Hours",
+    "Monday between 03:30 and 04:30 Hours",
+    "Tuesday between 15:30 and 16:30 Hours",
+    "Tuesday between 02:30 and 03:30 Hours"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of the following currents has a warming influence upon the coast along which it flows?",
+   "options": [
+    "Mozambique current",
+    "Labrador current",
+    "Benguela current",
+    "Canaries current"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "One factor which helps to account for the dryness of the Sahara desert is the",
+   "options": [
+    "height of the jet stream over the area",
+    "persistence of a high pressure belt over the area",
+    "complete absence of vegetation over much of the area",
+    "impact of oil production by the countries of that region"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The circulation of the oceans and the atmosphere primarily help to redistribute and equalize global",
+   "options": [
+    "heat",
+    "flora",
+    "oxygen",
+    "fauna"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Soils with well developed profiles formed mainly under the influence of the regional climate and vegetation are said to be",
+   "options": [
+    "azonal",
+    "zonal",
+    "intrazonal",
+    "colluvial"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Environmentalists agree that there is a general rise in sea level as a result of",
+   "options": [
+    "excessive rainfall",
+    "excavation of sand from ocean beds",
+    "global warming",
+    "man-induced erosion along sea coasts"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The set of trees most suitable for pulp and paper making is",
+   "options": [
+    "spruce, mahogany and obeche",
+    "fir, obeche and ebony",
+    "spruce, fir and pine",
+    "pine, eucalyptus and mahogany"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The population of a certain country was observed to be 46 million males and 41 million females within a land area of about 173,000 km². What is the average density of the population?",
+   "options": [
+    "503 persons per km²",
+    "351 persons per km²",
+    "266 persons per km²",
+    "237 persons per km²"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Modern satellite towns are commonly characterized by",
+   "options": [
+    "central city location, roomy houses and high building density",
+    "suburban location, planned layout and spacious surroundings",
+    "industrial estate location, low building density and limited open spaces",
+    "rural location, planned layout and high rise apartments"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "An extensive fertile plain with a relatively low population will most likely be characterized by",
+   "options": [
+    "great conurbations",
+    "linear, rural settlements",
+    "nucleated urban settlements",
+    "scattered rural settlements"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "International agreements in the fishing industry are necessary in order to protect whale and seal from",
+   "options": [
+    "marauding",
+    "stock extinction",
+    "sea piracy",
+    "sea accident"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Many industries in Europe and America have established branches in South East Asia in order to reduce",
+   "options": [
+    "production costs",
+    "transport costs",
+    "raw material shortages",
+    "comparative advantage"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Expressways mainly help intracity traffic in that",
+   "options": [
+    "the multiple lanes can hold more traffic",
+    "vehicles can move at high speed",
+    "they divert traffic away from the city",
+    "new motor parks can be sited along them"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "The best climate for the production of tea is",
+   "options": [
+    "monsoon",
+    "maritime",
+    "equatorial",
+    "temperate"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "The harmattan wind in Nigeria is associated with",
+   "options": [
+    "Tropical Continental Airmass",
+    "Equatorial Maritime Airmass",
+    "Tropical Maritime Airmass",
+    "Polar Continental Airmass"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Three ethnic groups of the Niger Delta region of Nigeria are",
+   "options": [
+    "Ibibio, Tiv and Ijo",
+    "Igbo, Idoma and Ijo",
+    "Ijo, Urhobo and Itshekiri",
+    "Itshekiri, Igbo and Ibibio"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "The sequence of savannah vegetation zones in Nigeria towards the northern part is",
+   "options": [
+    "Derived, Sahel, Guinea and Sudan",
+    "Derived, Guinea, Sudan and Sahel",
+    "Derived, Sudan, Guinea and Sahel",
+    "Derived, Guinea, Sahel and Sudan"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Oil refineries are found in which of the following sets of states?",
+   "options": [
+    "Cross River, Rivers and Edo",
+    "Edo, Delta and Kaduna",
+    "Cross River, Edo and Kaduna",
+    "Rivers, Delta and Kaduna"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "In Nigeria, hydroelectric and thermal energies are generated respectively in",
+   "options": [
+    "Ijora and Oji river",
+    "Afam and Ijora",
+    "Kainji and Oji river",
+    "Kura falls and Kainji"
+   ],
+   "answerIndex": 2
+  },
+  {
+   "question": "On the Jos plateau, tin and columbite are obtained mainly from",
+   "options": [
+    "older granites",
+    "volcanic cones",
+    "wind deposits",
+    "alluvial deposits"
+   ],
+   "answerIndex": 3
+  },
+  {
+   "question": "The scientist who propounded the theory of continental drift was",
+   "options": [
+    "Alfred Wegener",
+    "William Davis",
+    "Arthur Holmes",
+    "Francis Bacon"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "A sedimentary rock formed only in seas and oceans in warm tropical and subtropical environments is",
+   "options": [
+    "shale",
+    "limestone",
+    "sandstone",
+    "mudstone"
+   ],
+   "answerIndex": 1
+  },
+  {
+   "question": "Only one of these statements about West Africa is true. Which is it?",
+   "options": [
+    "Nigeria alone has just half as much population as the rest of West Africa put together",
+    "Nigeria has the smallest population in West Africa",
+    "Ghana has a larger population than Nigeria",
+    "Ivory Coast is the most populous country in West Africa"
+   ],
+   "answerIndex": 0
+  },
+  {
+   "question": "Which of these statements about Africa is NOT true?",
+   "options": [
+    "Africa is the least urbanized continent although urbanization started early in Africa",
+    "Africa is the second largest continent",
+    "Africa is rich in mineral resources",
+    "Africa has diverse cultures and languages"
+   ],
+   "answerIndex": 0
+  }
+ ]
+}

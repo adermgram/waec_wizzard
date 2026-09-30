@@ -29,10 +29,10 @@ assets/
   data/          Question banks + subject/paper manifests (JSON)
   pdfs/          Bundled past-paper PDFs
   audio/         Correct/wrong sound effects
-  icon/          Source launcher icon images
+  icon/          Launcher icon source images (carried over from the original
+                 app's ic_launcher-playstore.png / adaptive icon foreground)
 tool/
   extract_questions.py   One-off migration script - see below
-  generate_icon.py       Generates the launcher icon from assets/icon/
 ```
 
 ## Where the question bank came from

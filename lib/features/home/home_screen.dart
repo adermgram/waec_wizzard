@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../calculator/calculator_screen.dart';
 import '../quiz/quiz_subject_screen.dart';
 import '../theory/theory_subject_screen.dart';
 
@@ -44,6 +45,16 @@ class HomeScreen extends StatelessWidget {
                 color: scheme.tertiary,
                 onTap: () => Navigator.of(context).push(
                   MaterialPageRoute(builder: (_) => const TheorySubjectScreen()),
+                ),
+              ),
+              const SizedBox(height: 16),
+              _ModeCard(
+                icon: Icons.calculate_rounded,
+                title: 'Calculator',
+                description: 'Scientific calculator for working through problems.',
+                color: scheme.secondary,
+                onTap: () => Navigator.of(context).push(
+                  MaterialPageRoute(builder: (_) => const CalculatorScreen()),
                 ),
               ),
             ],

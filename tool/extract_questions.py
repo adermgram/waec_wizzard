@@ -346,7 +346,8 @@ def main():
     (OUT_DIR / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8"
     )
-    (OUT_DIR / "_excluded_broken.json").write_text(
+    # Reference only - not app data, so it lives beside the script, not in assets/.
+    (OUT_DIR.parent.parent / "tool" / "excluded_broken_questions.json").write_text(
         json.dumps(excluded, ensure_ascii=False, indent=1), encoding="utf-8"
     )
 

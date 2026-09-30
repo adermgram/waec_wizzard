@@ -86,9 +86,12 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
           Padding(
             padding: const EdgeInsets.only(right: 8),
             child: Center(
-              child: TextButton(
-                onPressed: _toggleAngleMode,
-                child: Text(_angleMode == AngleMode.degrees ? 'DEG' : 'RAD'),
+              child: Tooltip(
+                message: 'Toggle angle unit (currently ${_angleMode == AngleMode.degrees ? 'degrees' : 'radians'})',
+                child: TextButton(
+                  onPressed: _toggleAngleMode,
+                  child: Text(_angleMode == AngleMode.degrees ? 'DEG' : 'RAD'),
+                ),
               ),
             ),
           ),
@@ -139,25 +142,77 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                   children: [
                     // Function rows.
                     _row([
-                      _FuncButton('sin(', onTap: _inputDigitOrConstant),
-                      _FuncButton('cos(', onTap: _inputDigitOrConstant),
-                      _FuncButton('tan(', onTap: _inputDigitOrConstant),
-                      _FuncButton('^', label: 'xʸ', onTap: _inputOperator),
-                      _FuncButton('√(', label: '√', onTap: _inputDigitOrConstant),
+                      _FuncButton('sin(', semanticLabel: 'Sine', onTap: _inputDigitOrConstant),
+                      _FuncButton('cos(', semanticLabel: 'Cosine', onTap: _inputDigitOrConstant),
+                      _FuncButton('tan(', semanticLabel: 'Tangent', onTap: _inputDigitOrConstant),
+                      _FuncButton(
+                        '^',
+                        label: 'xʸ',
+                        semanticLabel: 'Power',
+                        onTap: _inputOperator,
+                      ),
+                      _FuncButton(
+                        '√(',
+                        label: '√',
+                        semanticLabel: 'Square root',
+                        onTap: _inputDigitOrConstant,
+                      ),
                     ]),
                     _row([
-                      _FuncButton('arcsin(', label: 'sin⁻¹', onTap: _inputDigitOrConstant),
-                      _FuncButton('arccos(', label: 'cos⁻¹', onTap: _inputDigitOrConstant),
-                      _FuncButton('arctan(', label: 'tan⁻¹', onTap: _inputDigitOrConstant),
-                      _FuncButton('ln(', onTap: _inputDigitOrConstant),
-                      _FuncButton('log(10,', label: 'log', onTap: _inputDigitOrConstant),
+                      _FuncButton(
+                        'arcsin(',
+                        label: 'sin⁻¹',
+                        semanticLabel: 'Inverse sine',
+                        onTap: _inputDigitOrConstant,
+                      ),
+                      _FuncButton(
+                        'arccos(',
+                        label: 'cos⁻¹',
+                        semanticLabel: 'Inverse cosine',
+                        onTap: _inputDigitOrConstant,
+                      ),
+                      _FuncButton(
+                        'arctan(',
+                        label: 'tan⁻¹',
+                        semanticLabel: 'Inverse tangent',
+                        onTap: _inputDigitOrConstant,
+                      ),
+                      _FuncButton(
+                        'ln(',
+                        semanticLabel: 'Natural log',
+                        onTap: _inputDigitOrConstant,
+                      ),
+                      _FuncButton(
+                        'log(10,',
+                        label: 'log',
+                        semanticLabel: 'Log base 10',
+                        onTap: _inputDigitOrConstant,
+                      ),
                     ]),
                     _row([
-                      _FuncButton('(', label: '(', onTap: _inputDigitOrConstant),
-                      _FuncButton(')', onTap: _inputDigitOrConstant),
-                      _FuncButton('π', onTap: _inputDigitOrConstant),
-                      _FuncButton('e', onTap: _inputDigitOrConstant),
-                      _OpButton('^2', label: 'x²', onTap: _inputOperator),
+                      _FuncButton(
+                        '(',
+                        label: '(',
+                        semanticLabel: 'Open parenthesis',
+                        onTap: _inputDigitOrConstant,
+                      ),
+                      _FuncButton(
+                        ')',
+                        semanticLabel: 'Close parenthesis',
+                        onTap: _inputDigitOrConstant,
+                      ),
+                      _FuncButton('π', semanticLabel: 'Pi', onTap: _inputDigitOrConstant),
+                      _FuncButton(
+                        'e',
+                        semanticLabel: "Euler's number",
+                        onTap: _inputDigitOrConstant,
+                      ),
+                      _OpButton(
+                        '^2',
+                        label: 'x²',
+                        semanticLabel: 'Square',
+                        onTap: _inputOperator,
+                      ),
                     ]),
                     // Digit rows, in the standard 7-8-9 / 4-5-6 / 1-2-3 / 0
                     // order, with operators consistently in the 4th column
@@ -166,27 +221,47 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                       _DigitButton('7', onTap: _inputDigitOrConstant),
                       _DigitButton('8', onTap: _inputDigitOrConstant),
                       _DigitButton('9', onTap: _inputDigitOrConstant),
-                      _OpButton('÷', onTap: _inputOperator),
-                      _ActionButton('AC', onTap: _clear, kind: _ButtonKind.action),
+                      _OpButton('÷', semanticLabel: 'Divide', onTap: _inputOperator),
+                      _ActionButton(
+                        'AC',
+                        semanticLabel: 'Clear all',
+                        onTap: _clear,
+                        kind: _ButtonKind.action,
+                      ),
                     ]),
                     _row([
                       _DigitButton('4', onTap: _inputDigitOrConstant),
                       _DigitButton('5', onTap: _inputDigitOrConstant),
                       _DigitButton('6', onTap: _inputDigitOrConstant),
-                      _OpButton('×', onTap: _inputOperator),
-                      _ActionButton('⌫', onTap: _backspace, kind: _ButtonKind.action),
+                      _OpButton('×', semanticLabel: 'Multiply', onTap: _inputOperator),
+                      _ActionButton(
+                        '⌫',
+                        semanticLabel: 'Backspace',
+                        onTap: _backspace,
+                        kind: _ButtonKind.action,
+                      ),
                     ]),
                     _row([
                       _DigitButton('1', onTap: _inputDigitOrConstant),
                       _DigitButton('2', onTap: _inputDigitOrConstant),
                       _DigitButton('3', onTap: _inputDigitOrConstant),
-                      _OpButton('-', label: '−', onTap: _inputOperator),
-                      _OpButton('/100', label: '%', onTap: _inputOperator),
+                      _OpButton(
+                        '-',
+                        label: '−',
+                        semanticLabel: 'Subtract',
+                        onTap: _inputOperator,
+                      ),
+                      _OpButton(
+                        '/100',
+                        label: '%',
+                        semanticLabel: 'Percent, divide by 100',
+                        onTap: _inputOperator,
+                      ),
                     ]),
                     _row([
                       _DigitButton('0', onTap: _inputDigitOrConstant),
                       _DigitButton('.', onTap: _inputDigitOrConstant),
-                      _OpButton('+', onTap: _inputOperator),
+                      _OpButton('+', semanticLabel: 'Add', onTap: _inputOperator),
                       _ActionButton('=', onTap: _evaluate, kind: _ButtonKind.equals),
                     ], flexes: const [2, 1, 1, 1]),
                   ],
@@ -223,12 +298,14 @@ class _CalcButton extends StatelessWidget {
   final String token;
   final _ButtonKind kind;
   final _TokenCallback onTap;
+  final String? semanticLabel;
 
   const _CalcButton({
     required this.display,
     required this.token,
     required this.kind,
     required this.onTap,
+    this.semanticLabel,
   });
 
   @override
@@ -262,20 +339,23 @@ class _CalcButton extends StatelessWidget {
 
     return Padding(
       padding: const EdgeInsets.all(4),
-      child: SizedBox.expand(
-        child: Material(
-          color: background,
-          borderRadius: BorderRadius.circular(16),
-          child: InkWell(
+      child: Tooltip(
+        message: semanticLabel ?? display,
+        child: SizedBox.expand(
+          child: Material(
+            color: background,
             borderRadius: BorderRadius.circular(16),
-            onTap: () => onTap(token),
-            child: Center(
-              child: Text(
-                display,
-                style: TextStyle(
-                  color: foreground,
-                  fontSize: 17,
-                  fontWeight: kind == _ButtonKind.equals ? FontWeight.w800 : FontWeight.w600,
+            child: InkWell(
+              borderRadius: BorderRadius.circular(16),
+              onTap: () => onTap(token),
+              child: Center(
+                child: Text(
+                  display,
+                  style: TextStyle(
+                    color: foreground,
+                    fontSize: 17,
+                    fontWeight: kind == _ButtonKind.equals ? FontWeight.w800 : FontWeight.w600,
+                  ),
                 ),
               ),
             ),
@@ -292,12 +372,12 @@ class _DigitButton extends _CalcButton {
 }
 
 class _OpButton extends _CalcButton {
-  const _OpButton(String token, {String? label, required super.onTap})
+  const _OpButton(String token, {String? label, super.semanticLabel, required super.onTap})
     : super(display: label ?? token, token: token, kind: _ButtonKind.operatorKey);
 }
 
 class _FuncButton extends _CalcButton {
-  _FuncButton(String token, {String? label, required super.onTap})
+  _FuncButton(String token, {String? label, super.semanticLabel, required super.onTap})
     : super(
         display: label ?? token.replaceAll('(', ''),
         token: token,
@@ -306,6 +386,10 @@ class _FuncButton extends _CalcButton {
 }
 
 class _ActionButton extends _CalcButton {
-  _ActionButton(String label, {required VoidCallback onTap, required super.kind})
-    : super(display: label, token: '', onTap: (_) => onTap());
+  _ActionButton(
+    String label, {
+    required VoidCallback onTap,
+    required super.kind,
+    super.semanticLabel,
+  }) : super(display: label, token: '', onTap: (_) => onTap());
 }

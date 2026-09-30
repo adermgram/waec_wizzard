@@ -24,6 +24,7 @@ class _QuizScreenState extends State<QuizScreen> {
   int _score = 0;
   int? _selected;
   bool _answered = false;
+  final List<int> _givenAnswers = [];
 
   @override
   void initState() {
@@ -43,16 +44,24 @@ class _QuizScreenState extends State<QuizScreen> {
     setState(() {
       _selected = optionIndex;
       _answered = true;
+      _givenAnswers.add(optionIndex);
       if (correct) _score++;
     });
     _player.play(AssetSource(correct ? 'audio/correct.mp3' : 'audio/wrong.mp3'));
   }
 
-  void _next(int total) {
+  void _next(int total, List<Question> questions) {
     if (_index + 1 >= total) {
       Navigator.of(context).pushReplacement(
         MaterialPageRoute(
-          builder: (_) => ResultScreen(subject: widget.subject, year: widget.year, score: _score, total: total),
+          builder: (_) => ResultScreen(
+            subject: widget.subject,
+            year: widget.year,
+            score: _score,
+            total: total,
+            questions: questions,
+            givenAnswers: _givenAnswers,
+          ),
         ),
       );
       return;
@@ -149,7 +158,7 @@ class _QuizScreenState extends State<QuizScreen> {
                     SizedBox(
                       width: double.infinity,
                       child: FilledButton(
-                        onPressed: _answered ? () => _next(total) : null,
+                        onPressed: _answered ? () => _next(total, questions) : null,
                         child: Text(_index + 1 >= total ? 'Finish' : 'Next question'),
                       ),
                     ),

@@ -1,4 +1,4 @@
-package com.example.waec_wizzard
+package com.mudasiru.waecwizard
 
 import io.flutter.embedding.android.FlutterActivity
 
